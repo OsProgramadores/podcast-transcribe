@@ -5,7 +5,7 @@ from transformers import M2M100ForConditionalGeneration, M2M100Tokenizer
 import torch
 
 # Read the file content
-with open('E75.srt', 'r', encoding='utf-8') as file:
+with open('E75/transcribe-en.srt', 'r', encoding='utf-8') as file:
     content = file.read()
 
 # Tokenize the content into sentences
