@@ -1,0 +1,1838 @@
+WEBVTT
+
+00:00.000 --> 00:07.360
+Hi folks, I have the privilege of having Brian Kernigan here with me today.
+
+00:07.360 --> 00:08.360
+How are you doing, Brian?
+
+00:08.360 --> 00:09.680
+Marcelo, I'm doing fine.
+
+00:09.680 --> 00:11.280
+It's a pleasure to talk to you.
+
+00:11.280 --> 00:13.440
+And thank you so much for joining me.
+
+00:13.440 --> 00:14.960
+You work at Princeton today, right?
+
+00:14.960 --> 00:18.600
+So you teach a course named Computers in Our World.
+
+00:18.600 --> 00:21.920
+And I'm just wondering if you could tell us a little bit about the work at Princeton.
+
+00:21.920 --> 00:22.920
+Sure.
+
+00:22.920 --> 00:25.120
+So I've been at Princeton a little over 20 years now.
+
+00:25.120 --> 00:30.880
+And for a lot of that time, I have been teaching every fall a course that, as you say, is called
+
+00:30.880 --> 00:32.880
+Computers in Our World.
+
+00:32.880 --> 00:37.840
+It's basically a course about computing and communications for people who are very, very
+
+00:37.840 --> 00:42.640
+non-technical, a typical person in the class, a history major, maybe an English major, maybe
+
+00:42.640 --> 00:45.840
+a music major, something like that.
+
+00:45.840 --> 00:52.000
+And so what I'm trying to do is to tell them about technology that is already having a
+
+00:52.000 --> 00:56.480
+tremendous effect on their lives and is likely to continue to do so in the future.
+
+00:56.480 --> 01:01.680
+So the hope is that by the end of the course, they will understand a lot more about the
+
+01:01.680 --> 01:05.680
+things that go on in the world around them that are technical, because so much of that is
+
+01:05.680 --> 01:07.920
+based on computing.
+
+01:07.920 --> 01:14.720
+Going back in time, and I know you're going to tell me in a few minutes, but how did programming
+
+01:14.720 --> 01:15.560
+come into your life?
+
+01:15.560 --> 01:20.600
+I realize the programming back then was very different than today, but I was just wondering,
+
+01:20.600 --> 01:22.920
+how did programming come into your life?
+
+01:22.920 --> 01:28.200
+Well, you know, back in those days, there were dinosaurs still walking the earth.
+
+01:28.200 --> 01:31.560
+And so it was a very different kind of computing environment.
+
+01:31.560 --> 01:37.960
+I actually didn't encounter my first computer until I think I was probably at the end of my
+
+01:37.960 --> 01:41.640
+third year in university, somewhere in around that.
+
+01:41.640 --> 01:47.560
+And I saw a bit of computing at the university and I had a summer job that had there was a
+
+01:47.560 --> 01:50.440
+computer nearby, although I didn't actually use it.
+
+01:50.440 --> 01:55.480
+And so I think it wasn't until my last year as an undergraduate at the University of Toronto
+
+01:55.480 --> 01:58.840
+that I actually used a computer for anything.
+
+01:58.840 --> 02:00.840
+And even that was fairly superficial.
+
+02:01.640 --> 02:06.600
+But then I had internships and I did graduate work at Princeton.
+
+02:06.600 --> 02:10.200
+And so I did more computing at that point.
+
+02:10.200 --> 02:16.040
+So it slowly crept into my life, but not very early compared to most people these days.
+
+02:16.040 --> 02:21.400
+Going a little bit back further in time, can you tell us a little bit about your high school
+
+02:21.400 --> 02:26.840
+experience and what led you to your bachelor degree in engineering physics at the University
+
+02:26.840 --> 02:27.880
+of Toronto?
+
+02:27.880 --> 02:28.520
+Sure.
+
+02:28.520 --> 02:34.680
+So I grew up in southern Ontario, basically in Toronto.
+
+02:35.400 --> 02:43.960
+And then we moved when I was about 15 to a very small town outside of Toronto, maybe 50,
+
+02:43.960 --> 02:47.000
+60 kilometres west of Toronto.
+
+02:47.000 --> 02:50.680
+And so it was a very, very small high school, very, very small class.
+
+02:50.680 --> 02:56.680
+And so there wasn't much there that had anything to do with other than just the basics of
+
+02:56.680 --> 02:57.640
+education.
+
+02:57.640 --> 02:59.720
+But my father was a chemical engineer.
+
+03:00.280 --> 03:06.680
+He ran a very small chemical company and he had been a chemical engineering major at the
+
+03:06.680 --> 03:08.200
+University of Toronto.
+
+03:08.200 --> 03:13.400
+And so it seemed like sort of the natural thing for me to do to go to University of Toronto.
+
+03:13.400 --> 03:16.200
+But I didn't have any real interest in chemistry.
+
+03:16.200 --> 03:19.880
+I was probably more interested in electronics.
+
+03:20.440 --> 03:23.240
+And so I wasn't sure what to do.
+
+03:23.240 --> 03:27.960
+And I had a high school math teacher who suggested that I take the course that you
+
+03:27.960 --> 03:30.120
+mentioned called engineering physics.
+
+03:30.120 --> 03:35.640
+And what that was, was basically a lot of engineering, but also a lot of math, physics
+
+03:35.640 --> 03:40.840
+and chemistry for kids who were interested in engineering, or at least thought they were,
+
+03:40.840 --> 03:42.760
+but didn't know what kind.
+
+03:42.760 --> 03:45.800
+And so it was a fairly very challenging course.
+
+03:45.800 --> 03:49.800
+It was the kind of thing that in other schools might have been called a weed out course,
+
+03:49.800 --> 03:53.880
+that is to weed out the people who for whom it wasn't the right choice.
+
+03:53.880 --> 03:58.840
+And it was four years of very hard work, but I did get a pretty solid background in a lot
+
+03:58.840 --> 04:03.720
+of different things, both the call it the more theoretical and lots of math courses
+
+04:03.720 --> 04:08.200
+that were useful in physics and chemistry, but also some practical engineering sorts
+
+04:08.200 --> 04:08.600
+of things.
+
+04:09.400 --> 04:12.440
+Because there was, for example, a component about civil engineering.
+
+04:12.440 --> 04:15.320
+And so we learned about concrete and reinforced beams and so on.
+
+04:15.320 --> 04:19.720
+So it was a very tough course, but it was kind of satisfying in a way.
+
+04:19.720 --> 04:23.640
+I don't think I've ever worked that hard in my life since just to get through that.
+
+04:23.640 --> 04:28.600
+I was hoping you could tell us a little bit about your PhD as well.
+
+04:28.600 --> 04:33.880
+I think you did a PhD in electrical engineering from Princeton in 1969, correct?
+
+04:34.520 --> 04:35.720
+Yes, that's right.
+
+04:35.720 --> 04:42.040
+So after I graduated from Toronto in 1964 in this course called engineering physics,
+
+04:42.040 --> 04:43.720
+which is now called engineering science.
+
+04:43.720 --> 04:46.440
+They changed the name just after I graduated.
+
+04:46.440 --> 04:47.880
+And I went to Princeton.
+
+04:47.880 --> 04:52.440
+I had applied to a number of universities, mostly in the United States.
+
+04:52.440 --> 04:57.400
+It wasn't all that common for Canadians to go to the United States for graduate school.
+
+04:57.400 --> 05:01.480
+It was much more typical for people to simply go straight to work or if they were going to
+
+05:01.480 --> 05:03.560
+go to grad school to stay in Canada.
+
+05:03.560 --> 05:08.280
+But I went to Princeton in part because I had a good friend who had been a year ahead of me
+
+05:08.280 --> 05:12.040
+at Toronto and had then gone to Princeton as well.
+
+05:12.040 --> 05:16.280
+This is Al Ajo who shared that Turing Award last year.
+
+05:16.280 --> 05:18.840
+So very, very distinguished guy.
+
+05:18.840 --> 05:23.240
+But I went to Princeton and there was no computer science department at point.
+
+05:23.240 --> 05:29.240
+It was, there was a small collection of very young faculty in the electrical engineering
+
+05:29.240 --> 05:31.880
+department who were interested in computing.
+
+05:31.960 --> 05:34.680
+Computing at that point was a very, very young field.
+
+05:35.640 --> 05:40.840
+Much too early to have separate departments and not really quite clear what the topics
+
+05:40.840 --> 05:43.480
+of a computer science degree ought to be.
+
+05:43.480 --> 05:45.560
+But it was a good group of people.
+
+05:45.560 --> 05:47.160
+Princeton was a great place to be.
+
+05:47.800 --> 05:58.280
+And so I spent four and a half years at Princeton getting my PhD and graduated very early in 1969.
+
+05:58.840 --> 06:01.720
+How did you get to Bell Labs?
+
+06:01.720 --> 06:05.320
+I think you're an intern at Bell Labs at some point in time, correct?
+
+06:06.280 --> 06:07.000
+Yeah.
+
+06:07.000 --> 06:11.960
+What happened there is at the end, I think of my second full year at Princeton,
+
+06:11.960 --> 06:19.480
+I got an internship at MIT and I was working in the group that had developed CTSS,
+
+06:19.480 --> 06:24.040
+the Compatible Time Sharing System, which is a very, very nice computing environment.
+
+06:24.040 --> 06:26.600
+And one of the probably the first like it.
+
+06:26.840 --> 06:32.840
+That group had just embarked on the Multics project, which was an attempt to do all of
+
+06:32.840 --> 06:40.280
+the things in CTSS, but do them better, bigger, faster, more complicated, more of everything.
+
+06:40.280 --> 06:46.920
+I got that internship at MIT, I think through good luck, but also because a Princeton grad
+
+06:46.920 --> 06:50.760
+student had been there the summer before, had done a good job and they probably thought
+
+06:50.760 --> 06:52.520
+Princeton people would work out okay.
+
+06:52.520 --> 06:59.000
+So I spent a summer there in what was called Project MAC and working on tools for this new
+
+06:59.000 --> 07:00.920
+Multics operating system.
+
+07:00.920 --> 07:07.960
+And as part of that, I sort of knew of work at Bell Labs, which was going on because Multics
+
+07:07.960 --> 07:15.000
+was a joint project between MIT and General Electric, which made hardware computers at
+
+07:15.000 --> 07:19.480
+that time, and Bell Labs, which was a real software operation.
+
+07:20.040 --> 07:22.360
+And I think that gave me some contact.
+
+07:22.360 --> 07:30.280
+And in the following summer, it would be the summer of 1967, I got again through probably
+
+07:30.280 --> 07:36.520
+just good fortune annoying people an internship at Bell Labs in the research department in
+
+07:37.320 --> 07:44.840
+Murray Hill, New Jersey, sort of 40 kilometers west, southwest of New York.
+
+07:45.640 --> 07:47.800
+So I spent that summer there.
+
+07:47.800 --> 07:54.440
+I worked with Doug McElroy and I had such a good time that when they offered me a chance
+
+07:54.440 --> 07:59.320
+to come back the next summer, that is the summer in 1968, I came back again.
+
+07:59.320 --> 08:03.080
+And at that point, I actually had to get serious about a thesis.
+
+08:03.080 --> 08:11.640
+So I worked with Shen Lin on a combinatorial optimization problem that my thesis advisor
+
+08:11.640 --> 08:15.960
+had suggested and Shen and I came up with heuristic techniques for solving.
+
+08:16.760 --> 08:19.560
+The problem was called graph partitioning.
+
+08:19.560 --> 08:25.160
+Take a graph that is kind of graph that has nodes and edges, and you try and divide the
+
+08:25.160 --> 08:32.520
+nodes into two equal sized piles such that the number of edges that goes from one side
+
+08:32.520 --> 08:35.080
+to the other side is as small as possible.
+
+08:35.080 --> 08:39.320
+It's called graph partitioning because you're partitioning the graph into two equal size
+
+08:39.320 --> 08:39.960
+pieces.
+
+08:39.960 --> 08:44.040
+And we never did figure out an efficient way to solve this problem.
+
+08:44.040 --> 08:49.160
+But Shen and I came up with a heuristic that did a decent job on it.
+
+08:49.160 --> 08:54.200
+And I came up with a couple of special cases where you could actually do an efficient
+
+08:54.200 --> 08:54.920
+computation.
+
+08:55.880 --> 08:57.800
+And that turned into a thesis.
+
+08:57.800 --> 09:02.360
+It turned out that, of course, at about the same time, other people were doing theoretical
+
+09:02.360 --> 09:06.920
+work on why is it that some problems seem to be so hard?
+
+09:07.000 --> 09:16.280
+And this was the work of, in particular, Stephen Cook on the idea of NP completeness of problems
+
+09:16.280 --> 09:21.960
+that were easy to prove that you had the right answer but not easy to solve.
+
+09:21.960 --> 09:28.040
+And it turns out the graph partitioning is a fine example of an NP complete problem.
+
+09:28.040 --> 09:32.520
+And so that's the reason that we never came up with a technique that was guaranteed to
+
+09:32.520 --> 09:33.880
+be efficient.
+
+09:33.880 --> 09:41.080
+So long story short, I did actually finish my thesis and went to Bell Labs as a permanent
+
+09:41.080 --> 09:44.360
+employee right at the beginning of 1969.
+
+09:44.360 --> 09:51.160
+Brian, I was hoping you could give a brief overview to our audience of how computers
+
+09:51.160 --> 09:53.560
+and computing in general looked like back then.
+
+09:54.120 --> 09:56.520
+And you also mentioned mucics.
+
+09:56.520 --> 10:01.240
+And I was wondering if you could speak a little bit more about mucics and explain the
+
+10:01.240 --> 10:05.000
+importance of mucics in the evolution of operating systems.
+
+10:05.960 --> 10:06.280
+Yes.
+
+10:06.920 --> 10:08.680
+Again, back to the dinosaur comment.
+
+10:09.400 --> 10:16.040
+When I started computing, there were only a very small number of computers in existence, period.
+
+10:16.040 --> 10:18.760
+They tended to be very large computers physically.
+
+10:21.720 --> 10:28.760
+At the University of Toronto, there was one big computer called an IBM 7094, I guess.
+
+10:28.840 --> 10:31.400
+And it served the entire university community.
+
+10:31.400 --> 10:34.360
+It may have been the only big computer in the whole country.
+
+10:34.360 --> 10:41.480
+And so that meant that you had to use it by writing a program on punch cards, which were
+
+10:41.880 --> 10:45.480
+basically pieces of paper with holes in them representing information.
+
+10:45.480 --> 10:50.360
+And so you would take a few hundred or a few thousand of these cards, which had a program
+
+10:50.360 --> 10:56.360
+and its data, and you would hand it to an operator who would hand it to the computer.
+
+10:56.760 --> 11:00.760
+And sometime later, you might get your results on printed pieces of paper.
+
+11:01.640 --> 11:04.280
+And if you made a mistake, you had to repeat the whole process.
+
+11:05.160 --> 11:06.200
+And so it was very slow.
+
+11:06.200 --> 11:10.600
+You might be lucky to get a run of your program every hour or two.
+
+11:10.600 --> 11:12.840
+It might even take a day before you got results.
+
+11:12.840 --> 11:18.280
+And so that part of the world was very different compared to what we see today, where you
+
+11:19.240 --> 11:26.280
+interactively type a program into a computer and say, compile it, and then you can do the
+
+11:26.440 --> 11:28.040
+and a few seconds later it's done.
+
+11:28.040 --> 11:33.080
+The thing that I mentioned, CTSS, the Compatible Time Sharing System, and what that was, it
+
+11:33.080 --> 11:37.000
+used basically the same computer actually in IBM 7094.
+
+11:37.560 --> 11:43.800
+But what it did was to share the computing resources of that computer with a number of
+
+11:44.440 --> 11:46.280
+users, perhaps 20 or 30.
+
+11:47.320 --> 11:52.040
+And it simply switched its attention very quickly from one user to the next to the next.
+
+11:52.040 --> 11:53.800
+And of course, most users weren't doing anything.
+
+11:53.800 --> 11:54.920
+They were sitting there thinking.
+
+11:55.560 --> 12:00.280
+And so it gave each user the illusion that they had the whole computer to themselves
+
+12:00.280 --> 12:02.760
+by doing this time sharing idea.
+
+12:03.400 --> 12:07.080
+And it was incredibly more productive and incredibly nicer than punch cards.
+
+12:08.040 --> 12:15.320
+Programs were stored on a disk on the computer and results were printed on your own terminal.
+
+12:15.320 --> 12:19.080
+That is a device like an electric typewriter that printed on paper.
+
+12:19.080 --> 12:21.800
+And so in that sense, the world was very different.
+
+12:22.360 --> 12:26.040
+So CTSS was a very productive, very nice environment.
+
+12:26.040 --> 12:28.760
+It's hard to describe just how nice it was for the time.
+
+12:29.560 --> 12:38.280
+And so what Multics was, and that's M-U-L-T-I-C-S, what Multics was, was an attempt to take the good
+
+12:38.280 --> 12:40.680
+ideas in CTSS and scale them up.
+
+12:41.800 --> 12:45.080
+It was meant to be an information utility.
+
+12:45.080 --> 12:48.840
+That is something where people could just use computing from wherever they were.
+
+12:48.920 --> 12:51.640
+There would be a central computer that would provide service.
+
+12:52.840 --> 12:56.920
+Both of these things sound, of course, very much like cloud computing today.
+
+12:56.920 --> 12:59.480
+And I suppose arguably that's what they were.
+
+12:59.480 --> 13:06.920
+So Multics was a joint project between, as I mentioned, MIT, General Electric, and Labs.
+
+13:06.920 --> 13:12.840
+It was physically mostly at MIT because they had done CTSS.
+
+13:12.840 --> 13:18.520
+They had that expertise and that computer system very easily available.
+
+13:19.160 --> 13:24.840
+But other people from Bell Labs could use it remotely, basically by telephone lines,
+
+13:25.800 --> 13:29.720
+very early version of internet-like connections today.
+
+13:29.720 --> 13:35.080
+And so that environment was actually very, very productive and a lot of fun.
+
+13:35.080 --> 13:40.120
+And I think that's actually the place where I first got seriously into computing because
+
+13:40.120 --> 13:45.240
+I discovered it was great fun when you didn't have so many of these obstacles like punch cards
+
+13:45.240 --> 13:49.960
+and having to wait for jobs to go through operators and things like that.
+
+13:49.960 --> 13:55.400
+And some time ago, you mentioned that if you're ever stranded on an island
+
+13:56.040 --> 14:00.840
+with only one programming language, you would have to be C. Can you tell us why?
+
+14:02.920 --> 14:05.240
+I think, well, partly it's familiarity.
+
+14:05.240 --> 14:10.520
+I grew up with C because it was created by Dennis Ritchie, who is a colleague at Bell Labs.
+
+14:11.400 --> 14:16.360
+But I think in some sense, C is a fundamental tool.
+
+14:16.360 --> 14:18.680
+It doesn't rely on very much of anything else.
+
+14:18.680 --> 14:22.040
+It doesn't need a big runtime support from an environment.
+
+14:22.040 --> 14:23.720
+In fact, it doesn't need any at all.
+
+14:23.720 --> 14:25.800
+And it's a very simple, straightforward language.
+
+14:25.800 --> 14:31.400
+You could imagine building a compiler for it fairly easily for almost any target architecture
+
+14:32.040 --> 14:33.480
+that would be good enough.
+
+14:33.480 --> 14:38.440
+And so in a sense, you could build anything else with C.
+
+14:39.080 --> 14:43.480
+In fact, if you look at the implementation of an awful lot of the tools that we use today,
+
+14:44.040 --> 14:50.120
+they're in some sense a shell around a bunch of libraries that are written in C
+
+14:50.120 --> 14:54.200
+because C is both expressive but also very, very efficient.
+
+14:54.200 --> 14:56.440
+And the efficiency mattered a tremendous amount.
+
+14:56.440 --> 15:02.360
+C was developed in roughly 1972, let's say, so about 50 years ago.
+
+15:02.360 --> 15:07.160
+And at that point, computers were very, very much less powerful than they are today.
+
+15:07.880 --> 15:10.680
+They didn't run very fast and they had very little memory.
+
+15:11.240 --> 15:15.000
+And so you had to make really effective use of all of the resources.
+
+15:15.000 --> 15:16.920
+And so C made it possible to do that.
+
+15:16.920 --> 15:18.760
+You could get very close to the computer.
+
+15:18.760 --> 15:25.320
+You could actually control what was going on in a way that is hard today with languages
+
+15:25.320 --> 15:29.960
+which are so much higher level and have so many layers of libraries between
+
+15:30.760 --> 15:34.760
+what you write as a programmer and what actually gets executed by the hardware.
+
+15:34.840 --> 15:39.800
+Yes, if I had only one language on a desert island, I would choose C
+
+15:39.800 --> 15:43.400
+because with that principle, at least I could build anything else.
+
+15:43.400 --> 15:48.360
+You still remember the first time they saw programming C and you tried yourself?
+
+15:48.360 --> 15:53.480
+The evolution is a little different, I think, in the very early days.
+
+15:53.480 --> 15:59.960
+Unless, again, this is the very early days of UNIX, call it 1970, 71, something like that.
+
+16:00.200 --> 16:08.680
+Kent, first, people in the Multex project had been experimenting with writing all of
+
+16:08.680 --> 16:11.640
+the software for the system in a high level language.
+
+16:12.360 --> 16:20.520
+They started out with a version of PL1, which was a very big, terrifyingly complicated language
+
+16:20.520 --> 16:21.800
+that IBM had developed.
+
+16:21.800 --> 16:23.000
+That didn't work very well.
+
+16:23.000 --> 16:27.560
+So they switched to a language called BCPL, which was done by Martin Richards
+
+16:27.560 --> 16:29.080
+at the University of Cambridge.
+
+16:29.240 --> 16:30.200
+That was a lot better.
+
+16:30.200 --> 16:32.600
+It was a much simpler, more straightforward language.
+
+16:35.800 --> 16:42.280
+Ken Thompson, who had been involved in all of this, at some point created an even simpler
+
+16:42.280 --> 16:45.160
+version of BCPL, which he called B.
+
+16:47.080 --> 16:52.600
+That language was superficially, it sort of looks like what C does today.
+
+16:53.080 --> 16:59.720
+I programmed a bit in B, not a lot, but enough that I knew what was going on.
+
+17:00.520 --> 17:06.920
+I wrote a tutorial document for B, sort of how to get started for the benefit of other
+
+17:06.920 --> 17:09.720
+people who hadn't yet learned it.
+
+17:11.480 --> 17:21.320
+Then Dennis Ritchie took B and basically added type information so that instead of the single
+
+17:21.400 --> 17:29.960
+data type that B provided, which is basically 16 bit integers, he converted it to a language
+
+17:29.960 --> 17:35.960
+which had data types like integers, perhaps of a couple of sizes, characters or one byte
+
+17:37.160 --> 17:41.480
+quantities, and eventually even floating point numbers.
+
+17:42.680 --> 17:45.560
+And he called that language C as a follow on to B.
+
+17:46.200 --> 17:52.280
+The difference between B and C was basically that idea now there were data types in the
+
+17:52.280 --> 17:52.760
+language.
+
+17:52.760 --> 17:57.640
+The language supported different kinds of data and did what was necessary to manipulate them
+
+17:57.640 --> 17:58.840
+as their own type.
+
+18:00.440 --> 18:05.880
+I took the B tutorial, which I had written, and upgraded it to a C tutorial.
+
+18:06.600 --> 18:11.640
+Again, so that partly to help myself learn the language, but also to help other people
+
+18:11.640 --> 18:14.920
+who hadn't encountered it yet and to get them off the ground.
+
+18:16.120 --> 18:21.480
+That transition is probably when I first started writing C, but I obviously don't remember at
+
+18:21.480 --> 18:25.480
+this point what my first C programs were or anything like that.
+
+18:25.480 --> 18:26.520
+I just have no memory of it.
+
+18:29.320 --> 18:30.520
+You mentioned Dennis Ritchie.
+
+18:30.520 --> 18:34.840
+Can you tell us a little bit about your work with Dennis Ritchie and what led you guys
+
+18:34.840 --> 18:37.720
+writing the C language book together?
+
+18:37.720 --> 18:41.640
+Yeah, so Dennis was a colleague in the same group as I was.
+
+18:41.640 --> 18:43.720
+He and I were about the same age.
+
+18:44.360 --> 18:52.840
+He had arrived at Bell Labs probably, roughly, while I was an intern there, he might have
+
+18:52.840 --> 18:58.760
+started his permanent job there, roughly that period of 1968 or 1969.
+
+18:58.760 --> 19:02.520
+We were in the same group, and so I knew him through that.
+
+19:04.200 --> 19:09.320
+I had, as I say, been writing these tutorials first for B and then the one for C.
+
+19:10.280 --> 19:13.320
+And C was becoming somewhat more popular.
+
+19:13.320 --> 19:17.960
+Certainly people who used it on Unix, which was at that time really the only place where
+
+19:17.960 --> 19:19.240
+you could use it, liked it.
+
+19:19.240 --> 19:25.400
+And so at some point I suggested to Dennis that we should write a book about C.
+
+19:26.280 --> 19:32.120
+I don't think he was originally very interested in it, but I twisted his arm and he said,
+
+19:32.120 --> 19:33.240
+okay, we'll do it.
+
+19:33.240 --> 19:36.600
+The reason I twisted his arm, well, a couple of reasons, I guess.
+
+19:36.600 --> 19:40.600
+But one is that he had written a reference manual for C.
+
+19:40.600 --> 19:44.680
+That is a very careful, precise description of the C programming language.
+
+19:45.480 --> 19:50.920
+And I wanted that reference manual as a part of a book.
+
+19:50.920 --> 19:53.240
+And the other thing is that he was just a great writer.
+
+19:53.240 --> 19:59.080
+And he really had the ability to write clearly and concisely and accurately and with a certain
+
+19:59.080 --> 20:01.720
+amount of flair and even dry humor.
+
+20:02.680 --> 20:07.400
+So he was absolutely a wonderful person to co-write a book with.
+
+20:07.400 --> 20:12.200
+So he eventually agreed and we wrote a C book.
+
+20:12.200 --> 20:16.920
+I wrote most of the first draft of most of the chapters.
+
+20:17.640 --> 20:22.280
+And the reference manual, I think we basically didn't change anything because it was so good.
+
+20:22.280 --> 20:28.600
+And then we made multiple passes over it to smooth out the, so it was a kind of a merger
+
+20:28.600 --> 20:30.360
+of our styles.
+
+20:30.360 --> 20:31.800
+And that was the C book.
+
+20:31.800 --> 20:37.240
+And of course, as a life-changing thing, that is by far the most important one that I ever
+
+20:37.240 --> 20:38.040
+did technically.
+
+20:38.760 --> 20:44.760
+The reason you and I are talking together is precisely because I worked with Dennis
+
+20:44.760 --> 20:45.560
+on that C book.
+
+20:45.560 --> 20:49.720
+You're also the one who came up with the Unix term, right?
+
+20:49.720 --> 20:54.840
+So, and I was wondering if you could tell us a little bit about how did you come up
+
+20:54.840 --> 21:00.200
+with that term and how was your work with Ken Thompson and others at that time?
+
+21:00.600 --> 21:05.400
+Yeah, so the name Unix, my memory of this, and this is one of these things that is sort
+
+21:05.400 --> 21:07.240
+of lost in the midst of time.
+
+21:08.760 --> 21:17.000
+My memory is that the new system, this system, which today we know as Unix, had been written
+
+21:17.000 --> 21:20.360
+primarily by Ken Thompson at that point with some help from Dennis.
+
+21:20.360 --> 21:22.440
+I'm not sure exact timing.
+
+21:22.440 --> 21:27.000
+And people were standing around basically outside the offices.
+
+21:27.000 --> 21:32.280
+We were all on a long corridor and wondering about a name for this system.
+
+21:32.920 --> 21:38.920
+And I suggested that since they had all been working on this thing called Multics, which
+
+21:38.920 --> 21:45.000
+was many of everything, back to the Latin roots of multi, many of everything.
+
+21:45.000 --> 21:50.200
+And this new system that Ken had created was at most one of anything.
+
+21:50.200 --> 21:53.240
+And so again, if you think of the Latin roots, no.
+
+21:53.400 --> 21:59.320
+And so I suggested we call Unix as in U-N-I-C-S.
+
+21:59.320 --> 22:07.320
+And somebody, and I have no idea who, made the great improvement of changing it to U-N-I-X,
+
+22:07.320 --> 22:09.240
+and that name stuck.
+
+22:09.240 --> 22:10.360
+Is that the right story?
+
+22:10.360 --> 22:15.400
+That's what I remember, but I've told this enough times now that it should be treated
+
+22:15.400 --> 22:16.360
+with suspicion.
+
+22:16.360 --> 22:20.120
+There are certainly other people there who might also have contributed, in particular
+
+22:21.080 --> 22:26.600
+Peter Neumann, who was part of the original Unix group and was well known as a guy who
+
+22:26.600 --> 22:28.200
+just loved to create puns.
+
+22:28.200 --> 22:31.080
+And so Peter might well have done something like that as well.
+
+22:31.080 --> 22:33.320
+And I simply don't know at this point.
+
+22:33.320 --> 22:34.600
+I worked with Ken.
+
+22:34.600 --> 22:41.480
+I had nothing to do with the Unix operating system or the C programming language itself.
+
+22:41.480 --> 22:47.160
+I contributed documentation, obviously, like the book with Dennis and a fair number of
+
+22:47.160 --> 22:49.720
+useful tools that go with Unix.
+
+22:49.720 --> 22:51.960
+But I had nothing to do with the system themselves.
+
+22:51.960 --> 22:57.080
+I think the only time that ever really worked with Ken himself is that at some point,
+
+22:57.080 --> 23:03.720
+probably in the late 70s, I was very interested in document preparation systems.
+
+23:03.720 --> 23:11.640
+We had gotten a typesetter that is a device for printing high quality stuff on paper.
+
+23:11.640 --> 23:15.000
+Think of it as a early precursor of laser printers today.
+
+23:16.440 --> 23:18.840
+And it came with terrible software.
+
+23:18.840 --> 23:21.640
+And so Ken created useful software for that.
+
+23:21.640 --> 23:27.400
+And I built on top of the software to make it a useful device for our basically internal
+
+23:27.400 --> 23:27.880
+printing.
+
+23:27.880 --> 23:29.960
+And so I worked with Ken on that.
+
+23:29.960 --> 23:36.520
+But that's other than that as a friend, but no actual technical work with him beyond that.
+
+23:36.520 --> 23:40.280
+It must have been an incredible, absolutely incredible time.
+
+23:40.280 --> 23:46.200
+Brian, I was hoping you could tell us a little bit about the development of Auck and also
+
+23:46.200 --> 23:46.840
+Ample.
+
+23:46.840 --> 23:47.640
+Sure.
+
+23:47.640 --> 23:54.600
+So Auck was, still is, a language that was meant to make it really easy to do simple
+
+23:54.600 --> 24:00.920
+text and merit processing, the kind of thing where you want to stream a bunch of data past
+
+24:00.920 --> 24:07.080
+a process that does something to it, like identify interesting things or accumulate
+
+24:07.080 --> 24:09.480
+data or transform it along the way.
+
+24:09.480 --> 24:13.400
+Sort of a stream processing kind of programming language.
+
+24:13.960 --> 24:20.520
+It was created in 1977 by Al Ajo and Peter Weinberger and I.
+
+24:20.520 --> 24:23.880
+And that explains the rather odd name.
+
+24:25.000 --> 24:29.640
+And we created it fairly quickly because we had really, really good tools available to
+
+24:29.640 --> 24:29.960
+us.
+
+24:29.960 --> 24:31.640
+It was written in C, of course.
+
+24:32.520 --> 24:38.280
+The grammar was specified in the Ack, which is the compiler-compiler parser generator
+
+24:38.280 --> 24:39.960
+that Steve Johnson had created.
+
+24:40.520 --> 24:47.320
+The lexical analysis was done by Lex, which was an analogous program that Mike Lesk had
+
+24:47.320 --> 24:51.400
+created for basically tokenizing inputs very efficiently.
+
+24:51.400 --> 24:53.080
+And so we put all that stuff together.
+
+24:53.080 --> 24:56.600
+Peter did the first implementation, I think, literally over a weekend.
+
+24:56.600 --> 24:58.360
+And it's been used ever since.
+
+24:58.360 --> 25:02.760
+I mean, right now, if I were not talking to you, I would be working on the second edition
+
+25:02.760 --> 25:07.240
+of the Auck book, which we wrote a long time ago, and trying to improve the code.
+
+25:07.240 --> 25:12.280
+So it's still very, very widely used, kind of a core Unix tool at this point.
+
+25:13.160 --> 25:21.320
+It's the precursor in a way of languages like Perl and then less so, but in that same spirit,
+
+25:21.320 --> 25:26.040
+scripting languages like Python and JavaScript and so on.
+
+25:26.040 --> 25:31.480
+The idea that instead of compiling the language, you would interpret it.
+
+25:31.480 --> 25:36.200
+Therefore, you could get off the ground more quickly and also they were much more portable
+
+25:36.200 --> 25:42.360
+because you didn't have to generate code for each individual computer architecture.
+
+25:42.920 --> 25:43.720
+So that's Auck.
+
+25:44.760 --> 25:46.200
+Still very much alive and well.
+
+25:47.160 --> 25:48.840
+The other one you mentioned is Ample.
+
+25:48.840 --> 25:54.680
+And Ample is a language for specifying mathematical optimization problems.
+
+25:54.680 --> 25:58.360
+Things like linear programming is the most obvious example where you have a system
+
+25:59.000 --> 26:06.680
+of equations that represent constraints on how much of things you need or have to have
+
+26:06.680 --> 26:10.760
+or something like that, and an objective function that you want to optimize.
+
+26:10.760 --> 26:16.280
+So you use it for things like scheduling crews on airlines or figuring out how to feed
+
+26:16.280 --> 26:21.160
+large numbers of people, give them enough calories, all kinds of things like that.
+
+26:21.160 --> 26:26.280
+Scheduling classrooms, packing things into boxes, all sorts of things are basically
+
+26:26.280 --> 26:27.480
+optimization problems.
+
+26:28.040 --> 26:33.640
+All of them can be specified in a language that sort of looks like mathematics,
+
+26:33.640 --> 26:39.240
+as you might write it on the board, but is more precise and processable by a computer.
+
+26:39.240 --> 26:40.840
+Ample is that language.
+
+26:40.840 --> 26:47.480
+And an Ample specification of a problem is converted into instructions for a solver,
+
+26:47.480 --> 26:51.480
+which knows how to solve things like, let's say, linear programming problems.
+
+26:51.480 --> 26:56.120
+The solver does its thing, finds a solution, sends that back to Ample,
+
+26:56.120 --> 27:01.000
+and Ample displays the results in the terms of the person who had the original problem.
+
+27:01.000 --> 27:06.840
+And so Ample was not the first such language, but I think has proven over the years to be by far the
+
+27:06.840 --> 27:12.840
+most successful of these, but it's a much more narrow area, more specialized than something like
+
+27:12.840 --> 27:15.480
+AUC, but it's still very much around.
+
+27:15.480 --> 27:21.800
+There is a small company that I created with the two people who actually did more of the work on
+
+27:22.520 --> 27:28.520
+Ample at the time, Bob Forer, who was a professor at Northwestern University, and Dave Gay,
+
+27:28.520 --> 27:31.240
+who was one of my colleagues at Bell Labs.
+
+27:31.240 --> 27:39.000
+So we created this in the mid 1980s, and I wrote the original version, and Dave Gay took it over
+
+27:39.000 --> 27:41.960
+somewhat after that and has maintained it since.
+
+27:41.960 --> 27:49.960
+And we created a small company in about 2000 to keep Ample going, and that company is still alive
+
+27:50.360 --> 27:56.200
+and well, thriving at this point, although I don't have very much direct contact, or I'm not
+
+27:56.200 --> 27:59.640
+doing anything directly with the company per se at this point.
+
+27:59.640 --> 28:05.400
+But again, a specialized language is both AUC and Ample are, I guess, examples of what I might call
+
+28:05.400 --> 28:09.960
+little languages, languages that focus on a particular domain.
+
+28:09.960 --> 28:15.800
+Because of that, they get smaller and simpler than general purpose languages like C or C++,
+
+28:15.800 --> 28:16.520
+things like that.
+
+28:16.520 --> 28:21.800
+They're also called domain specific languages, I guess, if you're looking for more familiar terminology.
+
+28:21.800 --> 28:27.560
+And talking about other languages, you wrote a book about the goal programming language,
+
+28:27.560 --> 28:29.240
+I think, with Alan Donovan.
+
+28:29.240 --> 28:33.000
+And do you think that you could take a go to an island as well?
+
+28:35.000 --> 28:37.880
+I probably wouldn't for a couple of reasons.
+
+28:37.880 --> 28:43.640
+One, the book that I wrote with Alan Donovan mostly is his work.
+
+28:43.640 --> 28:45.000
+He's just an amazing programmer.
+
+28:45.960 --> 28:49.400
+And he knows Go inside out like very few other people.
+
+28:50.280 --> 28:54.600
+And so, 90% of the work on the book was really Alan's.
+
+28:55.480 --> 29:00.040
+And I was not nearly as involved in that sense.
+
+29:01.080 --> 29:04.840
+Go is a nice language, and it does some things very nicely indeed.
+
+29:04.840 --> 29:09.960
+It's very good for network servers, crawlers, things like that where you want to synchronize
+
+29:09.960 --> 29:16.280
+multiple processes very efficiently, very, very large numbers of things going on simultaneously.
+
+29:16.280 --> 29:22.200
+And it looks very much like C as well, sometimes been described as C for the 21st century.
+
+29:22.200 --> 29:27.000
+I think the reason you might not want to start with it on a desert island is that it actually
+
+29:27.000 --> 29:33.960
+needs some kind of runtime to manage the concurrency and garbage collection and other things like that
+
+29:33.960 --> 29:38.520
+that go into running Go efficiently.
+
+29:38.520 --> 29:44.760
+So, I would say it's perhaps not the right choice for the core stuff, but it would be
+
+29:44.760 --> 29:50.280
+perfectly fine as the next thing to try and do because it's very good at those kinds of
+
+29:50.280 --> 29:53.160
+concurrent operations that you might want.
+
+29:53.160 --> 29:56.680
+It's also very much more a type safe language.
+
+29:56.680 --> 29:59.080
+C gives you lots of ways to make mistakes.
+
+30:00.280 --> 30:06.760
+I think it's much harder to make mistakes in many of the newer languages which are more strongly typed.
+
+30:06.760 --> 30:11.240
+You mentioned a few times during the interview, you have been around for a little while,
+
+30:11.880 --> 30:18.520
+and you have seen a lot in computer science and evolution computer science, and since the PDP
+
+30:18.520 --> 30:19.480
+seven times.
+
+30:19.480 --> 30:25.080
+I'm just wondering, what do you think would be the next computer science related impact
+
+30:25.080 --> 30:30.120
+on people's lives, something that you foresee happening in the near future?
+
+30:30.840 --> 30:34.920
+Well, I hate to say it, but my ability to predict the future is pretty awful,
+
+30:35.560 --> 30:36.360
+roughly speaking.
+
+30:36.360 --> 30:42.520
+I mean, if I had been able to predict the future, and for example, use that to invest wisely,
+
+30:42.520 --> 30:44.840
+I would be able to buy a small country.
+
+30:44.840 --> 30:47.480
+And unfortunately, it hasn't worked out that way at all.
+
+30:48.040 --> 30:53.320
+So, you should take anything I say about the future with a real grain of salt.
+
+30:54.760 --> 31:02.600
+I think that what we're going to see is that computing will continue to be just an absolutely
+
+31:02.600 --> 31:04.760
+central part of everything that we do.
+
+31:04.760 --> 31:09.160
+We've seen that in the last, call it 10 or 20 years, where more and more things are
+
+31:09.160 --> 31:14.440
+fundamentally devices that interact with the outside world, but are based on a computer
+
+31:15.000 --> 31:21.400
+inside, something that's running an operating system like Linux and communicates with other
+
+31:21.400 --> 31:22.680
+computers by the internet.
+
+31:22.680 --> 31:26.600
+So, the whole internet of things idea, and I think that's going to continue.
+
+31:26.600 --> 31:28.040
+That's one area.
+
+31:28.040 --> 31:33.800
+Another area that is clearly evolving very, very rapidly is all the things related to
+
+31:34.280 --> 31:36.520
+artificial intelligence and machine learning.
+
+31:37.160 --> 31:45.720
+I mean, the story of the week at this point is chat GPT, which is something that carries on
+
+31:45.720 --> 31:53.800
+pretty sensible conversations or expansions of text, and absolutely pretty much flawless text,
+
+31:53.800 --> 32:01.240
+flawless English versions I've seen, that sound pretty sensible on an enormous variety of topics.
+
+32:01.240 --> 32:06.760
+And it will give you an essay for application to college or write a letter to a friend or
+
+32:06.760 --> 32:12.120
+generate a small program that is syntactically correct and stylistically good, all kinds of
+
+32:12.120 --> 32:13.080
+things like that.
+
+32:13.080 --> 32:15.240
+And that's very, very early days.
+
+32:15.240 --> 32:17.320
+I don't know how that will evolve.
+
+32:18.040 --> 32:24.360
+One thing that you see with that specific program is that it generates utterly nonsensical
+
+32:24.360 --> 32:27.160
+material that looks superficially perfect.
+
+32:28.120 --> 32:32.920
+And so, you have to be very careful that what you get from one of these things is actually
+
+32:32.920 --> 32:33.480
+correct.
+
+32:35.080 --> 32:39.640
+So, I don't know where, but I'm going to guess that in the next, call it five or 10 years,
+
+32:39.640 --> 32:44.920
+we're going to see a great deal more activity and probably progress in that ability of computers
+
+32:44.920 --> 32:52.440
+to do things like generate text, generate pictures, simulating the kinds of things that people do
+
+32:53.400 --> 32:55.720
+so that their behavior is more natural.
+
+32:55.720 --> 32:59.400
+And there will be good parts of that and bad parts of it.
+
+32:59.400 --> 33:03.960
+And the bad parts are going to be fundamentally, how do you detect things that are actually
+
+33:03.960 --> 33:10.760
+not right or are actively harmful in some way or another, kind of deep fakes extended
+
+33:11.640 --> 33:14.600
+in many directions and very effectively.
+
+33:14.600 --> 33:21.000
+And looking back through your incredible career, is there anything special that you think
+
+33:21.960 --> 33:27.960
+you have done in a different way besides perhaps forecasting the financial investments?
+
+33:28.840 --> 33:29.560
+Yes, right.
+
+33:30.680 --> 33:32.760
+Yes, that's definitely one of the regrets of my life.
+
+33:32.760 --> 33:40.040
+Oh, well, no, I've been astonishingly lucky in a lot of ways because as you go through
+
+33:40.040 --> 33:45.240
+life, you come to random events that send you in one direction or another, and there's
+
+33:45.400 --> 33:51.720
+no way to predict which direction, even if you realize it's a choice, there's perhaps
+
+33:51.720 --> 33:55.080
+no way to predict what the right direction will be.
+
+33:55.080 --> 33:57.000
+And so you just kind of do it.
+
+33:57.000 --> 34:01.160
+It's like rolling downhill and you run into a boulder and you go to the left of the boulder,
+
+34:01.160 --> 34:03.400
+the right of the boulder, and you just keep doing that.
+
+34:03.400 --> 34:09.800
+And so things that I have been very lucky on, for example, going to that particular program,
+
+34:09.800 --> 34:13.800
+engineering physics program at the University of Toronto, where I was forced to actually
+
+34:13.800 --> 34:14.920
+learn a bunch of things.
+
+34:16.040 --> 34:20.760
+Going to Princeton for graduate school instead of staying in Canada, that might have changed
+
+34:20.760 --> 34:21.240
+my life.
+
+34:22.520 --> 34:26.040
+In hindsight, it's worked out extremely well, but I don't know what would have happened
+
+34:26.040 --> 34:30.280
+if I'd stayed there or gone to a different school in the United States, which results
+
+34:30.280 --> 34:31.000
+in an option.
+
+34:32.040 --> 34:37.640
+And certainly that summer at MIT changed my life in a lot of ways and then the subsequent
+
+34:37.720 --> 34:45.640
+time at Bell Labs, but very hard to see how any of those would have been different, very
+
+34:45.640 --> 34:49.400
+hard to predict what the difference would be if I hadn't done that.
+
+34:49.400 --> 34:54.680
+So for example, if I had had different internship instead of the one at MIT, I suspect life
+
+34:54.680 --> 34:55.800
+would be very different.
+
+34:55.800 --> 34:56.760
+Would it have been worse?
+
+34:57.320 --> 34:57.640
+Maybe.
+
+34:57.640 --> 34:58.520
+Would have been better.
+
+34:58.520 --> 34:58.920
+Maybe.
+
+34:58.920 --> 34:59.560
+Who could tell?
+
+35:00.840 --> 35:06.680
+I've tended not to second guess any of the decisions that I have made along the way.
+
+35:08.520 --> 35:11.560
+One hopes to continue to be lucky in some way or another.
+
+35:11.560 --> 35:15.800
+When you need to do some programming, do you still do C programming when you need to do
+
+35:15.800 --> 35:20.520
+something or do you choose another language or what do you do these days when you need
+
+35:20.520 --> 35:22.360
+to do a little bit of programming?
+
+35:22.360 --> 35:25.800
+Most of the programming that I do is quite small at this point.
+
+35:25.800 --> 35:31.320
+It's sometimes writing code that will illustrate something for a class or in this case, a book.
+
+35:32.440 --> 35:37.560
+And so it tends for things where I just want to get something done and it usually is very
+
+35:37.560 --> 35:37.960
+small.
+
+35:38.840 --> 35:44.920
+I tend to write a lot of awk, which is self-serving in a way, but at least it's the language
+
+35:44.920 --> 35:46.760
+that at this point I know the best.
+
+35:46.760 --> 35:51.240
+I don't have to think about it in the slightest, but it doesn't scale to bigger programs.
+
+35:51.240 --> 35:55.640
+So if I write a 10 line awk program, that's probably getting too big.
+
+35:56.200 --> 36:00.360
+So after that, I would probably write Python and I certainly use that for teaching.
+
+36:00.360 --> 36:06.520
+And I think that's in many cases for me and certainly I think for a lot of people, the
+
+36:06.520 --> 36:10.920
+best choice, you get a lot of bang for the buck and Python has an enormous collection
+
+36:10.920 --> 36:11.880
+of useful libraries.
+
+36:11.880 --> 36:14.840
+So there's a lot of code you don't have to write, you just use it.
+
+36:14.840 --> 36:18.120
+But for certain other kinds of things, I do write C.
+
+36:18.840 --> 36:25.240
+As I mentioned, I have been working on the version of awk that Peter and Al and I wrote
+
+36:25.240 --> 36:31.160
+so long ago, upgrading it, for example, to a letter process Unicode, which it didn't
+
+36:31.160 --> 36:36.200
+really do until I started working on that six months or so.
+
+36:37.000 --> 36:40.840
+So that it can handle languages of the world better than it did originally.
+
+36:41.640 --> 36:42.840
+And that's all C code.
+
+36:43.560 --> 36:45.880
+I hate to say it, it's not very clean C code.
+
+36:45.880 --> 36:52.120
+I wish I had understood good programming and abstraction and so on much better at the time
+
+36:52.120 --> 36:55.640
+when we were writing it, but that it's actually kind of fun to do that.
+
+36:55.640 --> 36:59.000
+So those are the kind of languages that I mostly use these days.
+
+36:59.000 --> 37:04.680
+If I were marooned on a desert island with something else, I would print it fairly quickly
+
+37:04.680 --> 37:06.520
+and that would be perfectly fine too.
+
+37:06.520 --> 37:12.120
+Brian, like I mentioned to our programming group, the Os Programadores, we have over
+
+37:12.120 --> 37:17.480
+4,000 people who are trying to learn programming, trying to get into technology.
+
+37:18.040 --> 37:20.680
+And they come up with lots of questions, right?
+
+37:20.680 --> 37:25.080
+So there's when you're young in your full life, there's always a question if that's
+
+37:25.080 --> 37:27.320
+the right choice or the right decision.
+
+37:27.320 --> 37:32.840
+I'm just wondering what kind of recommendations would you have for those that just start in
+
+37:33.240 --> 37:34.040
+the learning path?
+
+37:34.600 --> 37:41.880
+I think probably the recommendation is to try as many things as you reasonably can.
+
+37:43.800 --> 37:44.600
+See what happens.
+
+37:45.240 --> 37:50.840
+For example, if you want a career in technology, see how far you can get with resources that
+
+37:50.840 --> 37:51.720
+are available.
+
+37:51.720 --> 37:58.040
+There's an awful lot of the web that you can use to teach yourself things and groups that
+
+37:58.040 --> 38:01.880
+will help you along your podcasts are obviously an example of that.
+
+38:01.880 --> 38:07.640
+And so try things and see what kind of feels like you want to go further and what feels
+
+38:07.640 --> 38:09.480
+like that's not for me.
+
+38:09.480 --> 38:13.240
+And that gives you a better idea of what directions you might go.
+
+38:13.240 --> 38:17.560
+But it's a fine example of one of these random things where you don't actually know which
+
+38:17.560 --> 38:21.400
+is the right alternative and the best you can do is try some of it and see what happens.
+
+38:22.760 --> 38:29.720
+Just wondering, do you have any books, music, movies or any recommendations, no matter what
+
+38:29.720 --> 38:32.200
+topic you'd like to share with the audience?
+
+38:32.200 --> 38:36.280
+I know you have a long list of books that I'm going to include in the podcast notes,
+
+38:36.280 --> 38:40.680
+but I'm just wondering if you have any specific recommendations, again, books, music, movies,
+
+38:40.680 --> 38:42.680
+or anything that you'd like to share?
+
+38:42.680 --> 38:49.080
+There's a collection of things that I think people might find interesting.
+
+38:50.520 --> 38:55.560
+You may have noticed that Fred Brooks died within the last couple of weeks.
+
+38:55.560 --> 39:01.800
+Fred Brooks was the architect of the IBM 360, which is a computer system that set IBM on
+
+39:01.800 --> 39:03.480
+a path for many, many years.
+
+39:04.600 --> 39:08.280
+He was a very distinguished professor at the University of North Carolina.
+
+39:09.160 --> 39:16.040
+And he wrote a great book about his experience as the chief architect at IBM.
+
+39:16.760 --> 39:18.760
+It's called The Mythical Man Month.
+
+39:18.760 --> 39:23.800
+And it was originally written, I guess, probably in the, I'll make up a number, the 80s.
+
+39:23.800 --> 39:24.840
+I used to have to look it up.
+
+39:25.320 --> 39:32.200
+And then I, a new edition some years later, and it's a really, really good discussion of
+
+39:32.840 --> 39:37.800
+some of the things involved in doing software from the perspective of somebody who is managing
+
+39:37.800 --> 39:39.320
+a big software project.
+
+39:39.320 --> 39:41.800
+And it's really gracefully written in a lot of ways.
+
+39:41.800 --> 39:48.680
+And so that's one of a fairly small number of computer books that I go back and reread
+
+39:48.680 --> 39:52.840
+from time to time for whatever insights it might have.
+
+39:53.080 --> 39:58.280
+The world is different now than it was when Fred was working at IBM and then writing the book.
+
+39:58.280 --> 40:00.440
+But there's certainly good things in it.
+
+40:02.200 --> 40:08.200
+Another one that I, because it's sitting right close to me, I can see it, is a wonderful book
+
+40:08.200 --> 40:10.120
+called How to Lie with Statistics.
+
+40:10.680 --> 40:13.720
+And again, it's a book, it was written, I think, in 1953.
+
+40:13.720 --> 40:14.920
+So it's quite an old book.
+
+40:15.960 --> 40:22.760
+But it's basically about how to detect places where somebody is giving you the wrong impression.
+
+40:23.320 --> 40:25.400
+With the numbers that they're presenting to you.
+
+40:25.400 --> 40:27.960
+It shows some examples of graphical trickery.
+
+40:27.960 --> 40:31.240
+It shows you examples of bad computation.
+
+40:31.240 --> 40:36.440
+And all of the text, in some sense, the numbers are a little dated because they're from the 1950s.
+
+40:36.440 --> 40:38.600
+But the ideas in it are timeless.
+
+40:39.160 --> 40:45.560
+And with computers, we can do a much more effective job of lying today than we used to be able to,
+
+40:45.560 --> 40:47.880
+because we can draw even fancier graphics.
+
+40:47.880 --> 40:53.000
+And so I think it's a very useful small book that's kind of fun to read.
+
+40:53.000 --> 40:59.960
+There is for people who are in English speaking countries, a wonderful collection material on how
+
+40:59.960 --> 41:05.160
+to write English well, called The Elements of Style, which is written by Strunk and White.
+
+41:05.160 --> 41:09.800
+Again, it's a book that at this point was close to 100 years old, but updated somewhat.
+
+41:11.160 --> 41:16.120
+And so I found that a book that is useful for helping me to write better English.
+
+41:16.120 --> 41:21.080
+And so for your friends and colleagues who are writing Portuguese, I'm sure there are similar
+
+41:21.080 --> 41:27.960
+books, books that tell you how to make effective use of your language to better communicate with
+
+41:27.960 --> 41:29.320
+the people who are going to read.
+
+41:29.320 --> 41:35.480
+And so I think it's one of those things where knowing how to write well is very effective.
+
+41:35.480 --> 41:43.640
+And knowing how to write well for people who are not as technically capable as you and I might be,
+
+41:43.640 --> 41:48.200
+right for audiences who are, their expertise is somewhere different.
+
+41:48.200 --> 41:52.840
+So how do you write a book for somebody who's, for example, a history major as opposed to a
+
+41:54.040 --> 41:55.720
+programmer, that kind of thing?
+
+41:56.920 --> 41:57.960
+And I think that's useful.
+
+41:58.520 --> 42:02.440
+I'm sure that you could definitely find examples of that sort of thing.
+
+42:02.440 --> 42:05.240
+Think about what makes good writing what doesn't.
+
+42:05.240 --> 42:09.320
+And of course, along with that, a useful personal skill is how to speak well.
+
+42:09.880 --> 42:15.480
+Can you talk about what you do to an audience of people who are not in that field and make
+
+42:15.480 --> 42:17.480
+them think that's interesting?
+
+42:17.480 --> 42:18.520
+I learned something.
+
+42:18.520 --> 42:24.040
+And so being able to speak well about what you do is also a very useful kind of thing to do.
+
+42:24.840 --> 42:31.000
+And I don't have books on how to do that, but that's a useful way to think about what to do,
+
+42:31.000 --> 42:33.160
+how to make effective use of what you've got.
+
+42:33.560 --> 42:35.400
+Those are fantastic recommendations.
+
+42:35.400 --> 42:36.280
+So thank you.
+
+42:36.280 --> 42:37.000
+Thank you for that.
+
+42:37.880 --> 42:48.360
+And Brian, I realize I could spend 10 years with you and we still have lots of topics to discuss,
+
+42:49.000 --> 42:53.480
+but I know you have limited time and you so graciously volunteer that time here.
+
+42:53.480 --> 42:59.720
+I'm wondering if there are any questions that you believe I should have asked today and I
+
+42:59.720 --> 43:00.760
+have not asked it yet.
+
+43:00.760 --> 43:09.320
+No, I think you've covered pretty much everything in a very orderly, organized kind of way,
+
+43:09.320 --> 43:13.080
+which is very nice and helpful from my perspective.
+
+43:13.080 --> 43:16.040
+So I really appreciate the chance to talk with you.
+
+43:16.680 --> 43:20.920
+Hope that some of this will be interesting for the folks who listen to the podcast eventually.
+
+43:20.920 --> 43:24.440
+Oh, it's I can guarantee it's incredibly interesting.
+
+43:25.480 --> 43:27.240
+It's absolutely fantastic.
+
+43:27.880 --> 43:32.360
+Is there anything else in particular that you'd like to mention and share with the
+
+43:32.360 --> 43:33.800
+audience before we close?
+
+43:35.000 --> 43:37.080
+No, I think that's probably the whole story.
+
+43:37.960 --> 43:42.840
+Again, Brian, I just want to take a moment again to thank you for so graciously donating
+
+43:42.840 --> 43:48.200
+your time and I should let people know that we had we attempted this recording a couple
+
+43:48.200 --> 43:53.320
+weeks ago and we had a problem with the tool that we're using and you agreed to record again.
+
+43:53.320 --> 43:55.080
+So thank you so much for your time.
+
+43:55.160 --> 43:57.640
+It's been an incredible privilege speaking with you today.
+
+43:57.640 --> 43:58.600
+No, my pleasure.
+
+43:58.600 --> 44:00.040
+Thank you very much, myself.
+
+44:00.040 --> 44:00.540
+Cheers.
+

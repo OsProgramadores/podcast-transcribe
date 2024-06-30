@@ -1,0 +1,1904 @@
+1
+00:00:00,000 --> 00:00:09,360
+Olá, gente! Hoje eu estou aqui com o prazer enorme de ter a Gabriela de Queiroz comigo. Tudo bem por aí,
+
+2
+00:00:09,360 --> 00:00:14,800
+Gabriela? Tudo ótimo. Gabriela, geralmente eu pergunto para os convidados e convidadas aqui
+
+3
+00:00:14,800 --> 00:00:20,600
+como é que eles começaram com tecnologia, mas você tem um começo um pouco diferente, né? Como
+
+4
+00:00:20,600 --> 00:00:26,600
+é que foi esse o teu começo, assim, o ensino básico e como é que foi a faculdade que você fez na UERG?
+
+5
+00:00:26,600 --> 00:00:31,880
+Por favor, gente, por favor. E eu gosto muito de falar sobre isso, né? Porque antes da faculdade,
+
+6
+00:00:31,880 --> 00:00:39,400
+né? Às vezes a gente não vai tão atrás, assim. Eu não era nenhuma nerd, não era ligada a tecnologia,
+
+7
+00:00:39,400 --> 00:00:44,080
+não existia. Nem tinha essa coisa que tem hoje em dia de tecnologia, computador e tal. O máximo que
+
+8
+00:00:44,080 --> 00:00:49,680
+eu tive exposição foi no videogame, que era na televisão, não era nem computador. E o meu negócio
+
+9
+00:00:49,680 --> 00:00:56,160
+era brincar. O meu negócio era brincar na rua, era fazer esportes, era estar ali em contato com as
+
+10
+00:00:56,160 --> 00:01:01,760
+pessoas correndo para lá, correndo para cá. Para mim era muito difícil, aliás, ficar sentado estudando.
+
+11
+00:01:01,760 --> 00:01:08,720
+Então estudar durante o colégio foi sempre um desafio. Não foi uma coisa simples. Fui uma aluna
+
+12
+00:01:08,720 --> 00:01:16,720
+média repetida de ano. Mas aí o mais interessante é que uma vez que eu repeti o ano, eu acho que
+
+13
+00:01:16,720 --> 00:01:23,120
+alguma coisa ali clicou que eu comecei a gostar de matemática, química e física e isso abriu um
+
+14
+00:01:23,120 --> 00:01:29,760
+horizonte assim para mim. Então eu comecei depois a dar aula particular de matemática, química e física
+
+15
+00:01:29,760 --> 00:01:36,000
+e comecei a ver que eu tinha essa facilidade de explicar e ensinar as coisas, né? Seja uma matéria
+
+16
+00:01:36,000 --> 00:01:43,080
+que fosse difícil, um conceito difícil de física e eu conseguia destrinchar ou trazer aqueles conceitos
+
+17
+00:01:43,080 --> 00:01:48,640
+para exemplos em que os estudantes conseguissem entender. Então a escola foi mais ou menos isso.
+
+18
+00:01:49,280 --> 00:01:54,840
+E aí depois veio a faculdade e aí a faculdade teve um monte de coisa. A primeira ideia do que eu
+
+19
+00:01:54,840 --> 00:01:59,560
+queria fazer, eu achava que eu ia ser veterinária. A vida inteira eu achei que eu fosse ser veterinária
+
+20
+00:01:59,560 --> 00:02:05,120
+porque eu amava cachorro. Então para mim na minha cabeça era isso. O primeiro vestibular que eu fiz
+
+21
+00:02:05,120 --> 00:02:12,120
+realmente foi de veterinária até que chegou no dia anterior, porque a gente tinha duas fases,
+
+22
+00:02:12,120 --> 00:02:18,560
+no dia anterior da segunda fase, eu falei não, não quero isso, não quero fazer veterinária. E aí foi
+
+23
+00:02:18,560 --> 00:02:24,640
+meio que caótico porque como a gente sabe o vestibular é uma vez por ano, eu tive que esperar um ano
+
+24
+00:02:24,640 --> 00:02:31,080
+para fazer, tomar uma outra decisão. E aí quando eu fui fazer esse segundo vestibular no ano anterior
+
+25
+00:02:31,080 --> 00:02:38,760
+eu falei não, acho que vou fazer engenharia porque gosto de matemática, química e física, campo
+
+26
+00:02:38,760 --> 00:02:43,120
+assim tradicional, né? Porque acho que um pouco da nossa geração você só tinha algumas opções,
+
+27
+00:02:43,120 --> 00:02:49,840
+algumas opções eram você fazer engenharia, advocacia ou médico. Geralmente eram essas três,
+
+28
+00:02:49,840 --> 00:02:55,560
+você não tem muito mais do que isso. E aí acabou que eu também fiz um vestibular para estatística,
+
+29
+00:02:55,560 --> 00:03:01,520
+para uma universidade que só tinha estatística e aí muita coisa aconteceu desde então. Desde
+
+30
+00:03:01,520 --> 00:03:07,760
+comecei engenharia, fui para estatística, saí da estatística, voltei para engenharia, tranquei tudo
+
+31
+00:03:07,760 --> 00:03:12,880
+e fui fazer outras coisinhas que a gente pode falar um pouquinho mais na frente. Mas só para mostrar
+
+32
+00:03:12,880 --> 00:03:17,840
+que o caminho não é tão linear, o meu caminho pelo menos não foi linear. Em várias estradas para
+
+33
+00:03:17,840 --> 00:03:24,120
+se chegar a Roma, né? É clichê, mas isso realmente faz total sentido. Conta um pouquinho mais sobre
+
+34
+00:03:24,120 --> 00:03:30,160
+o Hergill e o Instituto de Matemática e Estatística. Então, lá foi quando eu comecei a fazer engenharia
+
+35
+00:03:30,160 --> 00:03:37,760
+e aí eu fiz um pouco numa escola de estatística, eu fiz durante seis meses os dois, chamada Escola
+
+36
+00:03:37,760 --> 00:03:43,720
+Nacional de Ciências e Estatísticas. E fiquei ali nos dois durante seis meses, aí vi que a escola
+
+37
+00:03:43,720 --> 00:03:49,200
+de estatística não estava gostando muito, voltei para engenharia, fiz mais um tempo e aí depois eu
+
+38
+00:03:49,200 --> 00:03:54,120
+falei não, não é isso que eu quero fazer. E aí fui fazer uma outra coisa, fui trabalhar com música,
+
+39
+00:03:54,120 --> 00:04:02,040
+que foi uma saída assim da trajetória. Fui trabalhar com música, com produção executiva e a gente
+
+40
+00:04:02,040 --> 00:04:07,800
+fala um pouco mais na frente, mas... E depois voltei para a faculdade. E aí o mais interessante é que eu
+
+41
+00:04:07,800 --> 00:04:14,160
+voltei para o Hergill, mudei para a estatística e aí foi no IME, no Instituto de Matemática e Estatística,
+
+42
+00:04:14,160 --> 00:04:20,520
+que não era a melhor faculdade de estatística, com certeza. Assim, era um curso, nosso curso foi muito
+
+43
+00:04:20,520 --> 00:04:26,040
+fraco porque, como a gente sabe, faculdade pública, você não tem um monte de aula, professor não
+
+44
+00:04:26,040 --> 00:04:34,280
+tinha o SPSS, as aulas foram muito básicas, eu não tive programação na faculdade, né? Você não tinha
+
+45
+00:04:34,280 --> 00:04:38,520
+acesso a computador, por exemplo, era muito difícil você ter acesso a computador, você não tinha assim
+
+46
+00:04:38,520 --> 00:04:46,280
+um laboratório com um bom computador, então a gente usava muito programas que eram tipo Excel,
+
+47
+00:04:46,280 --> 00:04:54,920
+SPSS, se usasse, era muita coisa na mão, né? Mas aprendi, eu diria, o básico para conseguir seguir
+
+48
+00:04:54,920 --> 00:05:01,280
+a gente. Gabriela, você partiu para música antes de você fazer o teu mestrado em Epidemiologia,
+
+49
+00:05:01,280 --> 00:05:07,120
+como é que foi esse timeline? Exatamente, foi quando eu estava fazendo a faculdade, eu parei a faculdade
+
+50
+00:05:07,120 --> 00:05:11,840
+e falei não, eu gosto muito de música, sempre gostei de música e estava fazendo um paralelo,
+
+51
+00:05:11,840 --> 00:05:18,120
+mas não estava dando para conciliar tudo. E eu falei não, vou fazer a história de música, eu pegava
+
+52
+00:05:18,120 --> 00:05:22,080
+uma matéria, duas matérias na faculdade, mas o negócio não foi indo porque realmente eu queria focar
+
+53
+00:05:22,080 --> 00:05:27,640
+em música, eu comecei a fazer curso, aí fiz curso de como é que você faz a produção de um show,
+
+54
+00:05:27,640 --> 00:05:34,600
+né? Então como é que você tem o pré-show, o durante o show e o após-show? Fiz até um workshop que foi
+
+55
+00:05:34,600 --> 00:05:39,560
+com a banda do Djavan, que foi muito legal, todo mundo estava lá menos o Djavan, a banda inteira,
+
+56
+00:05:39,560 --> 00:05:45,600
+mas a história era essa, de como é que você começa a produzir o show antes, durante e depois.
+
+57
+00:05:45,920 --> 00:05:53,800
+E nesse foi o mais foco dos equipamentos e tudo mais. Então durante alguns anos, quando parei a
+
+58
+00:05:53,800 --> 00:06:00,160
+faculdade, eu fiquei trabalhando com algumas bandas, primeiro com duas bandas que eram pequenas,
+
+59
+00:06:00,160 --> 00:06:05,680
+em que eu fazia essa parte dos shows, achava lugar para as bandas tocarem, ia distribuir
+
+60
+00:06:05,680 --> 00:06:11,880
+filipeta na rua, ia para redação do jornal, bati lá na porta do jornal e falava olha, porque lembrando
+
+61
+00:06:11,880 --> 00:06:17,880
+os nomes internet. Então era tudo assim pessoa a pessoa, você ia no escritório e falava com as
+
+62
+00:06:17,880 --> 00:06:23,920
+pessoas. Então eu me lembro claramente de pegando ônibus, batendo na porta do Jornal Globo, ou do
+
+63
+00:06:23,920 --> 00:06:28,960
+Jornal do Brasil, já sabia quem eram as pessoas que eu tinha que procurar, ia atrás daqueles
+
+64
+00:06:28,960 --> 00:06:35,080
+jornalistas, levava minha pastinha com as informações sobre o show e tentava convencer a pessoa a
+
+65
+00:06:35,080 --> 00:06:41,000
+escrever alguma coisa sobre lançamento, sobre o show, ou a programação com shows da semana,
+
+66
+00:06:41,000 --> 00:06:44,920
+tentava ali fazer com que eles botassem alguma coisa no jornal para que a gente tivesse público.
+
+67
+00:06:44,920 --> 00:06:50,040
+E durante o show era ter certeza que está tudo funcionando, a gente tem todos os equipamentos
+
+68
+00:06:50,040 --> 00:06:54,440
+que a gente precisa, vai buscar o equipamento que falta, porque na casa de show não tem esse tipo de
+
+69
+00:06:54,440 --> 00:06:59,880
+equipamento, faz a parte da bilheteria, vai pagar os direitos autorais. Então é um monte de coisa que
+
+70
+00:06:59,880 --> 00:07:06,120
+eu tinha que fazer, mas que foi bem legal para quem está ouvindo, duas dessas bandas, elas hoje em dia,
+
+71
+00:07:06,200 --> 00:07:13,040
+elas se reuniram de novo, elas formam hoje em dia uma banda chamada Banda At Chicas, em que são
+
+72
+00:07:13,040 --> 00:07:21,240
+quatro integrantes, Paula Leal, Isadora Medella, Amora Pêra e Fernanda Gonzaga, e Fernanda Gonzaga e
+
+73
+00:07:21,240 --> 00:07:29,560
+Amora Pêra são conhecidas assim porque são filhas do Gonzagão, grande mestre, e foi isso,
+
+74
+00:07:29,560 --> 00:07:34,920
+depois eu trabalhei com uma outra cantora chamada Thais Gullim, também fazendo mais ou menos a mesma
+
+75
+00:07:34,920 --> 00:07:40,440
+música, então foi um período ali que eu fiquei trabalhando nisso e deixei um pouco a faculdade de lado.
+
+76
+00:07:40,440 --> 00:07:46,360
+Como é que pintou o desejo de fazer o mestrale, você fez o mestrale em epidemiologia,
+
+77
+00:07:46,360 --> 00:07:50,200
+e você fez um trabalho sobre poluição no arco, como é que você está trabalhando com música,
+
+78
+00:07:50,200 --> 00:07:55,880
+como é que pintou esse desejo de mudar e ir para a epidemiologia fazer esse mestrado na Fiocruz?
+
+79
+00:07:55,880 --> 00:08:01,280
+A história da música eu achava que não tinha muito para onde ir, para onde crescer, acho que
+
+80
+00:08:01,360 --> 00:08:05,840
+aquela coisa, você tem que fazer faculdade, você tem que fazer o caminho tradicional se você quiser,
+
+81
+00:08:05,840 --> 00:08:14,360
+um emprego, então voltei para a faculdade, me formei, mas durante a faculdade, nos últimos anos da faculdade,
+
+82
+00:08:14,360 --> 00:08:22,160
+surgiu uma oportunidade de iniciação científica, então uma professora dividiu com a turma falando,
+
+83
+00:08:22,160 --> 00:08:28,240
+olha, aqui sabendo que tem essa vaga nesse laboratório de epidemiologia, em que eles estão procurando
+
+84
+00:08:28,240 --> 00:08:35,920
+bolsistas, eles oferecem essa bolsa, eles trabalham com poluição do ar, e aí me candidatei, fiz entrevista,
+
+85
+00:08:35,920 --> 00:08:42,320
+e passei, então durante essa época da faculdade da estatística, eu comecei a trabalhar nesse laboratório
+
+86
+00:08:42,320 --> 00:08:50,000
+de epidemiologia com poluição do ar, e a grande maioria do pessoal do laboratório eram pessoas ou
+
+87
+00:08:50,000 --> 00:08:56,560
+estatísticos, ou epidemiologistas, ou misto dos dois, então todo mundo meio que seguiu o mesmo caminho,
+
+88
+00:08:56,640 --> 00:09:01,840
+fez estatística na faculdade, foi fazer um mestrado em epidemiologia, ou doutorado em epidemia,
+
+89
+00:09:01,840 --> 00:09:08,240
+ou estatística, e ficou nessa área, então quando eu já estava trabalhando como bolsista nessa área,
+
+90
+00:09:08,240 --> 00:09:14,520
+e não tinha muita perspectiva do que fazer depois da faculdade, eu falei, bom, acho que o caminho natural
+
+91
+00:09:14,520 --> 00:09:20,840
+seria fazer um mestrado, daí a história do ir fazer um mestrado em epidemiologia, foi porque tinha essa
+
+92
+00:09:20,840 --> 00:09:26,600
+informação, e a história da poluição do ar é o que a gente fazia, que trabalho muito interessante,
+
+93
+00:09:26,600 --> 00:09:34,520
+em que a gente analisava quais eram os efeitos na saúde das pessoas da poluição do ar, então a gente
+
+94
+00:09:34,520 --> 00:09:41,080
+pegava várias cidades do Brasil, apesar de estarmos ali no Rio de Janeiro, tinha dados de algumas cidades
+
+95
+00:09:41,080 --> 00:09:48,640
+do Brasil, e até a gente fez estudos em conjunto com outras cidades da América Latina, que também a gente
+
+96
+00:09:48,640 --> 00:09:54,680
+fez uma framework que todo mundo utilizava, e que curiosidade, foi ali que eu tive minha primeira
+
+97
+00:09:54,680 --> 00:10:02,520
+introdução ao R, foi ali que eu aprendi e descobri o que era a linguagem R, porque era o que a gente
+
+98
+00:10:02,520 --> 00:10:09,360
+estava usando na época para fazer essas análises. Eu acho sempre incrível a trajetória das pessoas,
+
+99
+00:10:09,360 --> 00:10:16,320
+que você vai para música e você começa a ajudar um monte de bandas e tal, mas aquilo te dá uma
+
+100
+00:10:16,320 --> 00:10:20,960
+oportunidade de gerenciar projetos também, de certa forma, você tem esse conhecimento que você
+
+101
+00:10:20,960 --> 00:10:26,160
+adquiriu fazendo isso também, e você vai para a área de epidemiologia e pinta aí a oportunidade
+
+102
+00:10:26,160 --> 00:10:33,240
+de aprender R, né? Conta para a gente como é que pintou essa oportunidade de você fazer mestrado
+
+103
+00:10:33,240 --> 00:10:37,600
+na Califórnia, você fez o mestrado aqui com a Fiocruz, na área de epidemiologia, e se eu entendi
+
+104
+00:10:37,600 --> 00:10:43,320
+bem na tua trajetória, você foi para a California State University fazer o mestrado também, conta um
+
+105
+00:10:43,320 --> 00:10:48,720
+por um, como é que aconteceu isso? Estava trabalhando já fazendo mestrado e fazendo esse trabalho com
+
+106
+00:10:48,720 --> 00:10:54,560
+o pessoal do Laboratório de Epidemiologia, pintou essa oportunidade, né? Pensei por que não tentar
+
+107
+00:10:54,560 --> 00:11:01,040
+uma coisa fora, surgiu a oportunidade de tentar o mestrado e quando eu pensei no mestrado, acho que
+
+108
+00:11:01,040 --> 00:11:05,400
+a pergunta que as pessoas fizeram, por que você não vai fazer um doutorado, já que você está no seu
+
+109
+00:11:05,400 --> 00:11:11,920
+mestrado, vai terminar e você não faz um doutorado após? Para ser bastante sincera, eu já estava um
+
+110
+00:11:11,920 --> 00:11:16,840
+pouco mais assim avançada na idade, eu terminei a faculdade muito tarde, falei eu não tenho mais
+
+111
+00:11:16,840 --> 00:11:24,080
+força para ficar seis anos, cinco anos, porque o PhD aqui ele pode variar, ele pode ser em quatro
+
+112
+00:11:24,080 --> 00:11:29,240
+anos, tem gente que leva em seis, sete, não é certo que você vai terminar em quatro anos, eu falei eu
+
+113
+00:11:29,240 --> 00:11:35,680
+não tenho mais essa força de ficar estudando no meio acadêmico, eu quero, se eu for sair para fora,
+
+114
+00:11:35,680 --> 00:11:41,880
+se eu for para um outro lugar, eu quero ali estar realmente dentro do que está acontecendo, eu quero
+
+115
+00:11:41,880 --> 00:11:50,080
+estudar, mas eu quero também de repente ir para a indústria, né? E trabalhar em empresas e aí surgiu
+
+116
+00:11:50,080 --> 00:11:57,080
+conseguir, enfim, passar nesse mestrado aqui na Califórnia e quando eu estava também aplicando
+
+117
+00:11:57,080 --> 00:12:02,640
+para as faculdades e fazendo a parte de pesquisa saber o que as faculdades ofereciam, uma coisa que
+
+118
+00:12:02,640 --> 00:12:09,080
+me conta foi o seguinte, eu queria algo que me trouxesse algum tipo de valor, mas que não fosse
+
+119
+00:12:09,080 --> 00:12:15,600
+pesado em termos de que eu conseguiria ter uma vida em paralelo, então a minha decisão foi, eu vou
+
+120
+00:12:15,600 --> 00:12:22,080
+escolher estatística, porque eu já tenho esse background em estatística e o meu objetivo é aprender
+
+121
+00:12:22,080 --> 00:12:27,560
+como é que eu falo os termos da estatística em inglês, então esse foi o maior foco, como é que eu
+
+122
+00:12:27,560 --> 00:12:34,240
+faço, explicar o que eu faço em inglês, como é que eu posso explicar a teoria ou as técnicas
+
+123
+00:12:34,240 --> 00:12:38,680
+estatísticas em inglês, então esse foi o meu foco, da escolha do mestrado, que foi um mestrado assim
+
+124
+00:12:38,680 --> 00:12:45,520
+relativamente aplicado, não teve muita coisa que eu não conhecia, assim, a grande maioria eu já sabia,
+
+125
+00:12:45,520 --> 00:12:50,040
+mas teve com certeza a dificuldade porque agora era em inglês.
+
+126
+00:12:50,040 --> 00:12:58,360
+Conta um pouquinho sobre essa dificuldade do inglês e como é que foi o teu aprendizado e evolução no domínio do idioma.
+
+127
+00:12:58,360 --> 00:13:04,920
+É, eu digo assim, até hoje para mim é difícil, eu não tenho facilidade com línguas, para mim é super difícil,
+
+128
+00:13:04,920 --> 00:13:11,400
+sim, quando eu estou em reunião não é uma coisa que vem e que eu consigo entender completamente o que as pessoas
+
+129
+00:13:11,400 --> 00:13:17,680
+estão falando, eu acho que tem pessoas que têm facilidade, em que elas pegam uma língua, vão para outra
+
+130
+00:13:17,680 --> 00:13:25,200
+e isso flui, mas para mim não foi assim, então durante os primeiros meses ou talvez o primeiro ano da faculdade
+
+131
+00:13:25,200 --> 00:13:31,360
+eu gravava as aulas, com permissão dos professores, porque eu falava, olha, tem muita coisa que eu não consigo entender,
+
+132
+00:13:31,360 --> 00:13:37,480
+então quando eu voltava para casa eu ia escutar as aulas de novo para entender o que os professores
+
+133
+00:13:37,480 --> 00:13:43,160
+estavam falando, fora que tem muitos professores que são de outros países em que o inglês não é também
+
+134
+00:13:43,160 --> 00:13:49,880
+a primeira língua, então tem o sotaque, então tem várias outras nuances em que a gente não consegue entender,
+
+135
+00:13:49,880 --> 00:13:56,840
+o curso de estatística não foi nem tão difícil, o que foi mais difícil foi o inglês mesmo, então é uma coisa que eu ainda
+
+136
+00:13:56,840 --> 00:14:04,040
+sinto dificuldade, não acho que eu estou assim 100% que eu entendo tudo, chegando ao final do dia estou exausta
+
+137
+00:14:04,040 --> 00:14:10,040
+de tanto falar inglês, de tanto ficar ali absorvendo o conteúdo em inglês.
+
+138
+00:14:10,040 --> 00:14:15,600
+Cabriela, como é que foi quando você terminou o mestrado na Califórnia, assuma que você foi direto do mestrado
+
+139
+00:14:15,600 --> 00:14:19,600
+no mercado de trabalho americano, como é que foi essa entrada no mercado para você?
+
+140
+00:14:19,600 --> 00:14:25,160
+Foi bastante diferente porque eu não tinha experiência de mercado, eu não tinha experiência de entrevista,
+
+141
+00:14:25,160 --> 00:14:31,600
+eu não tinha experiência de como se vender durante uma entrevista, eu não tinha experiência de nem como escrever
+
+142
+00:14:31,600 --> 00:14:38,760
+um currículo que fosse voltado para a indústria, então eu fiz algumas entrevistas e eu me lembro,
+
+143
+00:14:38,920 --> 00:14:45,480
+eu me lembro claramente a primeira entrevista que eu fiz que foi para um estágio, uma empresa que nem existe mais,
+
+144
+00:14:45,480 --> 00:14:51,480
+que era uma empresa como se fosse de, não é bem TV a cabo, mas que eles tinham esse aparelhinho que você gravava
+
+145
+00:14:51,480 --> 00:14:58,040
+os programas da TV, e aí fui fazer uma entrevista com eles e duas coisas foram bastante interessantes nessa entrevista,
+
+146
+00:14:58,040 --> 00:15:05,320
+o primeiro que quando a pessoa me perguntava eu respondia e ponto, então a pessoa perguntava,
+
+147
+00:15:05,560 --> 00:15:14,360
+você tem experiência estatística? Sim, tenho experiência estatística, me fala um pouquinho aí da sua trajetória acadêmica,
+
+148
+00:15:14,360 --> 00:15:20,520
+eu era muito resumida nas coisas que eu falava, eu não expandia e tentava ali vender meu peixe,
+
+149
+00:15:20,520 --> 00:15:26,760
+então essa foi a primeira lição que não, as pessoas vão te fazer perguntas, mas você tem que estar preparado
+
+150
+00:15:26,760 --> 00:15:31,640
+para vender seu peixe ali, vender o que você tem para oferecer, essa foi a primeira,
+
+151
+00:15:31,800 --> 00:15:37,960
+e a segunda que eu fiquei muito chateada nessa entrevista que eu me lembro claramente que a pessoa chegou para mim e falou assim,
+
+152
+00:15:37,960 --> 00:15:46,680
+mas se você tivesse que dar uma nota para sua habilidade em Excel, qual seria?
+
+153
+00:15:46,680 --> 00:15:54,120
+E eu falei algo do tipo cinco e ponto, eu não falei mais nada, e aí eu acho que aquilo ali foi tipo,
+
+154
+00:15:54,120 --> 00:15:59,960
+olha, realmente você não está boa para essa vaga, então olhando para trás e eu fui aprendendo com a forma,
+
+155
+00:16:00,040 --> 00:16:05,000
+eu fui fazendo outras entrevistas era que ao invés de ter falado só assim, o que eu poderia falar assim,
+
+156
+00:16:05,000 --> 00:16:10,840
+olha, não é uma ferramenta que eu utilizo todos os dias, eu utilizo uma linguagem de programação R,
+
+157
+00:16:10,840 --> 00:16:16,440
+mas isso não quer dizer que eu não posso aprender o que for para efetuar esse trabalho,
+
+158
+00:16:16,440 --> 00:16:20,520
+contar uma história um pouquinho e trazer sempre o que você tem de forte,
+
+159
+00:16:20,520 --> 00:16:26,200
+eu acho que eu fui aprendendo conforme eu fui fazendo as entrevistas, o que eu tinha que fazer,
+
+160
+00:16:26,280 --> 00:16:31,240
+o que eu tinha que falar, como é que eu tinha que me vender, o que seria legal eu falar mais,
+
+161
+00:16:31,240 --> 00:16:39,880
+o que seria legal falar menos, então de novo, sempre aprendendo a tentar entrar naquele sistema das entrevistas.
+
+162
+00:16:39,880 --> 00:16:46,920
+As entrevistas são geralmente complicadas, porque quem está entrevistando não conhece você
+
+163
+00:16:46,920 --> 00:16:52,520
+e a única coisa que a pessoa sabe é basicamente o que está escrito no teu resume, no teu currículo,
+
+164
+00:16:52,600 --> 00:16:56,920
+então é importante isso que você está exatamente escrevendo aí de ter oportunidade,
+
+165
+00:16:56,920 --> 00:17:02,120
+você sabe programar isso? Não, não sei, mas eu sei nessa outra coisa aqui, já fiz isso, já fiz aquilo,
+
+166
+00:17:02,120 --> 00:17:08,280
+é bastante importante você entender o que você tem de bagagem que possa ser transferível para aquela
+
+167
+00:17:08,280 --> 00:17:13,240
+vaga que você está empregando. Como é que foi a tua entrada? Você passou por várias entrevistas
+
+168
+00:17:13,240 --> 00:17:16,920
+e se eu entendo bem você foi trabalhar com startups nos Estados Unidos,
+
+169
+00:17:16,920 --> 00:17:19,400
+conta um pouquinho sobre essa fase da tua vida para a gente.
+
+170
+00:17:19,480 --> 00:17:28,120
+É, a primeira empresa que eu fui trabalhar se chamava Alpine Data Labs, em que a ideia dessa empresa
+
+171
+00:17:28,120 --> 00:17:34,360
+era o seguinte, eles tinham essa plataforma que aliás está super na moda, que era a história do
+
+172
+00:17:34,360 --> 00:17:40,760
+Low-Code No-Code, em que você não precisa escrever código para fazer suas análises, no caso de
+
+173
+00:17:40,760 --> 00:17:47,480
+ciências de dados ou para construir aplicativos, então eles tinham esse produto em que eles vendiam
+
+174
+00:17:47,560 --> 00:17:53,400
+as empresas, os consumidores eram outras empresas que utilizariam esse software dentro dos seus times.
+
+175
+00:17:53,400 --> 00:17:59,080
+O que a gente fazia como cientista de dados? Então era uma empresa bem pequena, 30 pessoas mais ou
+
+176
+00:17:59,080 --> 00:18:05,320
+menos, tinha um time até de cientista de dados, o que a gente fazia como cientista de dados era a gente
+
+177
+00:18:05,320 --> 00:18:12,680
+algumas funções ali dentro, então uma delas era ajudar aos consumidores, aos clientes em como utilizar
+
+178
+00:18:12,680 --> 00:18:17,800
+esse produto que a gente estava vendendo, então ensinar, de novo voltando para a história de
+
+179
+00:18:17,800 --> 00:18:23,720
+ensinar, você vê que as coisas vão reaparecendo, então eu tinha que ensinar como é que você utiliza
+
+180
+00:18:23,720 --> 00:18:29,800
+o produto, muita coisa a gente fazia online, mas também fui bastante visitar clientes e mostrar
+
+181
+00:18:29,800 --> 00:18:36,600
+ao vivo como é que funciona dando exemplos ou com dados em que eles forneciam, ou com dados que a gente
+
+182
+00:18:36,600 --> 00:18:42,600
+fazia para dar exemplos. Uma outra parte que a gente fazia era a documentação, então a parte da
+
+183
+00:18:42,600 --> 00:18:48,840
+documentação a gente escrevia porque era muito técnica, então a gente queria dar um exemplo de
+
+184
+00:18:48,840 --> 00:18:54,440
+como uma regressão logística funcionava, como o random forest funcionava, ou como é que você conectava
+
+185
+00:18:54,440 --> 00:19:01,240
+os operadores, então a gente escrevia bastante, a outra parte era em que a gente era como se fosse um
+
+186
+00:19:01,240 --> 00:19:07,320
+autor em que a empresa poderia levar a gente para trabalhar junto de um projeto, então vamos supor
+
+187
+00:19:07,320 --> 00:19:12,040
+que eu sou de uma empresa, essa empresa compra nosso software, mas eles não têm cientista de dados
+
+188
+00:19:12,040 --> 00:19:18,040
+dentro da empresa, então eles trabalhavam com a gente, a gente trabalhava no problema deles com
+
+189
+00:19:18,040 --> 00:19:23,240
+eles utilizando software, então essa era uma outra coisa que a gente fazia. Outra coisa interessante
+
+190
+00:19:23,240 --> 00:19:29,280
+é que esse software não tinha praticamente nada de programação, então foi um trabalho que eu quase
+
+191
+00:19:29,280 --> 00:19:34,360
+nunca programei, não escrevi código, porque a ideia realmente era essa de você não ter que
+
+192
+00:19:34,360 --> 00:19:40,760
+programar, em qualquer pessoa poderia utilizar ciência de dados, poderia utilizar esse software
+
+193
+00:19:40,760 --> 00:19:45,480
+para fazer suas análises, é como se fosse uma coisa de drag and drop, você vai conectando, você tem a
+
+194
+00:19:45,480 --> 00:19:51,600
+base de dados, aí você divide, vamos supor, você divide os seus dados em teste e treinamento, aí
+
+195
+00:19:51,600 --> 00:19:58,800
+você faz algum tipo de modelagem e assim vai, então você não tinha que saber programar. E a outra
+
+196
+00:19:58,800 --> 00:20:03,720
+coisa também que a gente fazia como cientista de dados é, como a gente trabalhava muito com
+
+197
+00:20:03,720 --> 00:20:08,640
+clientes, a gente tinha muito feedback do que eles falavam sobre o produto, então eu trazia esse
+
+198
+00:20:08,640 --> 00:20:14,280
+feedback para o resto do time, para o time de engenharia, para falar, olha, o cliente XYZ,
+
+199
+00:20:14,280 --> 00:20:19,520
+eles estão querendo muito essa nova feature e a gente não tem, será que a gente pode priorizar no
+
+200
+00:20:19,520 --> 00:20:24,640
+próximo lançamento para a gente colocar essa feature lá dentro, então a gente fazia isso. E aí
+
+201
+00:20:24,640 --> 00:20:31,080
+eu fui para a primeira empresa e chegou uma hora que eu resolvi mudar, é uma coisa que eu venho
+
+202
+00:20:31,080 --> 00:20:35,560
+fazendo ao longo dos anos, sempre quando eu vou pensando que eu estou querendo mudar de emprego,
+
+203
+00:20:35,560 --> 00:20:42,440
+eu sempre penso assim, o que eu quero fazer next, da próxima, então eu sempre tento pensar em algo
+
+204
+00:20:42,440 --> 00:20:48,000
+que eu não fiz antes ou algo que eu estou interessado e quero aprender, então quando eu sai dessa
+
+205
+00:20:48,000 --> 00:20:53,760
+empresa para a próxima, uma das coisas que me atraíram na mudança de emprego realmente foi
+
+206
+00:20:53,760 --> 00:20:58,800
+que eu quero aprender algo novo e aí a próxima empresa já foi completamente diferente que foi
+
+207
+00:20:58,800 --> 00:21:05,160
+uma empresa de advertisement, então eu tinha muita curiosidade de entender como é que funciona os
+
+208
+00:21:05,160 --> 00:21:11,080
+anúncios na internet, o que está por trás e fora a quantidade de dados que é recolhido, que a gente
+
+209
+00:21:11,080 --> 00:21:18,240
+coleta, então essa foi a minha segunda startup que eu comecei a trabalhar, que era de anúncios e
+
+210
+00:21:18,240 --> 00:21:26,880
+de data science, foi a única data scientist da empresa, que aí foi um desafio muito grande,
+
+211
+00:21:26,880 --> 00:21:33,280
+ser a única pessoa trabalhando com data science numa empresa que tínhamos 150 funcionários.
+
+212
+00:21:33,280 --> 00:21:38,960
+Como é que foi a evolução até você chegar na IBM? Como foi a tua entrada na IBM?
+
+213
+00:21:38,960 --> 00:21:44,880
+Então, aí passei por a segunda startup, essa de anúncio, depois fui para uma outra,
+
+214
+00:21:44,880 --> 00:21:52,120
+em que era na área de finanças, eles tinham um cartão de crédito em que o público inicial,
+
+215
+00:21:52,120 --> 00:21:58,080
+um dos grandes produtos deles era esse cartão de crédito focado a estudantes internacionais
+
+216
+00:21:58,080 --> 00:22:05,080
+aqui nos Estados Unidos, foi também diferente e aí quando eu estava para sair dessa startup,
+
+217
+00:22:05,080 --> 00:22:08,960
+eu falei, não, agora eu acho que eu quero para uma empresa maior, quero para uma empresa maior,
+
+218
+00:22:08,960 --> 00:22:14,520
+para ver como é que vai ser, qual é a diferença, eu acho que para mim deu um pouco essa história
+
+219
+00:22:15,280 --> 00:22:23,360
+da startup. A IBM tinha essa vaga que era, não tinha o nome como cientista de dados, era Developer
+
+220
+00:22:23,360 --> 00:22:29,120
+Advocate, Inteligência Artificial, Machine Learning, Data Science, e tinha a parte de Inteligência
+
+221
+00:22:29,120 --> 00:22:34,520
+Artificial, no nome e dentro da descrição do trabalho tinham várias coisas que me chamavam
+
+222
+00:22:34,520 --> 00:22:39,520
+atenção, com certeza o IA me chamou atenção e era algo que eu não tinha conhecimento ainda,
+
+223
+00:22:39,520 --> 00:22:45,800
+tinha parte de comunidade, que você ir falar em conferência, tinha parte de contribuir para
+
+224
+00:22:45,800 --> 00:22:51,840
+projetos open source, de software livre e aberto, e tinha muita coisa de várias tecnologias,
+
+225
+00:22:51,840 --> 00:22:56,080
+então isso me chamou bastante atenção naquela descrição do trabalho e quando eu fui fazer
+
+226
+00:22:56,080 --> 00:23:02,840
+entrevista eu amei o time, eu amei o que eles estavam fazendo, estava bastante alinhado com
+
+227
+00:23:02,840 --> 00:23:08,840
+o que eu queria fazer, foi aí que eu entrei para IBM, foi completamente diferente, desde o primeiro
+
+228
+00:23:08,840 --> 00:23:14,440
+trabalho porque saí de uma empresa, a última empresa a gente tinha 20 pessoas, uma empresa que
+
+229
+00:23:14,440 --> 00:23:20,920
+tinha 300 mil pessoas, então foi um choque primeiro muito grande com a quantidade de informação e
+
+230
+00:23:20,920 --> 00:23:26,760
+pessoas dentro dessa empresa. Você pode contar um pouco sobre o teu trabalho na IBM e como é que
+
+231
+00:23:26,760 --> 00:23:34,680
+foi você liderar um time de data scientists e AI também, o soft engineers na IBM? Claro, é, primeiro
+
+232
+00:23:34,680 --> 00:23:40,280
+eu não estava liderando, então eu era uma contribuidora individual, então eu não estava
+
+233
+00:23:40,280 --> 00:23:47,120
+gerenciando nenhum time e depois de alguns meses, três, quatro meses surgiu essa oportunidade de
+
+234
+00:23:47,120 --> 00:23:53,880
+gerenciar um time e foi um time que era focado em inteligência artificial e machine learning,
+
+235
+00:23:53,880 --> 00:23:58,720
+então o time era todo de open source, tudo que a gente fazia era open source, não tinha nada muito
+
+236
+00:23:58,720 --> 00:24:05,560
+de nada a produto, era realmente contribuir, inicialmente a nossa missão ali era contribuir
+
+237
+00:24:05,560 --> 00:24:10,560
+para projetos open source que fossem focados na área de dados e inteligência artificial machine
+
+238
+00:24:10,560 --> 00:24:15,680
+learning, a gente contribuía para projetos como TensorFlow que é um projeto da Google,
+
+239
+00:24:15,680 --> 00:24:23,400
+High Torch, projeto do Facebook, Spark, Apache Arrow e algumas outras bibliotecas do Python também,
+
+240
+00:24:23,400 --> 00:24:28,480
+a gente tinha alguns contribuidores, então era isso que a gente fazia, o pessoal, eu brigo assim que
+
+241
+00:24:28,560 --> 00:24:33,680
+era o melhor dos mundos para eles em que eles eram pagos para contribuir para projetos que são
+
+242
+00:24:33,680 --> 00:24:40,320
+utilizados por milhares de pessoas, então essa foi a nossa primeira time, depois eu adquiri mais
+
+243
+00:24:40,320 --> 00:24:46,600
+outros times, então o meu escopo aumentou em que eu tinha não só o time de inteligência artificial,
+
+244
+00:24:46,600 --> 00:24:53,760
+mas eu tinha um pessoal trabalhando com o Jupyter do Python, a galera trabalhando no Jupyter Labs e
+
+245
+00:24:53,760 --> 00:24:59,920
+com as ferramentas que foram criadas em cima do Jupyter e aí meu último cargo dentro da IBM
+
+246
+00:24:59,920 --> 00:25:06,200
+foi fazendo uma outra coisa diferente em que eu estava trabalhando com inovação, criando projetos
+
+247
+00:25:06,200 --> 00:25:15,360
+inovadores que viam da IBM Research e aí a ideia era colocar esses projetos para o mundo saber o que
+
+248
+00:25:15,360 --> 00:25:20,600
+a gente está fazendo, então esse foi meu último cargo dentro da IBM. É bacana demais isso né,
+
+249
+00:25:20,760 --> 00:25:26,360
+e conta um pouquinho mais sobre o Open Source, você mencionou que você teve a oportunidade aqui de
+
+250
+00:25:26,360 --> 00:25:32,920
+fazer contribuições para softwares relacionados à AI e data science que são usados por milhares
+
+251
+00:25:32,920 --> 00:25:39,240
+de pessoas e a importância da IBM reconhecer também que deveria fazer essa contribuição né,
+
+252
+00:25:39,240 --> 00:25:45,960
+e financiar um time ou vários times que faziam esse trabalho, bacana demais isso né, e foi bastante
+
+253
+00:25:45,960 --> 00:25:51,480
+legal o reconhecimento da empresa eu assumo né? É com certeza, e a IBM ela já tem uma história
+
+254
+00:25:51,480 --> 00:25:58,760
+de muitos anos em contribuir para projetos Open Source, já décadas, bastante tempo contribuindo
+
+255
+00:25:58,760 --> 00:26:04,680
+para outros projetos e a gente tinha também uma coisa que eu não mencionei, projetos que a gente
+
+256
+00:26:04,680 --> 00:26:10,960
+criava, um dos projetos que a gente tinha era pegar modelos de deep learning que são super complexos
+
+257
+00:26:10,960 --> 00:26:15,680
+e que são muito difíceis, fazer um wrap nele de uma maneira em que qualquer pessoa podia utilizar
+
+258
+00:26:15,680 --> 00:26:20,840
+esses modelos sem ter nenhum conhecimento prévio nessa área, então era como se fosse democratizar
+
+259
+00:26:20,840 --> 00:26:27,080
+o uso de inteligência artificial, então qualquer pessoa com computador e não precisava ser nada
+
+260
+00:26:27,080 --> 00:26:33,320
+muito potente conseguiria usar o que a gente estava produzindo. A outra parte que é legal de comentar
+
+261
+00:26:33,320 --> 00:26:40,080
+é que esses projetos de Open Source eles são geralmente criados por pessoas comuns, como se
+
+262
+00:26:40,080 --> 00:26:46,160
+fosse um side job, uma coisa que as pessoas fazem depois do trabalho ou quando tem tempo, mas que
+
+263
+00:26:46,160 --> 00:26:52,800
+são utilizados por todo mundo, se você pensar em Python, se você pensar em TensorFlow, esses projetos
+
+264
+00:26:52,800 --> 00:26:58,680
+são praticamente qualquer pessoa nessa área ou em outras áreas utilizam esses projetos, mas o
+
+265
+00:26:58,680 --> 00:27:04,680
+pessoal que contribui é uma quantidade muito pequena e a gente esquece que tem que ter investimento
+
+266
+00:27:04,680 --> 00:27:11,680
+então você está utilizando todos aqueles projetos de graça mas não está giving back, então empresas
+
+267
+00:27:11,680 --> 00:27:19,280
+reconhecem isso que é necessário que elas invistam de volta nesses projetos, até porque os produtos
+
+268
+00:27:19,280 --> 00:27:24,320
+que elas estão vendendo por trás elas estão utilizando todos esses projetos que são Open Source
+
+269
+00:27:24,320 --> 00:27:30,480
+e aquele projeto acabar eles vão ter que fazer alguma coisa na parte do produto para conseguir seguir em frente
+
+270
+00:27:30,480 --> 00:27:35,520
+Priela, enquanto a gente está falando aqui de Open Source e comunidade, conta um pouquinho para
+
+271
+00:27:35,520 --> 00:27:41,240
+gente sobre a criação do Our Ladies e o teu trabalho junto à organização, eu acho que você
+
+272
+00:27:41,240 --> 00:27:47,480
+inclusive hoje em dia você é membro do Our Foundation, certo? Isso, correto, é Our Ladies eu vou falar um
+
+273
+00:27:47,480 --> 00:27:52,280
+pouquinho o que significa Our Ladies e contar um pouquinho a história porque é muito legal e a gente
+
+274
+00:27:52,280 --> 00:27:59,800
+está fazendo 10 anos, a gente fez 10 anos esse ano e a ideia do Our Ladies, nossa missão, como é que a gente
+
+275
+00:28:00,080 --> 00:28:07,400
+fala, missão da organização é você trazer mais diversidade para a comunidade de R, então R é uma
+
+276
+00:28:07,400 --> 00:28:15,440
+linguagem de programação que inicialmente foi criada por estatísticos para ser utilizados inicialmente
+
+277
+00:28:15,440 --> 00:28:22,720
+na área da academia, em pesquisa, mas que cresceu e hoje em dia é utilizado por pessoas de várias áreas
+
+278
+00:28:22,720 --> 00:28:28,520
+não precisa ser só ciência de dados mas você tem jornalistas, você tem biólogos, você tem pessoa
+
+279
+00:28:28,520 --> 00:28:34,840
+que anda até com música usando R, pessoal de designer usando R, você tem várias áreas que utilizam R
+
+280
+00:28:34,840 --> 00:28:40,240
+e aí a história do Our Ladies foi muito legal porque tudo começou quando eu vim para os Estados Unidos
+
+281
+00:28:40,240 --> 00:28:48,320
+em 2012, eu estava aqui no meio desse borbulho, dessa explosão de coisas acontecendo em relação à
+
+282
+00:28:48,320 --> 00:28:53,800
+tecnologia, começou a história de Big Data e todo mundo tendo muito dado e dados sendo recolhido o
+
+283
+00:28:53,800 --> 00:29:00,400
+tempo inteiro, tudo que você fazia você estava sendo monitorado e aí tinha uma coisa muito legal
+
+284
+00:29:00,400 --> 00:29:05,960
+que quando eu descobri quando eu cheguei que era a história do Meetup, a plataforma do Meetup que é um
+
+285
+00:29:05,960 --> 00:29:12,040
+website em que eles têm vários tipos de eventos e aí eu descobri assim para mim abriu um horizonte,
+
+286
+00:29:12,040 --> 00:29:20,240
+eu descobri que existia esses eventos em que você podia ir, era de graça, aprender e a outra coisa
+
+287
+00:29:20,240 --> 00:29:25,760
+que para mim foi maravilhosa que tinha comida de graça, então eu comecei assim, primeiro que
+
+288
+00:29:25,760 --> 00:29:31,600
+eu cheguei e lia muita coisa em que eu não entendia a grande maioria do que estava sendo falado,
+
+289
+00:29:31,600 --> 00:29:37,080
+principalmente na área de ciência de dados e estatística, então tinha muitas palavras,
+
+290
+00:29:37,080 --> 00:29:42,640
+buzzwords que eu nunca tinha ouvido falar e aí indo para esses grupos eu falei vou me inscrever em todos
+
+291
+00:29:42,640 --> 00:29:47,520
+porque eu preciso entender o que esse pessoal está falando, como é que eu vou conseguir um emprego se
+
+292
+00:29:47,520 --> 00:29:53,800
+conseguir acompanhar o que está sendo falado, e aí comecei a me inscrever nos grupos de visualização
+
+293
+00:29:53,800 --> 00:30:00,720
+de dados, no grupo de Radoop, no grupo de SQL, no grupo de R, no grupo de Python, praticamente todas
+
+294
+00:30:00,720 --> 00:30:07,160
+as noites eu ia num evento e aí eu sempre brinco que para mim era o melhor dos mundos porque como
+
+295
+00:30:07,160 --> 00:30:13,200
+estudante, como a gente sabe dólar sempre é alto, o nosso budget que a gente tem ali para gastar no
+
+296
+00:30:13,200 --> 00:30:18,240
+mundo é muito restrito, muito caro, custo de vida é muito caro, então para mim era o melhor dos
+
+297
+00:30:18,240 --> 00:30:23,520
+mundos porque toda noite eu tinha um jantar garantido, aprendia de graça, comia de graça,
+
+298
+00:30:23,520 --> 00:30:30,720
+não tinha algo melhor do que isso, e aí várias coisas me chamaram a atenção, primeiro que todos
+
+299
+00:30:30,720 --> 00:30:36,240
+esses eventos eram feitos de forma voluntária, então as pessoas estavam ali depois da hora do
+
+300
+00:30:36,240 --> 00:30:43,320
+trabalho, hosting os eventos, falando sobre tecnologia, falando sobre alguma área, tinha
+
+301
+00:30:43,320 --> 00:30:50,200
+história do espaço, cedido, tinha comida, então todo mundo fazia isso no seu free time depois do
+
+302
+00:30:50,200 --> 00:30:55,680
+trabalho e era de maneira voluntária, e aí eu cheguei uma hora e falei caramba isso tudo é muito
+
+303
+00:30:55,680 --> 00:31:02,000
+legal, eu acho que é um ciclo né, esse pessoal está ali, se a gente não continuar né, o pessoal que
+
+304
+00:31:02,000 --> 00:31:08,280
+está assistindo daqui a algum tempo esse pessoal tem que seguir a frente né, para que esse movimento
+
+305
+00:31:08,280 --> 00:31:13,680
+continue, é um ciclo né, você está recebendo, você dá de volta, quem recebe dá de volta e assim vai,
+
+306
+00:31:13,680 --> 00:31:18,480
+e fiquei com aquilo na cabeça, falei gente olha que quantidade de oportunidade que eu estou tendo,
+
+307
+00:31:18,480 --> 00:31:24,120
+quanta gente não tem essa oportunidade né, então fiquei com isso passando na minha cabeça direto,
+
+308
+00:31:24,120 --> 00:31:29,120
+falei será que eu não posso ajudar de alguma maneira, será que não tem algo que eu posso fazer
+
+309
+00:31:29,120 --> 00:31:35,880
+para contribuir ou para dar de volta, e aí fiquei com uma cabeça, falei mas será que eu sei alguma
+
+310
+00:31:35,880 --> 00:31:41,200
+coisa, será que eu sou boa em alguma coisa, será que eu consigo liderar alguma coisa, será que eu
+
+311
+00:31:41,200 --> 00:31:46,040
+consigo criar um grupo, e aí comecei a pensar nisso, comecei a pensar, pensar, pensar, eu falei ah,
+
+312
+00:31:46,040 --> 00:31:51,880
+pô tem uma coisa que eu gosto bastante, não sei muito mas eu gosto bastante, que é a história do
+
+313
+00:31:51,880 --> 00:31:57,400
+R, e R tem tudo a ver, eu já sabia que a Google por exemplo, tinha muito estatística dentro da
+
+314
+00:31:57,400 --> 00:32:03,320
+Google e que R era a ferramenta que eles mais utilizavam, eu falei por que não algo do R,
+
+315
+00:32:03,320 --> 00:32:08,520
+porque é algo que eu gosto, algo que eu quero saber mais, e imagina ter uma comunidade de R,
+
+316
+00:32:08,520 --> 00:32:15,600
+assim vai ser um sonho, e já existia comunidade do R, já existia um grupo de R, e eu falei não,
+
+317
+00:32:15,600 --> 00:32:20,880
+mas não dá para ser um grupo como um outro qualquer, porque uma das coisas que eu notei
+
+318
+00:32:20,880 --> 00:32:29,880
+quando eu estava indo a esses eventos, principalmente aqui no Vale do Silício, era que 95% da audiência
+
+319
+00:32:29,880 --> 00:32:36,280
+do pessoal assistindo e do pessoal falando, eram homens brancos, então eu como estrangeira mulher,
+
+320
+00:32:36,280 --> 00:32:42,880
+eu sempre me sentia meio que um peixe fora da água, e ficava sempre no meu cantinho, com muito assim
+
+321
+00:32:42,880 --> 00:32:47,680
+medo de interagir, não sabendo muito bem o que fazer, não sentindo ali parte daquela comunidade,
+
+322
+00:32:47,680 --> 00:32:54,400
+eu estava ali como se fosse assim uma mosquinha vendo o que estava acontecendo, e aí foi a história,
+
+323
+00:32:54,400 --> 00:32:59,280
+eu falei não, eu quero criar um grupo em que as pessoas se sintam à vontade, em que as pessoas
+
+324
+00:32:59,280 --> 00:33:05,360
+possam fazer perguntas, e que todo mundo se sinta incluída nessa comunidade, e aí foi a história,
+
+325
+00:33:05,360 --> 00:33:11,760
+eu falei por que não R Ladies, e daí veio a história do R Ladies, e aí o R Ladies foi criado,
+
+326
+00:33:11,760 --> 00:33:19,560
+nosso primeiro evento foi em outubro de 2012, então a gente acabou de fazer 10 anos, e aí o resto é,
+
+327
+00:33:19,560 --> 00:33:26,360
+eu brinco, o resto é história, porque o R Ladies cresceu de uma maneira que saiu de ser em São Francisco,
+
+328
+00:33:26,360 --> 00:33:34,560
+hoje em dia a gente tem grupos, que a gente chama de capítulos, em mais de 200 cidades do mundo,
+
+329
+00:33:34,560 --> 00:33:41,680
+em mais de 60 países, com mais de 100 mil membros, então é uma coisa assim absurdamente grande,
+
+330
+00:33:41,680 --> 00:33:44,800
+a menor noção de onde ia chegar.
+
+331
+00:33:44,800 --> 00:33:53,040
+Era absolutamente incrível você poder ajudar tantas pessoas, imagina, milhares de pessoas aprendendo,
+
+332
+00:33:53,040 --> 00:33:58,960
+e sabe-se lá o que essas pessoas vão criar, e que impacto social que elas vão ter também,
+
+333
+00:33:58,960 --> 00:34:04,240
+que isso é sensacional, e não terminou aí, você também criou o EA Inclusive, correto?
+
+334
+00:34:04,240 --> 00:34:10,680
+Isso, exatamente, depois de já estar um tempo com a Ladies, e quando eu estava trabalhando na área de
+
+335
+00:34:10,680 --> 00:34:18,040
+Inteligência Artificial, começou a ter a discussão sobre discriminação, sobre racismo,
+
+336
+00:34:18,040 --> 00:34:23,560
+sobre a implicação da Inteligência Artificial na vida das pessoas, então começou a ter essa conversa
+
+337
+00:34:23,560 --> 00:34:32,680
+lá pelos anos de, que eu comecei a ver mais, 2018, 2019, 2019 então o negócio realmente explodiu,
+
+338
+00:34:32,680 --> 00:34:38,760
+então existiam alguns casos em alguns lugares, mas não tinha esse conhecimento que a gente tem hoje em dia
+
+339
+00:34:38,760 --> 00:34:45,880
+dos problemas, e aí lá em 2019 eu comecei a pensar sobre isso, aquilo estava me incomodando muito
+
+340
+00:34:45,880 --> 00:34:52,040
+sobre essa história de vários governos e empresas utilizando a Inteligência Artificial, principalmente
+
+341
+00:34:52,040 --> 00:34:59,320
+com a parte de reconhecimento facial, e aquilo me deixou numa inquietação, que eu falei, mas eu estou aqui
+
+342
+00:34:59,320 --> 00:35:06,760
+participando disso, envolvida nessa conversa, e a gente sabe que a grande maioria das pessoas que irão ser
+
+343
+00:35:06,760 --> 00:35:12,760
+impactadas vão ser as pessoas da minoria, e a minoria não sabe, não tem a menor ideia do que está acontecendo,
+
+344
+00:35:12,760 --> 00:35:18,760
+ela não tem a menor ideia do efeito, como isso irá afetar a vida delas, e aí comecei a pensar nisso,
+
+345
+00:35:18,760 --> 00:35:23,400
+eu preciso fazer alguma coisa, preciso fazer alguma coisa, mas como é que eu posso fazer, como é que eu consigo conciliar tudo,
+
+346
+00:35:23,400 --> 00:35:30,680
+como é que eu consigo atingir pessoas para poder entender o que está acontecendo, e aí eu falei, por que não a história da comunidade,
+
+347
+00:35:30,680 --> 00:35:36,680
+que é algo que eu gosto tanto, que eu faço bem, e que eu vi pelo trabalho do All Ladies, que a gente consegue entrar
+
+348
+00:35:36,680 --> 00:35:44,680
+dentro de comunidades sub-representadas, ou de difícil acesso, ou de minoria, que essa parte de você ter capítulos locais
+
+349
+00:35:44,680 --> 00:35:50,680
+é uma maneira que você consegue se infiltrar e crescer, e aí eu falei, vou criar uma outra organização,
+
+350
+00:35:50,680 --> 00:35:56,680
+mais ou menos parecida com o All Ladies, e daí veio a história do AI inclusive, em que o foco inicial, primeiro,
+
+351
+00:35:56,680 --> 00:36:04,680
+era você trazer o conhecimento dos problemas, as pessoas precisam entender que o mundo que a gente está vivendo atualmente,
+
+352
+00:36:04,680 --> 00:36:12,680
+tudo que você tem ao seu redor, tem energia artificial, tem conexão, tem racismo, discriminação,
+
+353
+00:36:12,680 --> 00:36:18,680
+você está sendo coletado o tempo inteiro, então elas precisam entender que essa coisa que você pensa de IAR,
+
+354
+00:36:18,680 --> 00:36:24,680
+que é uma coisa futurística e que a gente não está lá não, a gente está, e você vai ter muitos problemas com isso,
+
+355
+00:36:24,680 --> 00:36:32,680
+então o nosso primeiro foco era esse, de trazer esse conhecimento, e o segundo foco era como é que a gente pode trazer essas pessoas
+
+356
+00:36:32,680 --> 00:36:38,680
+para o mundo da inteligência artificial, como é que a gente pode trazer mais diversidade para a área de inteligência artificial,
+
+357
+00:36:38,680 --> 00:36:46,680
+como é que a gente pode capacitar, empoderar essas pessoas para entrarem nessa área, então desde 2019 o meu foco
+
+358
+00:36:46,680 --> 00:36:49,680
+tem sido bastante no AI inclusive.
+
+359
+00:36:49,680 --> 00:36:58,680
+E Gabriela, você recentemente mudou de emprego também, você está na Microsoft agora, você pode contar um pouquinho sobre esse trabalho novo?
+
+360
+00:36:58,680 --> 00:37:10,680
+É, tem quase um mês, eu de novo, o que eu vou fazer a próxima vez, o que será que eu vou fazer, e aí eu resolvi voltar para a história de advocate,
+
+361
+00:37:10,680 --> 00:37:19,680
+para estar mais perto da comunidade de novo, e aí eu tinha essa vaga na Microsoft, muito interessante também de gerenciar um time,
+
+362
+00:37:19,680 --> 00:37:27,680
+trabalhando também na área de inteligência artificial, machine learning, neuroscience, mas que o público em que a gente está trabalhando são estudantes,
+
+363
+00:37:27,680 --> 00:37:36,680
+então o meu time e meu time maior também, a gente está focado na parte de educação, de faculdade, de escolas, que eu digo assim, universidades,
+
+364
+00:37:36,680 --> 00:37:46,680
+então a gente trabalha com estudantes, com professores, e tem muita coisa legal acontecendo, mas assim, entender de programas, e pouca gente sabe disso,
+
+365
+00:37:46,680 --> 00:37:58,680
+mas eu acho muito legal, porque é uma super oportunidade, a gente tem programas em que a gente, os estudantes, eles podem se tornar embaixadores da Microsoft,
+
+366
+00:37:58,680 --> 00:38:08,680
+em que eles têm treinamento, você tem todo um treinamento de como utilizar produtos da Microsoft, como utilizar GitHub, a gente não pode esquecer que o GitHub é da Microsoft,
+
+367
+00:38:08,680 --> 00:38:20,680
+você tem acesso a muitos produtos da Microsoft de graça ao entrar nesse programa, você tem certificações que são de graça, que você pode fazer com os produtos da Microsoft,
+
+368
+00:38:20,680 --> 00:38:28,680
+como o Azure, você tem o GitHub for Education, em que você tem o GitHub de graça, e várias outras coisas que vêm junto com o GitHub,
+
+369
+00:38:28,680 --> 00:38:39,680
+então o nosso foco é com a história de estudante, então a gente prepara conteúdo para estudante, a gente prepara workshop, a gente faz parceria com universidades
+
+370
+00:38:39,680 --> 00:38:49,680
+para utilizar conteúdos que a gente já tem, ou produtos da Microsoft que vão facilitar, ou que vão até também capacitar esses alunos para entrarem no mercado,
+
+371
+00:38:49,680 --> 00:39:01,680
+então são ferramentas que são importantes para os alunos saberem, então a gente faz parceria com as universidades também, e a minha área de foco é realmente criar machine learning e data science.
+
+372
+00:39:01,680 --> 00:39:14,680
+Gabriela, você tem uma carreira aqui que você está lidando com, como a gente fala em inglês, o topo do food chain, você tem lidado com um monte de tecnologias interessantes e diferentes,
+
+373
+00:39:14,680 --> 00:39:23,680
+mas será que tem alguma coisa na área de tecnologia com a qual você não trabalha ou não tenha trabalhado, mas que você gostaria de trabalhar um dia?
+
+374
+00:39:23,680 --> 00:39:33,680
+Essa é uma ótima pergunta, porque eu não sei se hoje, agora nesse momento você tem algo que eu falo assim, bom daqui a 5, 10, 15 anos isso é o que eu quero fazer.
+
+375
+00:39:33,680 --> 00:39:41,680
+Eu acho que é tão difícil porque está tudo mudando tão rapidamente que provavelmente amanhã vai aparecer algo que eu vou ficar muito interessada,
+
+376
+00:39:41,680 --> 00:39:49,680
+ou daqui a alguns meses, ou daqui a alguns anos, e que eu vou falar, não, é isso que eu quero fazer, mas assim, eu acho que agora, e eu penso muito no meu presente,
+
+377
+00:39:49,680 --> 00:39:59,680
+a história dos estudantes e até pelo meu background, vindo do Brasil e como a gente não tem oportunidade, se a gente tivesse oportunidade, todo mundo deslancharia,
+
+378
+00:39:59,680 --> 00:40:12,680
+então eu estar trabalhando com estudantes agora para mim é o meu sonho, é poder abrir portas, é trazer oportunidade para essa galera com foco em lugares que têm menos acesso.
+
+379
+00:40:12,680 --> 00:40:23,680
+Então você imagina você ganhar treinamento, você ter esses treinamentos em que ela vai te inserir no mercado, ou assim, tem várias histórias de alunos que fizeram parte desse programa
+
+380
+00:40:23,680 --> 00:40:33,680
+e que trabalham na Microsoft, pessoas do time, e que foi isso, elas fizeram esse programa e aí anos depois elas foram fazer parte do time.
+
+381
+00:40:33,680 --> 00:40:44,680
+Então isso para mim hoje em dia é o meu sonho, assim, de estar trabalhando com essa parcela da população. Eu não sei se daqui a cinco, dez anos isso ainda vai ser o que eu quero trabalhar,
+
+382
+00:40:44,680 --> 00:40:49,680
+é difícil de saber, mas se você me perguntando hoje em dia, eu acho que isso é o que eu, eu estou bem feliz onde eu estou.
+
+383
+00:40:49,680 --> 00:41:00,680
+Muito bacana. E, Gabriela, voltando um pouco aqui na parte da diversidade, que a gente tocou um pouco antes na conversa aqui, mas acho que seria importante a gente ouvir de você também,
+
+384
+00:41:00,680 --> 00:41:12,680
+o que você acha que as pessoas que trabalham na área de tecnologia em geral podem e devem fazer para aumentar a diversidade necessária, que ainda é a diversidade ainda muito pequena, né?
+
+385
+00:41:12,680 --> 00:41:15,680
+O que você acha que todos nós deveríamos fazer?
+
+386
+00:41:15,680 --> 00:41:22,680
+Essa é uma ótima pergunta. Tem vários pontos, além da história da capacitação, e tem sempre a discussão,
+
+387
+00:41:22,680 --> 00:41:36,680
+tem sempre a discussão, ah, mas se você está trazendo uma diversidade, você está baixando, está lowering the bar, você está diminuindo o que é necessário e que para mim é uma total besteira isso que está sendo falado.
+
+388
+00:41:36,680 --> 00:41:48,680
+Agora eu acho que assim, por exemplo, o processo de entrevista, ele tem que ser mais inclusivo desde o início, né? Então vou dar um exemplo, se você está entrevistando, se você é um entrevistador,
+
+389
+00:41:48,680 --> 00:41:59,680
+você é a empresa que está contratando, na hora que você está criando um processo de entrevista ou de seleção, você não tem processos inclusivos, então quando a gente fala de diversidade, a gente não está falando de diversidade de gêneros,
+
+390
+00:41:59,680 --> 00:42:11,680
+mas a gente está falando de diversidade sendo uma gama de características, digamos assim. Então desde o processo de, sei lá, você ter um, aqui é muito comum de você ter um take-home assignment,
+
+391
+00:42:11,680 --> 00:42:25,680
+um dever de casa em que você tem, sei lá, dez horas durante uma semana, vamos pensar assim, para fazer aquele dever de casa. E aí aquilo pode ser muito difícil, sei lá, eu como, se tem uma família, tem pessoas para cuidar,
+
+392
+00:42:25,680 --> 00:42:39,680
+eu não tenho esse tempo livre para fazer esse tipo de exercício, então você já está excluindo um pedaço da população ou a história do whiteboard, né? Então o whiteboard, nem todo mundo se sente confortável para fazer aquilo,
+
+393
+00:42:39,680 --> 00:42:50,680
+então acho que você tem que ter uma flexibilidade ali para você conseguir se adaptar e aí conseguir realmente, isso já ajuda na história da diversidade, a história que eu ia falar na entrevista, né?
+
+394
+00:42:50,680 --> 00:43:05,680
+Então se eu, como vamos supor, mulher, na hora que eu vou entrevistar em empresas e todas as pessoas que me entrevistam nessa empresa são homens, eu falo algo está errado, eu não vou me sentir confortável naquele ambiente,
+
+395
+00:43:05,680 --> 00:43:20,680
+eu não estou vendo nenhuma diversidade ali, ninguém ali como eu, ninguém ali que eu consigo me identificar, então para mim já é uma red flag, então você ter um, os entrevistadores que sejam bastante diversos, que representem a diversidade da empresa,
+
+396
+00:43:20,680 --> 00:43:31,680
+essa é uma outra questão. A outra parte é a gente falar sobre a história de mentoria, de você ter outros tipos de oportunidades também dentro da empresa, a história da capacitação,
+
+397
+00:43:31,680 --> 00:43:39,680
+acho que esses são alguns exemplos que eu posso pensar, assim, sobre como melhorar essa situação da diversidade.
+
+398
+00:43:39,680 --> 00:43:51,680
+Gabriela, olhando a tua carreira aqui e tudo que você fez até agora e com certeza vai fazer um monte de coisa no futuro, teria alguma coisa diferente, que você teria feito alguma coisa de forma diferente no passado?
+
+399
+00:43:51,680 --> 00:44:08,680
+Você sabe que eu me perguntei isso durante muito tempo e quando eu olho para trás hoje em dia eu falo não, eu não teria feito nada diferente, por muito tempo eu me sentia culpada de estar fazendo o que eu estava fazendo e de ir e vir e não ter tomado um rumo na vida muito cedo.
+
+400
+00:44:08,680 --> 00:44:19,680
+Durante a época que isso estava acontecendo era muito difícil para me enxergar o que vinha depois, mas quando eu olho para trás eu falo não, olha tudo o que aconteceu eu acho que foi maravilhoso,
+
+401
+00:44:19,680 --> 00:44:32,680
+porque várias coisas que eu fiz durante a minha vida, em que no momento eu achava que era uma perda de tempo, ou que achavam por mim que era uma perda de tempo, que você não está seguindo um caminho que vai tirar futuro,
+
+402
+00:44:32,680 --> 00:44:44,680
+quando eu olho para trás várias coisas que eu fiz elas me tornaram a Gabriela que eu sou hoje, então assim eu sou muito grata por todas as mesias, todas as vindas e todas as curvas que eu tomei durante a minha trajetória,
+
+403
+00:44:44,680 --> 00:44:55,680
+porque elas me transformaram nessa Gabriela, uma pessoa única que tem todo esse caminho que foi trilhado e que não foi linear, então assim eu não faria nada diferente.
+
+404
+00:44:55,680 --> 00:45:06,680
+Nessa mesma linha considerando os programadores a gente tem uma comunidade grande com muita gente que está começando e se questionando e pensando o que vai fazer, como é que vai fazer,
+
+405
+00:45:06,680 --> 00:45:14,680
+que tipo de recomendação você teria para as pessoas que estão começando hoje, estão lá na Gabriela de alguns anos atrás?
+
+406
+00:45:14,680 --> 00:45:26,680
+Olha, hoje como a gente tem muita facilidade da internet, que tem uma facilidade e dificuldade porque você tem muita informação e às vezes você fica perdido, você não sabe por onde você vai, porque é tanta coisa,
+
+407
+00:45:26,680 --> 00:45:37,680
+então eu acho que assim você poder de repente se espelhar em alguém e falar assim não eu quero ser exatamente essa pessoa então vou seguir ali, vou pegar umas dicas daquela pessoa, você tem umas inspirações,
+
+408
+00:45:37,680 --> 00:45:49,680
+hoje em dia a gente consegue fazer bastante isso, então assim e ver o que funciona para você, então a gente tem toda essa discussão nessa área de ciência de dados sobre será que eu devo aprender essa linguagem,
+
+409
+00:45:49,680 --> 00:46:03,680
+será que eu devo aprender essa outra linguagem, será que eu devo fazer o curso tal, aquele outro curso, eu acho que é tudo do indivíduo, então para mim por exemplo o R foi a primeira exposição que eu tive ali a programação e é a primeira linguagem que eu vou fazer,
+
+410
+00:46:03,680 --> 00:46:15,680
+se eu tiver que fazer alguma coisa, vai ser a primeira linguagem que eu vou pegar, porque é que eu me sinto mais confortável, mas tem pessoas que preferem Python por motivos parecidos ou por outros motivos ou porque precisam fazer alguma coisa
+
+411
+00:46:15,680 --> 00:46:26,680
+e que uma linguagem não está disponível, você tem que fazer outro, então eu acho que é muito de você experimentar e ver o que funciona para você, eu acho que a experimentação também vai te trazer grãos no final da conta,
+
+412
+00:46:26,680 --> 00:46:38,680
+a outra parte também que eu sempre falo que para mim é muito assim porque eu gosto muito de vídeo por exemplo, então e eu gosto de uma coisa mais assim tradicional, um currículo mais, eu gosto de currículo,
+
+413
+00:46:38,680 --> 00:46:53,680
+então para mim é muito mais fácil ir fazer um curso do que ter que estudar sozinha, para mim é muito mais fácil fazer um vídeo do que pegar um livro e ter que aprender sozinha, para mim é muito mais fácil estar inserida na comunidade e aprender juntas do que ficar sozinha,
+
+414
+00:46:53,680 --> 00:47:04,680
+então eu fui também aprendendo o que funciona para mim melhor, então acho que é você experimentar e ver o que é o melhor para você, não, eu gosto disso, eu gosto daquilo e o resto você vai, uma vez que você acha isso,
+
+415
+00:47:04,680 --> 00:47:09,680
+você consegue ir para os próximos passos e vai aprendendo mais e mais.
+
+416
+00:47:09,680 --> 00:47:16,680
+Como a gente conversou lá no começo do papo aqui, não existe um caminho único, as coisas não são necessariamente lineares.
+
+417
+00:47:16,680 --> 00:47:18,680
+É, não, totalmente.
+
+418
+00:47:18,680 --> 00:47:27,680
+Gabriela, você tem dicas de livro, música, jogos, filmes ou alguma outra coisa que você gostaria de recomendar aqui para a nossa audiência?
+
+419
+00:47:27,680 --> 00:47:40,680
+Olha, eu tenho alguns livros que eu gosto, desde livros técnicos para não técnicos, um livro que eu acho que para quem quer saber um pouco mais da área de ciência de dados, da carreira,
+
+420
+00:47:40,680 --> 00:47:48,680
+todos infelizmente são em inglês, mas tem um que se chama Bill da Career and Data Science, que é da Emily Robson e da Jacqueline Knowles,
+
+421
+00:47:48,680 --> 00:47:58,680
+em que fala, você tem entrevistas com vários cientistas de dados que trabalham em áreas diversas e fala um pouquinho também de como você conseguiu seu primeiro emprego,
+
+422
+00:47:58,680 --> 00:48:04,680
+como você escreveu seu currículo, do valor da comunidade, então eu gosto desse livro porque ele sai um pouco do técnico,
+
+423
+00:48:04,680 --> 00:48:13,680
+assim, ele não vai te ensinar como funciona o modelo de machine learning, te dá uma visão geral e aí tem uns livros mais técnicos,
+
+424
+00:48:13,680 --> 00:48:23,680
+eu acho que um outro que eu gosto é o R para Ciência de Dados, então R for Data Science, em que ele está disponível online de graça, mas também você tem o livro impresso,
+
+425
+00:48:23,680 --> 00:48:32,680
+é um outro livro que eu gosto bastante, que apesar de ser escrito com foco no R, eu acho que ele te dá vários conceitos ali que estão inseridos no livro,
+
+426
+00:48:32,680 --> 00:48:41,680
+em que ele é meio que independente da linguagem, esses conceitos são utilizados independente de que linguagem você está usando.
+
+427
+00:48:41,680 --> 00:48:49,680
+Sobre, eu estou pensando aqui sobre filmes, é tão raro, eu acho que a vida tem, pelo menos a minha vida tem sido tão corrida,
+
+428
+00:48:49,680 --> 00:48:57,680
+que é impossível, com família e tudo, assim, tem sido impossível para mim sentar e assistir um filme, então assim, eu assisto muita besteira na televisão,
+
+429
+00:48:57,680 --> 00:49:09,680
+porque eu acho que é quando meu cérebro fala assim, não, agora eu preciso assistir algo que seja muito tranquilo, que não seja violento, que seja assim, só para eu descansar, né,
+
+430
+00:49:09,680 --> 00:49:16,680
+assim, as coisas que eu assisto, totalmente aleatória, não tem nada assim que eu consiga pensar, estou tentando pensar se tem algo assim,
+
+431
+00:49:16,680 --> 00:49:23,680
+nossa, esse aqui eu acompanhei e assisti, eu acho que talvez eu não assista tanto televisão assim, para recomendar.
+
+432
+00:49:23,680 --> 00:49:33,680
+E livros, eu sempre tento escutar livro, ler livro, vou lendo pouquinho em pouquinho cada dia, não leio um monte de livro, mas eu escuto bastante,
+
+433
+00:49:33,680 --> 00:49:41,680
+tem um livro que se chama The High Five Habit, fala sobre a história de você acordar todo dia de manhã e meio que dar um high five em você,
+
+434
+00:49:41,680 --> 00:49:52,680
+que aquilo ali meio que dita como é que vai ser o seu resto do dia, tem um outro livro que eu achei interessante em que ele fala sobre como que os designers eles destruíram o mundo, sabe,
+
+435
+00:49:52,680 --> 00:50:01,680
+então, assim, fala muito sobre essa história de como você desenha aplicativos em que são discriminatórios ou que você está excluindo uma parte da população,
+
+436
+00:50:01,680 --> 00:50:10,680
+eu acho que é, eu gosto muito de casos assim, coisas que são práticas, então eu gosto de ler coisas que eu consigo me relacionar ou que tem a ver com o meu dia a dia,
+
+437
+00:50:10,680 --> 00:50:16,680
+leio bastante sobre a parte de gerenciamento, sobre liderança, esse tipo de livro.
+
+438
+00:50:16,680 --> 00:50:24,680
+Ótimas recomendações aqui, e Gabriela, tem alguma pergunta que eu não fiz e que você gostaria que eu tivesse feito?
+
+439
+00:50:24,680 --> 00:50:31,680
+Eu não sei se pergunta, mas eu queria, assim, chamar todo mundo para quem está ouvindo, estudantes principalmente,
+
+440
+00:50:31,680 --> 00:50:42,680
+para saber um pouquinho mais do que a gente está fazendo na Microsoft com esse programa de para estudantes, né, que se chama, você tem o Microsoft Learning e você tem um hub para estudantes
+
+441
+00:50:42,680 --> 00:50:53,680
+em que tem bastante material, bastante vídeos e o legal disso tudo é que você tem essas aulas em que você faz tudo ali dentro da página, né,
+
+442
+00:50:53,680 --> 00:51:00,680
+então os notebooks são todos inseridos na página, você não precisa instalar nada no seu computador e aí você vai seguindo esses tutoriais,
+
+443
+00:51:00,680 --> 00:51:09,680
+tem vários caminhos, não só de ciência de dados, mas para desenvolvedor e tudo mais, e aí se você se inscreve também,
+
+444
+00:51:09,680 --> 00:51:19,680
+tem como você se inscrever para os produtos da Microsoft e aí você tem acesso a não só a Microsoft, a nuvem, né, o cloud e a Azure e os produtos,
+
+445
+00:51:19,680 --> 00:51:29,680
+mas você também, se você quiser fazer, além disso, quiser fazer parte do programa, você tem acesso a outras coisas, além da comunidade, né,
+
+446
+00:51:29,680 --> 00:51:36,680
+que são, sei lá, centenas de pessoas no mundo inteiro que fazem parte desse programa de Student Ambassador,
+
+447
+00:51:36,680 --> 00:51:46,680
+então você tem acesso a várias pessoas no mundo inteiro, você tem acesso aos Cloud Advocating, que são pessoas que são exporters em várias áreas da tecnologia
+
+448
+00:51:46,680 --> 00:51:59,680
+e você tem acesso aos produtos não só ligados à tecnologia, mas até o Office, né, então você tem acesso a Excel, né, acesso a Word e você tem acesso ao GitHub Education,
+
+449
+00:51:59,680 --> 00:52:07,680
+vários outros produtos, então a minha chamada aqui é para o pessoal ir saber um pouquinho mais de como funciona esse nosso programa,
+
+450
+00:52:07,680 --> 00:52:19,680
+depois você pode dividir, Marcelo, o link, mas se chama Microsoft Learn Student Hub e tem a versão em português, eu não sei como é que eles chamam em português,
+
+451
+00:52:19,680 --> 00:52:28,680
+mas existe essa mesma versão em que o site é praticamente todo em português e aí tem eventos, tem muita coisa, eu acabei de chegar lá,
+
+452
+00:52:28,680 --> 00:52:35,680
+eu só sei que tem muita coisa, muita coisa legal que eu como estudante adoraria que tivesse tido na época que eu era estudante, né,
+
+453
+00:52:35,680 --> 00:52:40,680
+então todo dia eu entro ali para ver o que está acontecendo e vou aprendendo coisas novas também.
+
+454
+00:52:40,680 --> 00:52:46,680
+Isso é absolutamente fantástico, né, e eu justamente mencionar para você, a gente tem lá a comunidade dos programadores,
+
+455
+00:52:46,680 --> 00:52:55,680
+a gente tem um pouco mais de 4 mil pessoas inscritas, né, aprendendo a programar, usando GitHub, usando várias ferramentas para aprender,
+
+456
+00:52:55,680 --> 00:53:06,680
+mas uma das dificuldades que a gente tem é ainda o domínio do inglês, né, que não é reforçado na educação do Brasil e muitas dessas ferramentas são todas em inglês,
+
+457
+00:53:06,680 --> 00:53:16,680
+então esse trabalho de localização desse hub e tudo mais é de profunda importância, né, para ajudar o pessoal realmente a se engajar e aprender cada vez mais,
+
+458
+00:53:16,680 --> 00:53:25,680
+exatamente como você disse, né, eu sou mais antigo que você, né, na minha época que eu estava aprendendo algumas coisas também, programar e tudo mais,
+
+459
+00:53:25,680 --> 00:53:34,680
+a gente ia para a livraria, o livro custava uma fortuna e a gente tinha que ler o livro na livraria, que era tudo em inglês, não tinha nada em português e custava uma fortuna, né,
+
+460
+00:53:34,680 --> 00:53:43,680
+a gente ia para a Avenida Rio Branco, no prédio da Avenida Central, você deve saber onde é que é isso, e no Rio de Janeiro, né, e tinha uma livraria chamada Ciência Moderna, a gente ia ler,
+
+461
+00:53:43,680 --> 00:53:51,680
+então você vê essas ferramentas, essas coisas sendo criadas por Microsoft e outras empresas do mundo, é absolutamente fantástico, o futuro será brilhante com certeza,
+
+462
+00:53:51,680 --> 00:54:00,680
+e com relação ao teu contato, tem alguma coisa que você queira mencionar aqui, Twitter, e-mail ou com o LinkedIn, alguma outra conta que você queira divulgar aqui?
+
+463
+00:54:00,680 --> 00:54:09,680
+É, eu sou bastante ativa no LinkedIn, no Twitter, no Instagram, acabei de criar uma conta no TikTok, porque eu sei que o pessoal está usando TikTok, os estudantes,
+
+464
+00:54:09,680 --> 00:54:19,680
+então, é, estou tentando achar maneiras em que eu consiga me conectar mais com os estudantes, mas o meu LinkedIn, pelo meu nome lá, tem bastante informação,
+
+465
+00:54:19,680 --> 00:54:27,680
+o problema das redes é que tem vários nomes, não vários nomes, mas o meu username não é diferente do outro, não tem uma padronização,
+
+466
+00:54:27,680 --> 00:54:38,680
+mas tem o meu site que é kroz.com, também tem bastante coisa lá, todas as minhas informações e as redes, mas qualquer rede eu estou bastante conectada,
+
+467
+00:54:38,680 --> 00:54:46,680
+isso é um prazer, se alguém tiver alguma pergunta e quiser saber mais sobre o programa, mesmo que não saiba o inglês, tem muito material em português,
+
+468
+00:54:46,680 --> 00:54:56,680
+e tem essa comunidade, né, a gente divide as comunidades também por regiões, então tem a comunidade do português, tem a comunidade que fala espanhol, tem a comunidade que fala inglês,
+
+469
+00:54:56,680 --> 00:55:04,680
+então você também tem essa comunidade que não tem maneira melhor de você aprender do que ter pessoas com você nessa jornada.
+
+470
+00:55:04,680 --> 00:55:13,680
+Gabriela, eu sei que já são aqui no nosso horário 1h16 da tarde, a gente está tirando o tempo do nosso almoço aqui para ter esse papo aqui sensacional,
+
+471
+00:55:13,680 --> 00:55:21,680
+e eu queria te agradecer pelo teu tempo, agradecer você contar, compartilhar aqui essa sua história maravilhosa com a gente, muito obrigado pelo teu tempo, hein.
+
+472
+00:55:21,680 --> 00:55:22,680
+Obrigada a você, é um prazer.
+
+473
+00:55:22,680 --> 00:55:23,680
+Tchau, um abração.
+
+474
+00:55:23,680 --> 00:55:24,680
+Um abraço.
+
+475
+00:55:24,680 --> 00:55:32,680
+Chegamos ao final de mais um episódio, agradeço a todos a atenção, e o nosso site é osprogramadores.com.
+
+476
+00:55:32,680 --> 00:55:37,680
+Participem e até o próximo episódio. Um bom dia para todos.
+

@@ -1,0 +1,592 @@
+Olá, gente!
+Eu hoje estou aqui com a Loian Groner.
+Loian, prazer enorme ter você aqui comigo.
+Olá, pessoal. Eu agradeço o convite. O prazer é todo meu.
+Loian, eu sempre pergunto para os meus convidados aqui como foi o comecinho da coisa para eles.
+Como você se interessou por computação e tecnologia? Como isso apareceu na sua vida?
+Foi durante a faculdade ou um pouquinho antes da faculdade.
+Durante o ensino médio eu queria fazer direito. Então, nada a ver com tecnologia, né?
+Só que vestibular, né? Você tem muitas coisas que você tem que decorar, principalmente para o vestibular.
+Na área de humanas tem muita coisa que você precisa memorizar.
+E eu não era muito fã de decorar várias datas com muitos detalhes.
+Eu gosto bastante de história e da parte de geografia, pela história em si.
+Mas não necessariamente saber, por exemplo, que Pedro Álvares Cabral chegou no Brasil na data tal,
+vestindo tal, era casado com fulana, tinha tantos filhos, os filhos estavam vestindo tal roupa, sabe?
+Esse nível de detalhe eu não era muito fã.
+E eu sempre gostei muito também da área de matemática e física também.
+E faltando seis meses para o vestibular eu decidi trocar por algum curso de exatas.
+E a questão foi qual curso escolher. Porque eu já estava bem em cima da hora.
+E naquela época a gente não tinha acesso a informação como a gente tem hoje, né?
+A gente não tinha YouTube, né? A informação que a gente tinha era você pegar as faculdades,
+ver a lista de cursos que você podia prestar para vestibular e escolher, né?
+Você sabia o que era de exatas, se era da área de biomédicas, se era da área de humanas.
+E a gente só tinha informação sobre as carreiras que na época eram as mais tradicionais, digamos assim, né?
+A parte de medicina, farmácia, direito, história e da parte de exatas eram mais as engenharias,
+engenharia mecânica, engenharia civil, que se falava mais na escola.
+E não tinha muita informação sobre engenharia da computação ou ciência da computação.
+E eu vi essas duas faculdades de computação e falei eu vou escolher uma dessas aí.
+A escolha foi justamente por gostar de ficar no computador.
+Eu vou fazer uma faculdade de ciência da computação porque eu gosto de ficar no computador,
+então eu vou estudar o computador.
+E o engraçado é que eu pensei na época que eu ia aprender a consertar computador.
+Não aprendi até hoje, mas passei aí pela faculdade de ciência da computação.
+E foi assim que eu consegui aí meu primeiro contato com a área.
+Completamente inesperado, não sabia o que esperar da faculdade, o que que eu ia aprender na faculdade.
+Não sabia o que que era algoritmos, nunca tinha ouvido falar.
+Então assim, eu nunca tinha parado para pensar como é que de fato um computador funciona
+e como que aqueles programas eram feitos.
+Na minha cabeça era uma coisa meio que mágica, né?
+Que alguém faz e do nada aparece esses programas assim.
+Ou que já existia assim de alguma forma.
+Mas enfim, foi assim que foi o meu primeiro contato aí com a parte de computação,
+desse mundo aí de algoritmos e desenvolvimento.
+Qual foi a faculdade e como é que foi a experiência da faculdade para você?
+Olha, eu gostei muito, muito mesmo dos meus anos de faculdade.
+Eu acho que eu tive muita sorte de ter professores excelentes
+que realmente estavam preocupados com o ensino da matéria.
+São professores que têm experiência de mercado realmente, tinham trabalhado na área,
+sabiam o que o mercado esperava.
+Muitos deles tinham empresas também que alunos acabavam trabalhando nessas empresas.
+E foi assim, para mim, pessoalmente foi uma experiência excelente.
+Só que como todo mundo eu tive algumas dificuldades,
+principalmente no início, como eu falei, eu não sabia o que esperar,
+não sabia o que era desenvolvimento, o que era programação.
+Então quando chegou a primeira aula sobre algoritmos, para mim aquilo foi um choque.
+E já tinham pessoas na minha sala que tinham vindo de um segundo grau mais técnico
+e já sabiam o que era programação, já sabiam declarar variáveis,
+fazer um I, Fiel, C, um loop.
+E para mim aquilo tudo foi muito novo.
+Então eu tive bastante dificuldade no início, mas aí decidi estudar bastante,
+passava depois da faculdade, ia para casa.
+Nos primeiros semestres eu ainda não trabalhava,
+então eu tinha tempo ainda de estudar nos dois primeiros semestres
+e eu decidi entrar de cabeça mesmo e estudar bastante algoritmos,
+fazer muitos exercícios, praticar, mas praticar bastante mesmo
+até que aqueles conceitos entrassem na minha cabeça.
+E no final do primeiro semestre foi quando as coisas começaram a fazer mais sentido para mim
+e aí eu comecei a aprender de forma mais naturalmente,
+incrementar o conhecimento de forma mais naturalmente,
+porque eu tinha feito muitos exercícios, praticado bastante,
+e aí começou a fazer sentido.
+E como é que foi a chegada assim às primeiras linguagens de programação,
+entendo que você aprendeu algoritmo e tal,
+Como foi a primeira linguagem de programação que você teve de posição?
+Foi, não é bem uma linguagem, mas eu aprendi com Portugal.
+Na época era tudo no caderno mesmo, na folha de papel,
+a gente não tinha acesso ao computador ainda no primeiro semestre.
+Então era tudo no caderno, tudo escrito, todos os algoritmos escritos com Portugal.
+Então a gente aprendeu a parte de declarar variáveis,
+a parte de IF, ELSE, as condicionais, LOOPS, WHILE e POUR,
+depois veio a parte de vetores e depois matrizes,
+foi esse o escopo dos primeiros seis meses.
+Depois que a gente aprendeu essa primeira parte,
+a partir do segundo semestre,
+é que a gente teve uma primeira linguagem de programação mesmo,
+que aí foi com o Pascal, e aí o meu primeiro contato foi com o Pascal.
+Você ainda se lembra dos primeiros programinhas que você escreveu usando o Pascal?
+Eu acho que eu tenho até hoje uns arquivos salvo,
+eu salava em disquete na época,
+eu estava começando aí a era do DVD,
+pendrive era uma coisa extremamente cara ainda,
+eu lembro que eu comprei um pendrive,
+porque depois a escola acabou trocando os computadores,
+e aí para poder levar os exercícios, eu levava pelo pendrive.
+E-mail ainda, a parte de armazenamento de e-mail era extremamente limitado na época,
+era que você tinha o bol aí, dois megas de armazenamento,
+que hoje é um e meio com uma foto, se você já tem aí dois megas,
+mas era extremamente limitado,
+por isso a gente usava mais a parte de disquete e pendrive.
+Mas era um programa assim, bem simples, né, de você fazer leitura de teclado,
+fazer algum tipo de cálculo, né,
+que calculasse um triângulo, exósceles,
+esses conceitos matemáticos, né?
+E tinha os conceitos também de vetores, né,
+dado tanto os alunos, calcular a média,
+das notas dos alunos, enfim, esses exercícios mais clássicos mesmo com Pascal,
+tanto em Portugal quanto com Pascal.
+Bacana demais.
+E como é que foi, assim, você disse que não trabalhava ainda nos primeiros períodos da faculdade,
+mas como é que foi a evolução até você chegar ao teu primeiro emprego como programador?
+Acho que foi no segundo, no terceiro semestre da faculdade,
+a faculdade ela tem um programa de monitoria após as aulas, né?
+Esse foi o meu primeiro emprego assim informal aí na área de TI,
+porque a gente ganhava bolsa da faculdade, né,
+então com isso eu conseguia 50% de bolsa de estudos sendo monitora, né?
+Então eu fui monitora da parte de algoritmos, né, algoritmos 1 e 2 também,
+estrutura de dados que acabou sendo aí no terceiro semestre.
+Eu fiquei monitora por alguns anos,
+porém a faculdade que eu estudei,
+e isso é uma das coisas que eu acho legal, né,
+acho que é uma oportunidade muito legal para quem tem a oportunidade de fazer faculdade,
+que é a questão aí com o primeiro emprego, com o primeiro estágio,
+que eu consegui graças à faculdade que eu estudava.
+A faculdade ela até hoje, eles fazem parcerias com as empresas da cidade, da região,
+para poder dar oportunidade aí para os alunos.
+Então foi o meu primeiro estágio, que foi como desenvolvedora Java,
+e eu estava no quarto semestre aí, já indo aí para o final do segundo ano da faculdade,
+que foi que eu consegui o estágio pela coordenação.
+Eu e um amigo meu que estudava comigo, nós dois fomos selecionados para trabalhar nessa empresa.
+Só que na época a faculdade ainda não ensinava Java,
+a gente só ia aprender Java a partir do quarto, quinto semestre, se não me engano,
+não, do quinto semestre, para aprender os conceitos de orientação objetos.
+Só que eu só tinha aprendido a parte de Pascal,
+tinha alguns eventos, eu sou do Espírito Santo, né, eu fiz a faculdade lá em Vitória,
+e estavam começando a ir eventos lá para o estado, né,
+tinha a Escola Regional da SBC, que acontece em alguns estados, né, com algumas faculdades,
+que são eventos um pouco mais acadêmicos, mas sempre tinham convidados, né,
+pessoas que davam workshop de linguagens, coisas mais práticas assim também, né,
+não tanta parte conceitual acadêmica.
+Java na época, indo para a versão 5 do Java,
+era uma linguagem que estava crescendo muito, né, estava ganhando bastante destaque,
+e muitas empresas lá de Vitória e Vila Velha usavam essa linguagem,
+então a faculdade ia começar a trocar toda a parte de Pascal para Java,
+os professores estavam aprendendo Java também,
+e com essa oportunidade de empregos, esses eventos acontecendo,
+uma professora minha, professora Cintia, a gente formou um grupo de estudos, né,
+tendo aí a professora aí, menturando a gente,
+e a gente começou a estudar a parte de Java.
+Pegamos também, isso foi durante as férias da metade do ano,
+que ela passou tipo um projeto para a gente conseguir tentar fazer,
+que foi um jogo da Forca, eu tenho esse jogo na Forca,
+inclusive lá no meu GitHub, que foi o meu primeiro projeto assim mais complexo,
+que eu fiz com Java, com isso a gente aprendeu os conceitos, né,
+orientação objetos, a parte da sintaxe da linguagem, o que que era herança,
+o que que era uma interface, e foi aprendendo aí dessa forma aí,
+meio que ficando após a escola, né, na época eu estudava de manhã ainda,
+então ficava umas duas, três horas após o término da escola,
+para poder ficar estudando e nos finais de semana praticando esses projetos.
+Eu basicamente sabia assim, bem o básico, básico mesmo de Java para começar o estágio, né,
+e eu tive sorte também, porque foi realmente um estágio, né,
+hoje quando você vê vagas de estágio, são vagas que pedem muitas coisas, né,
+basicamente profissionais juniors, mas eu tive muita sorte mesmo de ter sido um estágio
+e ter tido a oportunidade de estudar mesmo, né, de aprender as coisas,
+eu não sabia o que que era controle de versão, eu não sabia o que que era banco de dados,
+sabia que existia, né, mas eu não sabia fazer um select na base, por exemplo,
+não sabia como conectar isso, mostrar, obter dados através do Java, por exemplo,
+não sabia ir na base, pegar informações de uma tabela, não sabia nada disso, né,
+então tudo isso eu tive oportunidade de aprender durante estágio.
+E é bacana que você teve essa oportunidade de estágio como,
+ou seja, esse aqui é um estágio, propriamente dito,
+algo que você está aprendendo ao mesmo tempo que você está começando a dar os seus primeiros passos
+na atividade de programação, e diferente, como a gente anda vendo hoje,
+em uma forma tanto quanto abusiva, né, as pessoas pedindo até saber inglês
+e programar 50 anos de experiência em alguma linguagem de programação
+para pegar um estágio, né, que nada mais é do que uma forma de pagar poucas pessoas.
+Mas enfim, voltando aqui para o nosso trilho, com relação ao estágio,
+como é que evoluiu até você ter efetivamente o seu primeiro emprego que não era um estágio?
+No estágio, como eu falei, né, eu não sabia nada, então eu acabei aprendendo muitas coisas.
+Meu primeiro projeto no estágio foi fazer um programa Java que ia em um diretório FTP, né,
+e obtinha arquivos XML. Eu não sabia o que era XML na época também,
+então acabei aprendendo também sobre esses diferentes formatos de arquivos.
+E pegar esse XML, parciar o XML, né, ler o XML e gravar os dados na base,
+e depois que essas informações eram processadas pela base,
+tinham procederes, né, para poder fazer o processamento e fazer as atualizações necessárias.
+Era ler de novo do banco de dados, gerar um outro arquivo XML e colocar em outro diretório também ali via FTP.
+Era um projeto bem simples, né, mas para mim foi uma tarefa que tinha muita complexidade, né,
+já que eu não sabia nenhum desses conceitos.
+Eu fiquei dois anos trabalhando nessa empresa que eu fiz o meu primeiro estágio,
+e depois eu tive minha segunda oportunidade de emprego, que foi também como desenvolvedora Java.
+Nessa época eu já tinha um pouco mais de conhecimento em desenvolvimento web, né.
+A gente não tinha essa questão de front-end e back-end, era desenvolvimento web.
+Você usava, por exemplo, Java com servlets, JSP, né, você tinha um pacote completo ali com os frameworks da época,
+que era o Struts e também tinha o JSF aí que estava bastante em alta.
+E foi essa a segunda oportunidade.
+E uma coisa legal, né, que é uma coisa importante também que a gente sempre fala para as pessoas que estão começando com essa parte de tecnologia,
+que é investir na parte de networking, né, de você conhecer pessoas, de criar relacionamentos, manter esses relacionamentos.
+E tem a oportunidade também de você fazer aí novas amizades e tal,
+que essa segunda oportunidade de emprego que eu consegui foi através da monitoria que eu dava na faculdade.
+Mesmo com o meu estágio, eu continuava dando monitoria aos sábados.
+E tinha uma outra pessoa também que era monitora e essa pessoa trabalhava nessa outra empresa e falou,
+a gente está com vaga aberta lá, você não quer aplicar e lá fazer uma entrevista, bater um papo, isso dá tudo certo, né, você é contratada.
+Eu topei, né, fui lá, bati o papo com as pessoas da empresa e acabei sendo contratada aí por essa segunda oportunidade, né.
+Então, o que a gente fala, né, o que indica é uma coisa aí bem importante, por isso essa importância do networking também aí na nossa área.
+Esse networking é fundamental, né, é interessante também como é que o universo conspira, né, de forma bem interessante, né.
+Você na monitoria, você conhece uma outra pessoa que acaba de uma certa forma abrindo uma porta que te gera uma outra oportunidade, é bacana demais de ver isso.
+E como é que foi essa outra oportunidade, como é que a tua carreira profissional evoluiu no Brasil?
+Essa segunda oportunidade também foi vitória e durante o estágio eu já tinha começado a trabalhar um pouco com essa parte de web, né,
+que a gente chama de web 2.0, estava começando, né, estava engatinhando.
+Então, a parte de comunicação do HTML, né, do JavaScript com um API era através de JSON,
+então isso era uma coisa nova também que estava sendo introduzida, o Gmail estava sendo lançado, né, com aquela questão do AJAX,
+que você pode passar para uma outra página, é clicar em um link e abrir uma outra página sem dar o refresh na página completamente, né, você manter ali no browser.
+Então isso era uma coisa bem moderna, muito hype para época, né.
+Então eu tive essa oportunidade de começar a aprender e na segunda oportunidade foi com a parte mesmo de desenvolvimento web
+e lá eu usava Struts e JSP, o Spring, que é um framework do Java, também já existia na época, mas era uma coisa que poucas pessoas ainda utilizavam,
+existiam muitas palestras na época sobre o assunto, mas o Struts era um dos frameworks que eram aí os líderes de mercado, né, juntamente com o JSF,
+que era da própria especificação do Java, mas foi basicamente com isso, eu trabalhava para um banco local,
+era uma empresa que dava consultoria para um banco local, então foi meu primeiro contato aí com o ramo financeiro de desenvolver sistemas para banco.
+E, Lohiane, como é que surgiu o teu interesse por escrever livros e como é que foi escrever o primeiro livro para você?
+Depois que eu estava nessa segunda oportunidade surgiu a oportunidade de se mudar para Campinas, em São Paulo, né, e essa oportunidade era para trabalhar na IBM.
+Até então eu tinha trabalhado em empresas locais, né, com clientes brasileiros mesmo, e essa oportunidade na IBM, em Campinas, era para trabalhar para uma conta, né, para um cliente daqui dos Estados Unidos.
+Então o ambiente todo, né, as reuniões, os e-mails, ia ser tudo em inglês.
+E quando eu fiz essa mudança do Espírito Santo para Campinas, essa parte do inglês foi introduzida, eu senti muita necessidade de começar a praticar um pouco mais, praticar tanta a leitura, né, a parte de escrita,
+porque tinha que escrever muitos e-mails, né, a gente não fazia tanta reunião, né, não era como as coisas são hoje, né, toda parte por Zoom ou por Teams,
+e na época era muita coisa por telefone mesmo e muita coisa por IM mesmo, né, pelo MSN que a gente utilizava.
+Então eu tinha essa necessidade de praticar mais o inglês, com isso eu acabei criando o blog na época.
+Eu já tinha um blog em português, que eu comecei quando eu ainda morava lá no Espírito Santo, e com essa mudança para São Paulo, eu comecei a escrever no blog em inglês mesmo para poder treinar.
+Naquela época eu comecei a trabalhar com o XJS, não era Sencha ainda, né, ainda era apenas XJS.
+Com isso eu comecei a documentar as coisas que eu estava trabalhando e comecei a estudar mais o framework mesmo.
+E publicando, né, material em inglês sobre XJS, a editora entrou em contato comigo, eles tinham gostado dos artigos que eu tinha publicado no meu blog,
+e eles ofereceram aí a oportunidade de escrever o primeiro livro. Então foi assim que surgiu essa história do livro.
+Eu fui aceitando, né, porque é um sonho de escrever, a gente não tinha outras pessoas brasileiras escrevendo o livro para fora também, era uma coisa meio que estava no início ainda.
+Então para mim foi uma super oportunidade assim, então a gente não nega quando aparecem essas coisas assim uma vez na vida, então vamos ver o que dá.
+E foi, né, acabei publicando aí o primeiro livro e depois disso vieram outros convites para poder participar.
+Teve um convite que veio pelo LinkedIn, então é uma coisa bacana de você manter um perfil no LinkedIn.
+O LinkedIn era um pouco diferente do que é hoje, né, na época era muito mais voltada para o mercado profissional mesmo, não somente assim como rede social,
+mas era bem só um local que você ia lá e colocava o seu currículo e um outro contato surgiu através do GitHub, porque eu comecei a colocar também exemplos dos posts que eu estava fazendo para o blog.
+No GitHub teve uma pessoa da editora que viu o repositório, gostou dos exemplos, não tinham exemplos iguais na época, né, que outras pessoas estavam fazendo também,
+foram exemplos meio que inéditos e aí também surgiu a oportunidade para escrever o livro através do GitHub também.
+E você já está com quantos livros publicados até hoje? Eu vi recentemente você escreveu no Twitter lá que acho que já está com o título seu publicado até em chinês, correto?
+Isso, são total de cinco livros, mas são oito títulos, né, porque tiveram segunda e terceira edições.
+Algumas edições são completamente diferentes, né, mas o, por exemplo, de estrutura de dados que está na terceira edição agora foi meio que forma incremental, né, a cada edição a gente vai fazendo a revisão e também colocando mais coisas.
+E, Lohiane, como é que surgiu a ideia do canal no YouTube, onde você ajuda tanta gente a aprender Java, Angular e um monte de outra coisa, como é que pintou essa ideia para você fazer isso?
+Então, na época, como eu escrevi o livro em inglês e o livro foi lançado em inglês, as pessoas começaram a cobrar, né, poxa, Lohiane, você é brasileira, está escrevendo livro em inglês, né, e não tinha muitas informações em português.
+Eu tinha o meu blog em português também, na época eu escrevia os artigos em inglês e acabava fazendo assim uma ou duas semanas depois, publicava a tradução em português, mas a parte do livro mesmo, assim, o conteúdo mais completo não tinha.
+E com esse puxão de orelha que o pessoal me deu, eu falei, tá bom, então vou começar a criar vídeos.
+A pessoa estava começando a investir um pouquinho mais no YouTube, né, a gente já tinha, acho que tinham dois canais do YouTube que publicavam material, era um tal de Ricardo, ele tinha um curso de Java publicado no YouTube e o canal da EXScript, que também tinha no YouTube, então falei, bem legal esse formato, curti esse formato, né, e comecei a fazer aí os screencasts, como a gente chamava na época, né, lá para o YouTube,
+que foi começando com o XJS, e aí depois esse formato de vídeo, né, começou a tomar mais popularidade e eu comecei a focar mais nessa parte de vídeo.
+E, Lohiane, como é que surgiu a oportunidade de mudança para os Estados Unidos? Você mencionou que você estava na IBM e, eventualmente, você vai para os Estados Unidos, como é que apareceu essa oportunidade na tua vida?
+Eu fiquei dois anos na IBM e aí o projeto que a gente trabalhava acabou. Tinha a oportunidade de você ser realocado dentro da IBM mesmo, porém eu comecei a ver outras oportunidades fora da IBM também e Campinas e São Paulo, né, são, são
+são, são cidades bem próximas aí, questão de uma hora, uma hora e meia aí, dependendo do, do trânsito. Só que tem uma diferença salarial bem grande, né, até por conta mesmo também do, do custo de vida entre as cidades.
+E eu comecei a ver coisas em São Paulo, na capital, que foi onde eu apliquei para uma vaga no Citibank e essa vaga deu certo e trabalhei bastante tempo lá em São Paulo, né, eu fiquei 7 anos no Citibank em São Paulo, estou lá até hoje, né, fiz aí 11 anos de empresa e a empresa mesmo ela tem um programa de
+transferência, né, então você pode fazer a mobilidade interna dentro da empresa, seja para outros times, outras áreas, né, e também a mobilidade internacional. E aí como tinha essa oportunidade, isso foi uma coisa que eu tentei explorar.
+Eu e meu esposo, a gente tinha vontade sempre de morar fora do país e a gente fez assim muita pesquisa mesmo, a gente passou mais de um ano pesquisando o local que a gente queria morar, um local que faria sentido para a gente, né, culturamente, né, e também o futuro que a gente queria ter.
+Então a gente pesquisou sobre Austrália, Nova Zelândia, alguns países da Europa, Canadá também, Estados Unidos e como eu já estava na empresa e o meu time era todo aqui dos Estados Unidos, era um time que fica, né, em New Jersey, que é do lado de Nova York, eu queria explorar essa opção e foi um dia durante essas revisões aí de performance também, né, e durante os 101 que eu tinha com meu gerente, falei, olha, eu tenho muita vontade de morar fora.
+Se um dia surgir oportunidade, por favor, lembra de mim que eu tenho esse interesse. Eu já tinha ido para Nova York, que é trabalho, né, fazer treinamento, dar workshop para o time também de XGES, HTML5, esses tópicos e eu tinha gostado bastante, falei, poxa, isso é uma coisa que eu gostaria, né, de fazer, de ter essa nova vida nos Estados Unidos.
+E quando surgiu a oportunidade de transferência, foi para a Flórida, em Tampa. Nunca tinha pisado na Flórida, primeira vez que eu pisei na Flórida foi o primeiro dia que a gente passou a vir para cá, né, morar aqui, saiu do aeroporto, eu não sabia para onde ir nem nada e a gente está aqui até hoje, né, vai fazer cinco anos agora.
+E como é que foi a adaptação, a chegada aos Estados Unidos e conhecer um lugar totalmente novo, como você falou?
+O legal aqui da Flórida é que é o clima, é muito parecido com o Brasil, né, esse clima tropical, só que é muito mais úmido, é muito úmido e muito, muito mais quente que no Brasil.
+Então, esse meio que acabou ajudando também na adaptação. E aqui, por ser um estado que tem muitos imigrantes, né, tanto imigrantes latinos, quanto também tem uma comunidade brasileira muito grande aqui, a gente tem um acesso, né, a produtos internacionais também que acaba ajudando na adaptação, né, principalmente aí no início.
+Só que é um aprendizado completamente novo, né, tem a parte cultural não é muito diferente do Brasil, né, a gente está no mesmo continente, né, então isso não é um choque muito grande.
+Até no Brasil mesmo a gente consumia muito conteúdo também aqui dos Estados Unidos, né, consumia música, consumia filmes, seriados, né, então você acaba já meio sabendo o que esperar.
+Só que como você está mudando para um outro país, você acaba aprendendo tudo do zero. Como é que funciona um médico aqui, como é que você marca o médico, como é que você compra um carro, como é que funciona o seguro do carro se você precisar, como é que funciona a questão do plano de saúde aqui nos Estados Unidos, né, que é uma coisa diferente.
+A parte de direção é meio que igual em qualquer lugar do mundo, né, as regras, as leis básicas, mas tem as diferenças também que você precisa aprender, você tem que tirar a carteira de motorista, né, tem que fazer todas essas pequenas coisas, né, supermercado, então você acaba aprendendo várias coisas do zero.
+E até hoje tem coisas que a gente não sabe, que a gente ainda está aprendendo como lidar com isso, que são aprendizados novos aí todo mês, todo ano, enfim, é uma experiência diferente, né, e depois você acaba acostumando com as coisas também, né, então isso é uma coisa interessante e engraçada ao mesmo tempo.
+A gente acabou de fazer uma viagem para o Brasil, né, três anos aí, sem ver a família por conta da pandemia, e aí você, sem querer, você acaba comparando umas coisas e fica vendo coisas que você fazia no Brasil, fazia um parte do seu cotidiano antes, mas agora, como você está muito tempo sem fazer aquilo, você fala, é familiar, mas é estranho ao mesmo tempo, né, então tem essa questão aí do novo, do ser estranho e das coisas que você ainda estava acostumado.
+Então é uma experiência bem interessante.
+Com toda certeza. Você passou por dois furacões recentemente, pode compartilhar um pouquinho como foi essa experiência para você, hein?
+Isso, o furacão teve o Ian, o Ian infelizmente foi um furacão que chegou com quase categoria 5, categoria 5 para quem não sabe é a máxima, então é basicamente destruição total, faltou acho que apenas 10 milhas por hora na direção do Ian, né,
+por hora na direção do vento, é um furacão de chega aí para quase 200 km por hora de vento, né, infelizmente bateu na Flórida e as cidades costeiras onde foi que a gente fala que é o landfall, né, que é quando o furacão toca na terra e quando está no oceano consegue ganhar muita velocidade,
+foi de destruição total.
+Onde a gente mora agora? A gente está mais ou menos no meio do estado, né, e a Flórida para quem não conhece é um estado bem pequenininho, né, tipo um Espírito Santo ou um Rio de Janeiro da vida, né, são estados compridos, né, mas de leste a oeste, assim, a largura é bem curta, né, então você consegue aí com algumas horas de carro você consegue passar por tudo.
+Como a gente está no meio, a gente está mais ou menos a uma hora, uma hora e meia de distância dos dois lados do oceano, né, tanto do oceano Atlântico quanto do Golfo do México.
+O Ian passou bem perto daqui, né, não foi no cone em si, quando o furacão ele chega na parte da terra ele perde um pouco de força, né, ainda bem, e passou aqui perto.
+A gente estava no Brasil quando passou o Ian, né, mas tem a preocupação porque se vê as notícias é a cidade aqui onde a gente mora aqui do lado ficou completamente debaixo d'água, né, porque veio muita chuva e não tem como escorrer água assim em um curto período de tempo.
+Teve alguns danos aqui no nosso bairro, né, telhado que acaba tendo dano, né, as cercas também.
+Aqui em casa a gente teve uns danos na cerca, mas nada muito drástico assim, né, que você consegue, né, consertar isso e graças a Deus aí tudo certo.
+E essa semana agora, né, que passou a Necole também, esse foi um furacão que veio pelo lado do oceano Atlântico.
+Ninguém estava esperando mais um furacão porque já é novembro, né, geralmente a temporada de furacões ela acontece de julho a novembro, mas geralmente lá para setembro, outubro que a gente fica mais alerta, né, que é por questões das mudanças que vão acontecendo no clima, né, da troca da estação.
+É que fica um ambiente mais propício aí para o início, né, para a origem dos furacões.
+E a Necole meio que veio aí de surpresa para todo mundo e apesar de ter vindo com categoria 1, teve também muito alagamento na área costeira.
+Passou alguns quilômetros daqui.
+É aqui em casa também, graças a Deus, não teve nenhum dano.
+O vizinho perdeu parte da cerca aqui, mas é algo que ele consegue acertar também.
+Mas é isso, né, é a Mãe Natureza agindo e a gente está aqui meio que de passagem.
+Enfim, é meio que aterrorizante para a gente que não tem essas coisas no Brasil, né.
+Eu lembro que a primeira vez que a gente chegou aqui na Flórida e anunciaram um furacão, a gente ficou desesperado.
+Então aqui a gente sempre estoca água, sempre tem água estocada aqui em casa, para pelo menos alguns meses, uns dois, três meses.
+E muita coisa enlatada.
+A gente não tem essas coisas no Brasil, né, mas aqui nos Estados Unidos tem carne enlatada, né, frango, sopa, feijão enlatado, que é questão de você esquentar.
+Então o que o pessoal acaba fazendo é sempre ter aqueles fogonzinhos, né, de uma boca de acampamento.
+Para casos como esse, as empresas acabam desligando a energia para poder evitar danos na rede.
+No IA a gente ficou aqui dois dias, quase três dias sem energia.
+Perdemos tudo que a gente tinha na geladeira, infelizmente.
+É, e justamente para casos como esse, né, você ter água para você até poder também se limpar.
+Na Amazon acaba vendendo aquelas toalhas de acampamento também para caso você não tenha acesso à água, você consegue fazer a sua higiene pessoal.
+Mas sempre tem que ter água, sempre tem que ter coisas enlatadas, né, estocadas aí dentro de casa, porque você nunca sabe o que vai acontecer.
+E quando tem o anúncio dos furacões, né, o geral corre no supermercado, assim.
+Água é uma das coisas que acaba muito, muito rápido.
+E nem de ter estoque no supermercado também, né, não dá tempo de restocar.
+O pessoal fala aqui que a comida de furacão é chips, né, Doritos, Ruffles, esse tipo de alimento.
+Porque é uma coisa fácil que você não precisa esquentar, né, dar aquela enganada no estômago, caso seja necessário.
+Você também não vê nada.
+E principalmente essas sopas enlatadas também, que acaba muito rápido.
+Então, quando fala que vai vir um furacão, todo mundo corre para o supermercado e aí você vê um monte de prateleira vazia também.
+É uma experiência única, né.
+E, Lohiane, você pode contar um pouquinho da tua rotina de trabalho, como é que é o teu dia a dia, como é que é a tua stack de desenvolvimento?
+Bem, eu trabalho com Java.
+Eu sempre fui, né, desde o início da minha carreira eu sempre fui uma desenvolvedora Java.
+Depois eu comecei a trabalhar com um pouquinho com a parte de front-end, né, com uma parte de JavaScript, HTML, CSS.
+Então, a minha stack é basicamente Java com Spring, JPI Hibernate no back-end.
+Com a parte de front-end a gente utiliza XJS, que eu trabalho até hoje também, ainda tem projetos com XJS e com Angular agora também.
+Então, é um combo aí bem bacana essa parte do Angular com Spring agora.
+Tem muita oportunidade de emprego aí, acho que tanto no Brasil quanto fora do Brasil também.
+E é isso, né. E aí, claro, tem parte de mensageria, né.
+Tem os outros detalhes aí do design da arquitetura em si, mas é basicamente Java com Angular.
+E aqui a gente faz o híbrido agora, né.
+Durante a pandemia a gente ficou completamente remoto, né.
+Mas agora a gente está começando a voltar para o híbrido.
+Então, a gente fica 60% do tempo em casa, né. E dois dias a semana aí no escritório.
+E, Lohiane, eu vi que o seu marido está aprendendo a programar aí, potencialmente fazendo uma transição diária também, né.
+Como é que está indo isso? Como é que está sendo essa evolução para ele?
+É, ele decidiu agora, né, estudar também. A gente acabou trocando o nosso tipo de visto.
+Com esse visto novo ele perdeu a permissão dele de trabalhar, né.
+Para o pessoal que não é familiarizado com a parte de visto de trabalho aqui dos Estados Unidos.
+Existem vistos de trabalho em que o parceiro e a parceira podem trabalhar também, né.
+Então você pode tirar a permissão de trabalho.
+E existem vistos que somente o titular pode trabalhar, que é o visto que a gente está agora, que a gente trocou.
+E aí com isso, como ele vai ficar agora meio que em casa, né.
+Ele decidiu estudar, fazer alguma coisa aí com o tempo dele.
+E decidiu vir para essa área de tecnologia, pelo menos tentar, né.
+A gente vai estudar aí um ano e vamos ver como é que vai ficar depois.
+E ele começou agora, tem três semanas, né.
+Ele não está estudando todos os dias, mas ele começou a fazer aquele 100 dias de código, né.
+Que é uma hashtag aí de uma iniciativa bem bacana.
+E está documentando aí o passo a passo dele.
+Começou a estudar lógica de programação.
+E começou agora com uma linguagem mesmo, né.
+Fez toda a parte básica.
+O que eu demorei para aprender seis meses na faculdade, ele aprendeu com duas semanas, com dez dias estudando, né.
+De forma, assim, bem surpresa.
+E ele aprendeu muito rápido.
+Conseguiu fixar bastante rápido aí os conceitos.
+Isso é uma coisa interessante, né.
+Para as pessoas, às vezes, que estão estudando, você não se cobrar tanto, né.
+Eu demorei seis meses para aprender aquilo que ele aprendeu em dez dias estudando.
+Então não dá para você se comparar com outra pessoa, né.
+Cada pessoa acaba tendo aí o seu próprio ritmo, a forma com que estuda, né.
+A forma que consegue absorver as informações e aplicar e praticar aquelas informações.
+Então isso é uma coisa que eu gosto bastante de falar, é de não se comparar.
+Porque eu gastei seis meses e ele gastou dez dias, né.
+Mas no final, né, o importante é você saber, né.
+Conseguir aprender e ir no seu ritmo. Isso que é importante.
+Agora ele está aprendendo Python.
+Porque a gente fez uma pesquisa aqui com as vagas que tem aqui na nossa região.
+Então tem bastante vaga de Python e bastante vaga de Java.
+Ele vai estudar as duas linguagens, vai ver o básico de Python, o básico de Java.
+Vai ver qual que é a linguagem que ele se adapta melhor, que ele gosta mais.
+E aí ele vai focar os estudos naquela linguagem.
+Então a gente vai acompanhando aí passo a passo dele até...
+Vamos ver o que vai acontecer aí daqui a um ano.
+Bacana demais. Que seja um sucesso completo essa evolução para ele aí.
+E quem sabe no futuro ele toque uma entrevista comigo também.
+Opa! Vamos ver.
+Essa é bacana.
+E falar em evolução e tudo mais.
+Tem alguma área da tecnologia ou programação que seja com a qual você não trabalhe hoje,
+mas que você quem sabe gostaria de trabalhar um dia?
+Essa parte de Machine Learning, Inteligencia Artificial, Engenharia de Dados,
+são áreas que estão muito em alta.
+É um dos motivos do meu esposo estar aprendendo Python agora.
+Vamos ver se ele vai curtir.
+Mas é uma coisa que eu tenho bastante curiosidade de saber.
+Não a parte de você treinar os modelos, mas você analisar e conseguir manusear os dados
+para que esses dados fiquem de forma que possam ser consumidos por um modelo, por exemplo, de Machine Learning.
+Uma coisa que eu acho extremamente interessante é uma área que está muito em alta
+e que eu não tenho experiência.
+Uma coisa que um dia talvez eu gostaria de trabalhar, de saber como é que é.
+E, Luiane, a gente está falando aqui já por um tempinho.
+Você passou aqui por várias oportunidades de trabalho.
+Você trabalha, você mudou de país, você fez faculdade.
+Olhando para o passado, tem alguma coisa que você pensa assim,
+porra, eu deveria ter feito isso de forma diferente?
+Tem algo que você teria mudado?
+Olha, fazer de forma diferente, tem várias coisas que a gente faria de forma diferente.
+Depois que você tem a experiência falando, caramba, eu poderia ter feito isso de uma outra forma,
+que seria muito mais fácil, teria consumido muito menos tempo.
+É sempre bom você fazer essas reflexões, das lições aprendidas para quem sabe no futuro fazer de forma diferente.
+Mas uma coisa que eu gosto muito de falar, se eu faria algo diferente,
+essa é uma pergunta que é meio que complicada de responder,
+porque se você fizesse algo diferente, isso poderia mudar o futuro.
+A entrada é igual ao algoritmo.
+Dependendo da entrada que você tem, você tem uma saída diferente.
+Então, apesar de você ter lições aprendidas e fazer as reflexões,
+que poderia ter feito algo diferente, de fato eu realmente não mudaria,
+porque os erros que a gente comete, as lições que a gente aprende
+e talvez a saída desse algoritmo da vida não teria o resultado que a gente tem hoje.
+O tal do efeito borboleta, de você mudar alguma coisa que você fez no passado,
+aquilo tem toda uma aplicação na sua vida, de repente é melhor não mudar nada não.
+Exatamente.
+E você, pensando aqui na nossa audiência, que eu falei para você, o nosso grupo dos programadores,
+composto basicamente de pessoas iniciantes, pessoas que estão tentando aprender,
+e tentar entender, será que esse negócio de tecnologia é para mim,
+será que esse negócio de programação é algo que eu vou gostar,
+o que você recomendaria para essas pessoas?
+O que você acha que seria interessante que elas fizessem para tentar evoluir na carreira?
+Então, esse negócio de talvez não é para mim, acho que se você não tentar, você nunca vai saber.
+Acho que o arrependimento de você não fazer algo e ficar sempre se perguntando,
+se eu tivesse feito isso, eu acho que esse é um dos piores pensamentos
+e uma das piores experiências que você pode ter, porque você sempre vai estar se perguntando.
+Nesse caso, acho que principalmente em questão de estudo,
+eu tenho para mim uma filosofia de que estudar nunca é demais.
+Então, se eu adquirir aquele conhecimento, eu estudar e eu tentar, mesmo que não dê certo,
+pelo menos eu sei que não vai dar certo, mas eu tentei.
+Então, acho que esse é um dos principais motivos, aquela mesma coisa,
+será que eu aplico para essa vaga, será que eu falo com a pessoa tal,
+será que eu vou lá para bater um papo com aquela pessoa?
+Vai lá, o não você já tem.
+Então, você tenta e vê se você consegue mudar essa resposta do não para um talvez
+ou até mesmo para um sim.
+Então, para mim, acho que essa é uma coisa importante.
+A área de tecnologia em si é uma área, principalmente a área de desenvolvimento.
+A gente tem diversas áreas dentro da tecnologia, mas aqui eu tenho experiência mesmo,
+é com a parte de desenvolvimento de software,
+é uma área que está sempre requerendo que a gente estude.
+Nós vamos ser eternos estudantes trabalhando com essa área de desenvolvimento
+porque sempre tem uma tecnologia nova, uma ferramenta nova,
+então tem que gostar de estudar trabalhando nessa área.
+Então, é uma coisa que a gente tem que ter em mente, isso sempre.
+E, às vezes, como eu falei, não se comparar com outras pessoas.
+Eu aprendi a parte básica de algoritmo em seis meses,
+meu esposo conseguiu aprender isso em dez dias estudando, em duas semanas.
+É não se comparar com outras pessoas porque cada pessoa tem o seu próprio roteiro,
+aprende de uma forma, tem pessoas que são mais visuais,
+tem pessoas que precisam praticar muito para conseguir aprender alguma coisa,
+tem pessoas que gostam mais de material escrito,
+tem pessoas que gostam mais de material em vídeo,
+nem toda didática que você está vendo, está vendo um vídeo no YouTube
+de um determinado assunto, veja de três, quatro pessoas diferentes
+porque talvez você se identifique com uma didática de uma outra pessoa.
+Então, tem essa questão também de você fazer meio que um match
+da informação que você está absorvendo
+com a forma com que você gosta de absorver aquela informação
+ou que consegue aprender melhor.
+E dificuldades também vão aparecer.
+Eu acho que todo mundo quando passa, começa a estudar,
+em algum momento vai sentir dificuldades,
+em algum momento vai começar a se perguntar,
+será que isso mesmo é para mim?
+E a questão é de você não desistir.
+Eu acho que quanto mais você praticar,
+praticar é uma coisa extremamente essencial na nossa área,
+quanto mais você pratica, mais você vai conseguir absorver melhor as informações
+e vai ficando melhor naquilo também.
+E não desistir.
+Quando eu estive na minha faculdade,
+eu tive muita dificuldade com as questões de algoritmo.
+Não fazia sentido nenhum para mim.
+Comecei a praticar muito até que um dia,
+meio que no estalar de dedos,
+começou a fazer sentido.
+Do nada, tudo aquilo que eu estava estudando durante seis meses
+passou a fazer sentido.
+Então, talvez isso também aconteça com você.
+Em relação à idade também,
+não deixe que isso seja um fator também.
+Existem várias pessoas que vão pelo um caminho, por exemplo,
+tradicional, que começa desde o final da adolescência
+e já querendo saber e estudar para a carreira que vai seguir o resto da vida.
+E tem pessoas que fazem transições, trocam de carreiras.
+Isso é uma coisa completamente normal também.
+Então, não deixe que isso seja um fator também
+para que você não tente fazer alguma coisa.
+Meu esposo está com quase 40 anos agora.
+Então, ele vai tentar fazer uma carreira completamente...
+começar de novo.
+E existe espaço para isso no mercado.
+Qualquer que seja o trajeto que você vá fazer,
+faça o seu trajeto.
+Vai aí no seu passo, no seu espaço de tempo,
+que uma hora as coisas vão se encaixar.
+Com toda certeza. Excelentes recomendações aqui.
+E você teria dicas de...
+Obviamente, além dos seus livros,
+você tem dica de livro, música, jogos, filmes
+ou qualquer outra coisa que você gostaria de compartilhar aqui com o nosso ouvido.
+Não necessariamente da área de tecnologia?
+Bem, acho que da área de TI...
+Vou começar com a parte de livros da área de tecnologia.
+Principalmente no começo, a gente vê muita,
+mas muita indicação de livros.
+Se você faz parte da BoleTech, do Twitter
+ou de algum grupo do Facebook,
+muitas pessoas vão começar a recomendar livros para você.
+Existem alguns livros que são excelentes,
+mas tem livros também que são específicos de linguagem.
+Essa questão de boas práticas, dessas coisas,
+acho que principalmente no início,
+não é uma coisa que você precisa focar muito.
+Você tem que focar em aprender aquilo,
+mesmo que seja o algoritmo mais longo,
+um algoritmo que não é otimizado, nem nada.
+Mas foca em conseguir ter uma saída, ter um resultado.
+Com o tempo, depois você vai aprendendo a otimizar aquilo,
+vai escrever o algoritmo de forma mais bonita,
+vai aprender as boas práticas, mas isso tudo é contente.
+Não se preocupa em ler esses livros
+que geralmente são recomendados logo no início.
+Tem um livro, por exemplo, de Java,
+que eu gosto muito, muito mesmo,
+para pessoas que já aprenderam o básico.
+Isso não é um livro para quem está começando,
+mas é um livro que já aprenderam o básico mesmo,
+que é o Java efetivo.
+É um livro excelente, excelente mesmo.
+Outros livros, como eu falei, vão aparecendo.
+Tem uns livros mais queridos das pessoas, por exemplo,
+Código Livro, Arquitetura de Microsserviços,
+essas coisas, se preocupe bem depois que você já tiver
+fera no que você está fazendo,
+para depois você começar a focar e ler esses livros.
+Tem um outro livro que eu gosto bastante também,
+que é o Mindfulness,
+principalmente para a gente que trabalha com tecnologia,
+a gente está sempre meio que estressado,
+e sempre na correria, muitos projetos para entregar.
+É um livro que ajuda bastante, às vezes, você focar.
+É um livro mais voltado para...
+Não vou dizer que a saúde mental,
+mas acaba ajudando bastante você na saúde mental,
+não se desesperar.
+É um livro que vai te ajudar a ter mais foco.
+Então, me ajudou muito.
+Às vezes não querer fazer as coisas na correria,
+só porque tem que fazer uma coisa.
+E às vezes você parar, respirar um pouquinho,
+e depois voltar com calma, ajuda bastante.
+É uma prática muito legal,
+acho que independente da área em que você está,
+é uma leitura bem interessante.
+E sobre séries, músicas, essas coisas,
+sobre séries, a gente acabou de assistir aqui de novo,
+eu tinha visto bastante quando eu era um pouco mais nova,
+a gente decidiu reassistir Friends.
+Acho que Friends, para o pessoal,
+às vezes o pessoal pergunta o que eu devo aprender
+ou alguma coisa para fazer uma carreira internacional.
+Gente, inglês é uma coisa fundamental.
+E uma das coisas que eu gosto bastante de ajudar
+a aprender inglês foi assistir seriados.
+Então, pegue seriados do estilo que você goste.
+Friends foi um seriado que me ajudou a aprender inglês bastante também.
+E esses dias eu passei a reassistir,
+para poder lembrar um pouquinho.
+Então, sempre tem uma palavra ou uma expressão,
+às vezes que você não lembrava ou que você não sabia ainda.
+Mesmo reassistindo, você acaba aprendendo de novo.
+Isso é uma coisa que eu acho interessante.
+E, Loian, a gente está se aproximando aqui de uma hora de bate-papo.
+Tem alguma pergunta que eu não fiz
+e que você gostaria que eu tivesse feito?
+Eu acho que a gente cobriu bastante coisa, viu?
+Falamos até de furacão, né?
+Bastante chão realmente aqui.
+E você quer divulgar alguma informação para contato, rede social,
+alguma forma das pessoas entrarem em contato com você?
+Opa, agradeço aí o espaço.
+Bem, quem quiser manter o contato depois,
+eu estou no Twitter, que é o arroba Loiani,
+estou também no Instagram, que é o arroba Loiani.
+São as redes sociais que eu mais acabo acessando assim no dia a dia mesmo.
+E também tem muito material gratuito lá no meu canal do YouTube.
+É só pesquisar aí por Loiani Groner.
+Acaba baixando aí as playlists de Angular e de Java também.
+Então espero que, se é um assunto que alguém esteja aí tentando aprender,
+que tenha algum material lá que possa ajudar.
+E, Loiani, eu queria tirar aqui um minuto para te agradecer.
+Na Flórida já são uma hora da tarde, sábado, né?
+E você está aqui papiando comigo e compartilhando aqui a tua história fantástica com todo mundo.
+E queria te agradecer não só por isso, mas também por todo esse conteúdo,
+todo o ensinamento que você tem aqui,
+toda a ajuda que você dá para as pessoas.
+Sempre muito bem disposta a ajudar todo mundo.
+E conteúdo fantástico aqui com o pessoal que está tentando aprender e evoluir.
+Muito obrigado por todo o teu trabalho aí.
+Muito obrigada. Eu que agradeço.
+E o convite de novo de aqui mais uma vez.
+Obrigado. Um abração para você aí.
+Igualmente.
+Chegamos ao final de mais um episódio.
+Agradeço a todos a atenção.
+E o nosso site é osprogramadores.com
+Participem e até o próximo episódio.
+Um bom dia para todos.

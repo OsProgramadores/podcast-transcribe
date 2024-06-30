@@ -1,0 +1,593 @@
+start	end	text
+0	4320	Olá, gente!
+4320	6760	Eu hoje estou aqui com a Loian Groner.
+6760	9600	Loian, prazer enorme ter você aqui comigo.
+9600	13760	Olá, pessoal. Eu agradeço o convite. O prazer é todo meu.
+13760	19160	Loian, eu sempre pergunto para os meus convidados aqui como foi o comecinho da coisa para eles.
+19160	24040	Como você se interessou por computação e tecnologia? Como isso apareceu na sua vida?
+24040	28520	Foi durante a faculdade ou um pouquinho antes da faculdade.
+28520	32920	Durante o ensino médio eu queria fazer direito. Então, nada a ver com tecnologia, né?
+32920	38760	Só que vestibular, né? Você tem muitas coisas que você tem que decorar, principalmente para o vestibular.
+38760	42720	Na área de humanas tem muita coisa que você precisa memorizar.
+42720	48000	E eu não era muito fã de decorar várias datas com muitos detalhes.
+48000	53240	Eu gosto bastante de história e da parte de geografia, pela história em si.
+53280	58120	Mas não necessariamente saber, por exemplo, que Pedro Álvares Cabral chegou no Brasil na data tal,
+58120	63760	vestindo tal, era casado com fulana, tinha tantos filhos, os filhos estavam vestindo tal roupa, sabe?
+63760	66720	Esse nível de detalhe eu não era muito fã.
+66720	71640	E eu sempre gostei muito também da área de matemática e física também.
+71640	77640	E faltando seis meses para o vestibular eu decidi trocar por algum curso de exatas.
+77640	82600	E a questão foi qual curso escolher. Porque eu já estava bem em cima da hora.
+82640	86040	E naquela época a gente não tinha acesso a informação como a gente tem hoje, né?
+86040	92960	A gente não tinha YouTube, né? A informação que a gente tinha era você pegar as faculdades,
+92960	97840	ver a lista de cursos que você podia prestar para vestibular e escolher, né?
+97840	103000	Você sabia o que era de exatas, se era da área de biomédicas, se era da área de humanas.
+103000	109880	E a gente só tinha informação sobre as carreiras que na época eram as mais tradicionais, digamos assim, né?
+109880	118040	A parte de medicina, farmácia, direito, história e da parte de exatas eram mais as engenharias,
+118040	123240	engenharia mecânica, engenharia civil, que se falava mais na escola.
+123240	129080	E não tinha muita informação sobre engenharia da computação ou ciência da computação.
+129080	134840	E eu vi essas duas faculdades de computação e falei eu vou escolher uma dessas aí.
+134840	138880	A escolha foi justamente por gostar de ficar no computador.
+138880	142720	Eu vou fazer uma faculdade de ciência da computação porque eu gosto de ficar no computador,
+142720	144960	então eu vou estudar o computador.
+144960	149600	E o engraçado é que eu pensei na época que eu ia aprender a consertar computador.
+149600	155520	Não aprendi até hoje, mas passei aí pela faculdade de ciência da computação.
+155520	158920	E foi assim que eu consegui aí meu primeiro contato com a área.
+158920	164840	Completamente inesperado, não sabia o que esperar da faculdade, o que que eu ia aprender na faculdade.
+164840	168800	Não sabia o que que era algoritmos, nunca tinha ouvido falar.
+168800	173880	Então assim, eu nunca tinha parado para pensar como é que de fato um computador funciona
+173880	175920	e como que aqueles programas eram feitos.
+175920	179360	Na minha cabeça era uma coisa meio que mágica, né?
+179360	183160	Que alguém faz e do nada aparece esses programas assim.
+183160	185640	Ou que já existia assim de alguma forma.
+185640	190280	Mas enfim, foi assim que foi o meu primeiro contato aí com a parte de computação,
+190280	193360	desse mundo aí de algoritmos e desenvolvimento.
+193360	198480	Qual foi a faculdade e como é que foi a experiência da faculdade para você?
+198520	203240	Olha, eu gostei muito, muito mesmo dos meus anos de faculdade.
+203240	207960	Eu acho que eu tive muita sorte de ter professores excelentes
+207960	211320	que realmente estavam preocupados com o ensino da matéria.
+211320	216720	São professores que têm experiência de mercado realmente, tinham trabalhado na área,
+216720	219400	sabiam o que o mercado esperava.
+219400	225640	Muitos deles tinham empresas também que alunos acabavam trabalhando nessas empresas.
+225680	230080	E foi assim, para mim, pessoalmente foi uma experiência excelente.
+230080	233760	Só que como todo mundo eu tive algumas dificuldades,
+233760	236720	principalmente no início, como eu falei, eu não sabia o que esperar,
+236720	239760	não sabia o que era desenvolvimento, o que era programação.
+239760	244480	Então quando chegou a primeira aula sobre algoritmos, para mim aquilo foi um choque.
+244480	249720	E já tinham pessoas na minha sala que tinham vindo de um segundo grau mais técnico
+249720	253360	e já sabiam o que era programação, já sabiam declarar variáveis,
+253400	255720	fazer um I, Fiel, C, um loop.
+255720	258080	E para mim aquilo tudo foi muito novo.
+258080	263160	Então eu tive bastante dificuldade no início, mas aí decidi estudar bastante,
+263160	266160	passava depois da faculdade, ia para casa.
+266160	269200	Nos primeiros semestres eu ainda não trabalhava,
+269200	273480	então eu tinha tempo ainda de estudar nos dois primeiros semestres
+273480	278480	e eu decidi entrar de cabeça mesmo e estudar bastante algoritmos,
+278480	282000	fazer muitos exercícios, praticar, mas praticar bastante mesmo
+282000	285200	até que aqueles conceitos entrassem na minha cabeça.
+285200	290400	E no final do primeiro semestre foi quando as coisas começaram a fazer mais sentido para mim
+290400	294000	e aí eu comecei a aprender de forma mais naturalmente,
+294000	297400	incrementar o conhecimento de forma mais naturalmente,
+297400	301120	porque eu tinha feito muitos exercícios, praticado bastante,
+301120	302600	e aí começou a fazer sentido.
+302600	305840	E como é que foi a chegada assim às primeiras linguagens de programação,
+305840	307520	entendo que você aprendeu algoritmo e tal,
+307720	311720	Como foi a primeira linguagem de programação que você teve de posição?
+311720	315720	Foi, não é bem uma linguagem, mas eu aprendi com Portugal.
+315720	319120	Na época era tudo no caderno mesmo, na folha de papel,
+319120	322520	a gente não tinha acesso ao computador ainda no primeiro semestre.
+322520	328120	Então era tudo no caderno, tudo escrito, todos os algoritmos escritos com Portugal.
+328120	330920	Então a gente aprendeu a parte de declarar variáveis,
+330920	336520	a parte de IF, ELSE, as condicionais, LOOPS, WHILE e POUR,
+336520	340720	depois veio a parte de vetores e depois matrizes,
+340720	343520	foi esse o escopo dos primeiros seis meses.
+343520	346120	Depois que a gente aprendeu essa primeira parte,
+346120	347920	a partir do segundo semestre,
+347920	351120	é que a gente teve uma primeira linguagem de programação mesmo,
+351120	355920	que aí foi com o Pascal, e aí o meu primeiro contato foi com o Pascal.
+355920	360320	Você ainda se lembra dos primeiros programinhas que você escreveu usando o Pascal?
+360320	362920	Eu acho que eu tenho até hoje uns arquivos salvo,
+362920	365120	eu salava em disquete na época,
+365120	367920	eu estava começando aí a era do DVD,
+367920	370320	pendrive era uma coisa extremamente cara ainda,
+370320	372120	eu lembro que eu comprei um pendrive,
+372120	375320	porque depois a escola acabou trocando os computadores,
+375320	379520	e aí para poder levar os exercícios, eu levava pelo pendrive.
+379520	384920	E-mail ainda, a parte de armazenamento de e-mail era extremamente limitado na época,
+384920	389320	era que você tinha o bol aí, dois megas de armazenamento,
+389320	392520	que hoje é um e meio com uma foto, se você já tem aí dois megas,
+392520	394320	mas era extremamente limitado,
+394320	397920	por isso a gente usava mais a parte de disquete e pendrive.
+397920	402520	Mas era um programa assim, bem simples, né, de você fazer leitura de teclado,
+402520	404520	fazer algum tipo de cálculo, né,
+404520	407920	que calculasse um triângulo, exósceles,
+407920	410720	esses conceitos matemáticos, né?
+410720	413320	E tinha os conceitos também de vetores, né,
+413320	415920	dado tanto os alunos, calcular a média,
+415920	421320	das notas dos alunos, enfim, esses exercícios mais clássicos mesmo com Pascal,
+421320	423520	tanto em Portugal quanto com Pascal.
+423920	425320	Bacana demais.
+425320	430520	E como é que foi, assim, você disse que não trabalhava ainda nos primeiros períodos da faculdade,
+430520	435720	mas como é que foi a evolução até você chegar ao teu primeiro emprego como programador?
+435720	440720	Acho que foi no segundo, no terceiro semestre da faculdade,
+440720	446920	a faculdade ela tem um programa de monitoria após as aulas, né?
+446920	451120	Esse foi o meu primeiro emprego assim informal aí na área de TI,
+451120	453720	porque a gente ganhava bolsa da faculdade, né,
+453720	459320	então com isso eu conseguia 50% de bolsa de estudos sendo monitora, né?
+459320	463920	Então eu fui monitora da parte de algoritmos, né, algoritmos 1 e 2 também,
+463920	467320	estrutura de dados que acabou sendo aí no terceiro semestre.
+467320	469720	Eu fiquei monitora por alguns anos,
+469720	471720	porém a faculdade que eu estudei,
+471720	474120	e isso é uma das coisas que eu acho legal, né,
+474120	479320	acho que é uma oportunidade muito legal para quem tem a oportunidade de fazer faculdade,
+479320	482520	que é a questão aí com o primeiro emprego, com o primeiro estágio,
+482520	485520	que eu consegui graças à faculdade que eu estudava.
+485520	490720	A faculdade ela até hoje, eles fazem parcerias com as empresas da cidade, da região,
+490720	493720	para poder dar oportunidade aí para os alunos.
+493720	497920	Então foi o meu primeiro estágio, que foi como desenvolvedora Java,
+497920	503720	e eu estava no quarto semestre aí, já indo aí para o final do segundo ano da faculdade,
+503720	506920	que foi que eu consegui o estágio pela coordenação.
+506920	513120	Eu e um amigo meu que estudava comigo, nós dois fomos selecionados para trabalhar nessa empresa.
+513120	516720	Só que na época a faculdade ainda não ensinava Java,
+516720	521520	a gente só ia aprender Java a partir do quarto, quinto semestre, se não me engano,
+521520	525720	não, do quinto semestre, para aprender os conceitos de orientação objetos.
+525720	528920	Só que eu só tinha aprendido a parte de Pascal,
+528920	533320	tinha alguns eventos, eu sou do Espírito Santo, né, eu fiz a faculdade lá em Vitória,
+533320	536520	e estavam começando a ir eventos lá para o estado, né,
+536520	542720	tinha a Escola Regional da SBC, que acontece em alguns estados, né, com algumas faculdades,
+542720	547120	que são eventos um pouco mais acadêmicos, mas sempre tinham convidados, né,
+547120	551720	pessoas que davam workshop de linguagens, coisas mais práticas assim também, né,
+551720	553920	não tanta parte conceitual acadêmica.
+553920	557120	Java na época, indo para a versão 5 do Java,
+557120	561320	era uma linguagem que estava crescendo muito, né, estava ganhando bastante destaque,
+561720	567520	e muitas empresas lá de Vitória e Vila Velha usavam essa linguagem,
+567520	572320	então a faculdade ia começar a trocar toda a parte de Pascal para Java,
+572320	575320	os professores estavam aprendendo Java também,
+575320	579720	e com essa oportunidade de empregos, esses eventos acontecendo,
+579720	584720	uma professora minha, professora Cintia, a gente formou um grupo de estudos, né,
+584720	588520	tendo aí a professora aí, menturando a gente,
+588520	591520	e a gente começou a estudar a parte de Java.
+591520	594720	Pegamos também, isso foi durante as férias da metade do ano,
+594720	598120	que ela passou tipo um projeto para a gente conseguir tentar fazer,
+598120	600920	que foi um jogo da Forca, eu tenho esse jogo na Forca,
+600920	605920	inclusive lá no meu GitHub, que foi o meu primeiro projeto assim mais complexo,
+605920	609120	que eu fiz com Java, com isso a gente aprendeu os conceitos, né,
+609120	613120	orientação objetos, a parte da sintaxe da linguagem, o que que era herança,
+613120	617720	o que que era uma interface, e foi aprendendo aí dessa forma aí,
+617720	622720	meio que ficando após a escola, né, na época eu estudava de manhã ainda,
+622720	626720	então ficava umas duas, três horas após o término da escola,
+626720	631720	para poder ficar estudando e nos finais de semana praticando esses projetos.
+631720	636720	Eu basicamente sabia assim, bem o básico, básico mesmo de Java para começar o estágio, né,
+636720	640720	e eu tive sorte também, porque foi realmente um estágio, né,
+640720	644720	hoje quando você vê vagas de estágio, são vagas que pedem muitas coisas, né,
+644720	651720	basicamente profissionais juniors, mas eu tive muita sorte mesmo de ter sido um estágio
+651720	655720	e ter tido a oportunidade de estudar mesmo, né, de aprender as coisas,
+655720	660720	eu não sabia o que que era controle de versão, eu não sabia o que que era banco de dados,
+660720	663720	sabia que existia, né, mas eu não sabia fazer um select na base, por exemplo,
+663720	668720	não sabia como conectar isso, mostrar, obter dados através do Java, por exemplo,
+668720	673720	não sabia ir na base, pegar informações de uma tabela, não sabia nada disso, né,
+673720	677720	então tudo isso eu tive oportunidade de aprender durante estágio.
+677720	681720	E é bacana que você teve essa oportunidade de estágio como,
+681720	683720	ou seja, esse aqui é um estágio, propriamente dito,
+683720	688720	algo que você está aprendendo ao mesmo tempo que você está começando a dar os seus primeiros passos
+688720	692720	na atividade de programação, e diferente, como a gente anda vendo hoje,
+692720	698720	em uma forma tanto quanto abusiva, né, as pessoas pedindo até saber inglês
+698720	702720	e programar 50 anos de experiência em alguma linguagem de programação
+702720	706720	para pegar um estágio, né, que nada mais é do que uma forma de pagar poucas pessoas.
+706720	710720	Mas enfim, voltando aqui para o nosso trilho, com relação ao estágio,
+710720	716720	como é que evoluiu até você ter efetivamente o seu primeiro emprego que não era um estágio?
+716720	722720	No estágio, como eu falei, né, eu não sabia nada, então eu acabei aprendendo muitas coisas.
+722720	730720	Meu primeiro projeto no estágio foi fazer um programa Java que ia em um diretório FTP, né,
+730720	736720	e obtinha arquivos XML. Eu não sabia o que era XML na época também,
+736720	740720	então acabei aprendendo também sobre esses diferentes formatos de arquivos.
+740720	746720	E pegar esse XML, parciar o XML, né, ler o XML e gravar os dados na base,
+746720	750720	e depois que essas informações eram processadas pela base,
+750720	756720	tinham procederes, né, para poder fazer o processamento e fazer as atualizações necessárias.
+756720	763720	Era ler de novo do banco de dados, gerar um outro arquivo XML e colocar em outro diretório também ali via FTP.
+763720	769720	Era um projeto bem simples, né, mas para mim foi uma tarefa que tinha muita complexidade, né,
+769720	771720	já que eu não sabia nenhum desses conceitos.
+771720	776720	Eu fiquei dois anos trabalhando nessa empresa que eu fiz o meu primeiro estágio,
+776720	783720	e depois eu tive minha segunda oportunidade de emprego, que foi também como desenvolvedora Java.
+783720	788720	Nessa época eu já tinha um pouco mais de conhecimento em desenvolvimento web, né.
+788720	791720	A gente não tinha essa questão de front-end e back-end, era desenvolvimento web.
+791720	799720	Você usava, por exemplo, Java com servlets, JSP, né, você tinha um pacote completo ali com os frameworks da época,
+799720	804720	que era o Struts e também tinha o JSF aí que estava bastante em alta.
+804720	807720	E foi essa a segunda oportunidade.
+807720	814720	E uma coisa legal, né, que é uma coisa importante também que a gente sempre fala para as pessoas que estão começando com essa parte de tecnologia,
+814720	822720	que é investir na parte de networking, né, de você conhecer pessoas, de criar relacionamentos, manter esses relacionamentos.
+822720	826720	E tem a oportunidade também de você fazer aí novas amizades e tal,
+826720	833720	que essa segunda oportunidade de emprego que eu consegui foi através da monitoria que eu dava na faculdade.
+833720	839720	Mesmo com o meu estágio, eu continuava dando monitoria aos sábados.
+839720	846720	E tinha uma outra pessoa também que era monitora e essa pessoa trabalhava nessa outra empresa e falou,
+846720	853720	a gente está com vaga aberta lá, você não quer aplicar e lá fazer uma entrevista, bater um papo, isso dá tudo certo, né, você é contratada.
+853720	861720	Eu topei, né, fui lá, bati o papo com as pessoas da empresa e acabei sendo contratada aí por essa segunda oportunidade, né.
+861720	872720	Então, o que a gente fala, né, o que indica é uma coisa aí bem importante, por isso essa importância do networking também aí na nossa área.
+872720	879720	Esse networking é fundamental, né, é interessante também como é que o universo conspira, né, de forma bem interessante, né.
+879720	889720	Você na monitoria, você conhece uma outra pessoa que acaba de uma certa forma abrindo uma porta que te gera uma outra oportunidade, é bacana demais de ver isso.
+889720	895720	E como é que foi essa outra oportunidade, como é que a tua carreira profissional evoluiu no Brasil?
+895720	903720	Essa segunda oportunidade também foi vitória e durante o estágio eu já tinha começado a trabalhar um pouco com essa parte de web, né,
+903720	907720	que a gente chama de web 2.0, estava começando, né, estava engatinhando.
+907720	916720	Então, a parte de comunicação do HTML, né, do JavaScript com um API era através de JSON,
+916720	923720	então isso era uma coisa nova também que estava sendo introduzida, o Gmail estava sendo lançado, né, com aquela questão do AJAX,
+923720	933720	que você pode passar para uma outra página, é clicar em um link e abrir uma outra página sem dar o refresh na página completamente, né, você manter ali no browser.
+933720	937720	Então isso era uma coisa bem moderna, muito hype para época, né.
+937720	946720	Então eu tive essa oportunidade de começar a aprender e na segunda oportunidade foi com a parte mesmo de desenvolvimento web
+946720	958720	e lá eu usava Struts e JSP, o Spring, que é um framework do Java, também já existia na época, mas era uma coisa que poucas pessoas ainda utilizavam,
+958720	969720	existiam muitas palestras na época sobre o assunto, mas o Struts era um dos frameworks que eram aí os líderes de mercado, né, juntamente com o JSF,
+969720	975720	que era da própria especificação do Java, mas foi basicamente com isso, eu trabalhava para um banco local,
+975720	985720	era uma empresa que dava consultoria para um banco local, então foi meu primeiro contato aí com o ramo financeiro de desenvolver sistemas para banco.
+985720	993720	E, Lohiane, como é que surgiu o teu interesse por escrever livros e como é que foi escrever o primeiro livro para você?
+993720	1004720	Depois que eu estava nessa segunda oportunidade surgiu a oportunidade de se mudar para Campinas, em São Paulo, né, e essa oportunidade era para trabalhar na IBM.
+1004720	1020720	Até então eu tinha trabalhado em empresas locais, né, com clientes brasileiros mesmo, e essa oportunidade na IBM, em Campinas, era para trabalhar para uma conta, né, para um cliente daqui dos Estados Unidos.
+1020720	1027720	Então o ambiente todo, né, as reuniões, os e-mails, ia ser tudo em inglês.
+1027720	1041720	E quando eu fiz essa mudança do Espírito Santo para Campinas, essa parte do inglês foi introduzida, eu senti muita necessidade de começar a praticar um pouco mais, praticar tanta a leitura, né, a parte de escrita,
+1041720	1050720	porque tinha que escrever muitos e-mails, né, a gente não fazia tanta reunião, né, não era como as coisas são hoje, né, toda parte por Zoom ou por Teams,
+1050720	1061720	e na época era muita coisa por telefone mesmo e muita coisa por IM mesmo, né, pelo MSN que a gente utilizava.
+1061720	1067720	Então eu tinha essa necessidade de praticar mais o inglês, com isso eu acabei criando o blog na época.
+1067720	1080720	Eu já tinha um blog em português, que eu comecei quando eu ainda morava lá no Espírito Santo, e com essa mudança para São Paulo, eu comecei a escrever no blog em inglês mesmo para poder treinar.
+1080720	1088720	Naquela época eu comecei a trabalhar com o XJS, não era Sencha ainda, né, ainda era apenas XJS.
+1088720	1094720	Com isso eu comecei a documentar as coisas que eu estava trabalhando e comecei a estudar mais o framework mesmo.
+1094720	1105720	E publicando, né, material em inglês sobre XJS, a editora entrou em contato comigo, eles tinham gostado dos artigos que eu tinha publicado no meu blog,
+1105720	1113720	e eles ofereceram aí a oportunidade de escrever o primeiro livro. Então foi assim que surgiu essa história do livro.
+1113720	1124720	Eu fui aceitando, né, porque é um sonho de escrever, a gente não tinha outras pessoas brasileiras escrevendo o livro para fora também, era uma coisa meio que estava no início ainda.
+1124720	1135720	Então para mim foi uma super oportunidade assim, então a gente não nega quando aparecem essas coisas assim uma vez na vida, então vamos ver o que dá.
+1135720	1143720	E foi, né, acabei publicando aí o primeiro livro e depois disso vieram outros convites para poder participar.
+1143720	1150720	Teve um convite que veio pelo LinkedIn, então é uma coisa bacana de você manter um perfil no LinkedIn.
+1150720	1160720	O LinkedIn era um pouco diferente do que é hoje, né, na época era muito mais voltada para o mercado profissional mesmo, não somente assim como rede social,
+1160720	1172720	mas era bem só um local que você ia lá e colocava o seu currículo e um outro contato surgiu através do GitHub, porque eu comecei a colocar também exemplos dos posts que eu estava fazendo para o blog.
+1172720	1183720	No GitHub teve uma pessoa da editora que viu o repositório, gostou dos exemplos, não tinham exemplos iguais na época, né, que outras pessoas estavam fazendo também,
+1183720	1190720	foram exemplos meio que inéditos e aí também surgiu a oportunidade para escrever o livro através do GitHub também.
+1190720	1200720	E você já está com quantos livros publicados até hoje? Eu vi recentemente você escreveu no Twitter lá que acho que já está com o título seu publicado até em chinês, correto?
+1200720	1207720	Isso, são total de cinco livros, mas são oito títulos, né, porque tiveram segunda e terceira edições.
+1207720	1220720	Algumas edições são completamente diferentes, né, mas o, por exemplo, de estrutura de dados que está na terceira edição agora foi meio que forma incremental, né, a cada edição a gente vai fazendo a revisão e também colocando mais coisas.
+1220720	1233720	E, Lohiane, como é que surgiu a ideia do canal no YouTube, onde você ajuda tanta gente a aprender Java, Angular e um monte de outra coisa, como é que pintou essa ideia para você fazer isso?
+1233720	1250720	Então, na época, como eu escrevi o livro em inglês e o livro foi lançado em inglês, as pessoas começaram a cobrar, né, poxa, Lohiane, você é brasileira, está escrevendo livro em inglês, né, e não tinha muitas informações em português.
+1250720	1266720	Eu tinha o meu blog em português também, na época eu escrevia os artigos em inglês e acabava fazendo assim uma ou duas semanas depois, publicava a tradução em português, mas a parte do livro mesmo, assim, o conteúdo mais completo não tinha.
+1266720	1272720	E com esse puxão de orelha que o pessoal me deu, eu falei, tá bom, então vou começar a criar vídeos.
+1272720	1301720	A pessoa estava começando a investir um pouquinho mais no YouTube, né, a gente já tinha, acho que tinham dois canais do YouTube que publicavam material, era um tal de Ricardo, ele tinha um curso de Java publicado no YouTube e o canal da EXScript, que também tinha no YouTube, então falei, bem legal esse formato, curti esse formato, né, e comecei a fazer aí os screencasts, como a gente chamava na época, né, lá para o YouTube,
+1301720	1310720	que foi começando com o XJS, e aí depois esse formato de vídeo, né, começou a tomar mais popularidade e eu comecei a focar mais nessa parte de vídeo.
+1310720	1322720	E, Lohiane, como é que surgiu a oportunidade de mudança para os Estados Unidos? Você mencionou que você estava na IBM e, eventualmente, você vai para os Estados Unidos, como é que apareceu essa oportunidade na tua vida?
+1322720	1340720	Eu fiquei dois anos na IBM e aí o projeto que a gente trabalhava acabou. Tinha a oportunidade de você ser realocado dentro da IBM mesmo, porém eu comecei a ver outras oportunidades fora da IBM também e Campinas e São Paulo, né, são, são
+1340720	1353720	são, são cidades bem próximas aí, questão de uma hora, uma hora e meia aí, dependendo do, do trânsito. Só que tem uma diferença salarial bem grande, né, até por conta mesmo também do, do custo de vida entre as cidades.
+1353720	1379720	E eu comecei a ver coisas em São Paulo, na capital, que foi onde eu apliquei para uma vaga no Citibank e essa vaga deu certo e trabalhei bastante tempo lá em São Paulo, né, eu fiquei 7 anos no Citibank em São Paulo, estou lá até hoje, né, fiz aí 11 anos de empresa e a empresa mesmo ela tem um programa de
+1379720	1397720	transferência, né, então você pode fazer a mobilidade interna dentro da empresa, seja para outros times, outras áreas, né, e também a mobilidade internacional. E aí como tinha essa oportunidade, isso foi uma coisa que eu tentei explorar.
+1397720	1416720	Eu e meu esposo, a gente tinha vontade sempre de morar fora do país e a gente fez assim muita pesquisa mesmo, a gente passou mais de um ano pesquisando o local que a gente queria morar, um local que faria sentido para a gente, né, culturamente, né, e também o futuro que a gente queria ter.
+1416720	1444720	Então a gente pesquisou sobre Austrália, Nova Zelândia, alguns países da Europa, Canadá também, Estados Unidos e como eu já estava na empresa e o meu time era todo aqui dos Estados Unidos, era um time que fica, né, em New Jersey, que é do lado de Nova York, eu queria explorar essa opção e foi um dia durante essas revisões aí de performance também, né, e durante os 101 que eu tinha com meu gerente, falei, olha, eu tenho muita vontade de morar fora.
+1445720	1466720	Se um dia surgir oportunidade, por favor, lembra de mim que eu tenho esse interesse. Eu já tinha ido para Nova York, que é trabalho, né, fazer treinamento, dar workshop para o time também de XGES, HTML5, esses tópicos e eu tinha gostado bastante, falei, poxa, isso é uma coisa que eu gostaria, né, de fazer, de ter essa nova vida nos Estados Unidos.
+1466720	1486720	E quando surgiu a oportunidade de transferência, foi para a Flórida, em Tampa. Nunca tinha pisado na Flórida, primeira vez que eu pisei na Flórida foi o primeiro dia que a gente passou a vir para cá, né, morar aqui, saiu do aeroporto, eu não sabia para onde ir nem nada e a gente está aqui até hoje, né, vai fazer cinco anos agora.
+1487720	1493720	E como é que foi a adaptação, a chegada aos Estados Unidos e conhecer um lugar totalmente novo, como você falou?
+1493720	1506720	O legal aqui da Flórida é que é o clima, é muito parecido com o Brasil, né, esse clima tropical, só que é muito mais úmido, é muito úmido e muito, muito mais quente que no Brasil.
+1506720	1529720	Então, esse meio que acabou ajudando também na adaptação. E aqui, por ser um estado que tem muitos imigrantes, né, tanto imigrantes latinos, quanto também tem uma comunidade brasileira muito grande aqui, a gente tem um acesso, né, a produtos internacionais também que acaba ajudando na adaptação, né, principalmente aí no início.
+1529720	1543720	Só que é um aprendizado completamente novo, né, tem a parte cultural não é muito diferente do Brasil, né, a gente está no mesmo continente, né, então isso não é um choque muito grande.
+1544720	1555720	Até no Brasil mesmo a gente consumia muito conteúdo também aqui dos Estados Unidos, né, consumia música, consumia filmes, seriados, né, então você acaba já meio sabendo o que esperar.
+1555720	1574720	Só que como você está mudando para um outro país, você acaba aprendendo tudo do zero. Como é que funciona um médico aqui, como é que você marca o médico, como é que você compra um carro, como é que funciona o seguro do carro se você precisar, como é que funciona a questão do plano de saúde aqui nos Estados Unidos, né, que é uma coisa diferente.
+1574720	1596720	A parte de direção é meio que igual em qualquer lugar do mundo, né, as regras, as leis básicas, mas tem as diferenças também que você precisa aprender, você tem que tirar a carteira de motorista, né, tem que fazer todas essas pequenas coisas, né, supermercado, então você acaba aprendendo várias coisas do zero.
+1596720	1614720	E até hoje tem coisas que a gente não sabe, que a gente ainda está aprendendo como lidar com isso, que são aprendizados novos aí todo mês, todo ano, enfim, é uma experiência diferente, né, e depois você acaba acostumando com as coisas também, né, então isso é uma coisa interessante e engraçada ao mesmo tempo.
+1614720	1643720	A gente acabou de fazer uma viagem para o Brasil, né, três anos aí, sem ver a família por conta da pandemia, e aí você, sem querer, você acaba comparando umas coisas e fica vendo coisas que você fazia no Brasil, fazia um parte do seu cotidiano antes, mas agora, como você está muito tempo sem fazer aquilo, você fala, é familiar, mas é estranho ao mesmo tempo, né, então tem essa questão aí do novo, do ser estranho e das coisas que você ainda estava acostumado.
+1643720	1646720	Então é uma experiência bem interessante.
+1646720	1654720	Com toda certeza. Você passou por dois furacões recentemente, pode compartilhar um pouquinho como foi essa experiência para você, hein?
+1654720	1672720	Isso, o furacão teve o Ian, o Ian infelizmente foi um furacão que chegou com quase categoria 5, categoria 5 para quem não sabe é a máxima, então é basicamente destruição total, faltou acho que apenas 10 milhas por hora na direção do Ian, né,
+1672720	1692720	por hora na direção do vento, é um furacão de chega aí para quase 200 km por hora de vento, né, infelizmente bateu na Flórida e as cidades costeiras onde foi que a gente fala que é o landfall, né, que é quando o furacão toca na terra e quando está no oceano consegue ganhar muita velocidade,
+1692720	1694720	foi de destruição total.
+1694720	1717720	Onde a gente mora agora? A gente está mais ou menos no meio do estado, né, e a Flórida para quem não conhece é um estado bem pequenininho, né, tipo um Espírito Santo ou um Rio de Janeiro da vida, né, são estados compridos, né, mas de leste a oeste, assim, a largura é bem curta, né, então você consegue aí com algumas horas de carro você consegue passar por tudo.
+1717720	1727720	Como a gente está no meio, a gente está mais ou menos a uma hora, uma hora e meia de distância dos dois lados do oceano, né, tanto do oceano Atlântico quanto do Golfo do México.
+1727720	1739720	O Ian passou bem perto daqui, né, não foi no cone em si, quando o furacão ele chega na parte da terra ele perde um pouco de força, né, ainda bem, e passou aqui perto.
+1739720	1757720	A gente estava no Brasil quando passou o Ian, né, mas tem a preocupação porque se vê as notícias é a cidade aqui onde a gente mora aqui do lado ficou completamente debaixo d'água, né, porque veio muita chuva e não tem como escorrer água assim em um curto período de tempo.
+1757720	1765720	Teve alguns danos aqui no nosso bairro, né, telhado que acaba tendo dano, né, as cercas também.
+1765720	1776720	Aqui em casa a gente teve uns danos na cerca, mas nada muito drástico assim, né, que você consegue, né, consertar isso e graças a Deus aí tudo certo.
+1776720	1784720	E essa semana agora, né, que passou a Necole também, esse foi um furacão que veio pelo lado do oceano Atlântico.
+1784720	1801720	Ninguém estava esperando mais um furacão porque já é novembro, né, geralmente a temporada de furacões ela acontece de julho a novembro, mas geralmente lá para setembro, outubro que a gente fica mais alerta, né, que é por questões das mudanças que vão acontecendo no clima, né, da troca da estação.
+1801720	1806720	É que fica um ambiente mais propício aí para o início, né, para a origem dos furacões.
+1806720	1815720	E a Necole meio que veio aí de surpresa para todo mundo e apesar de ter vindo com categoria 1, teve também muito alagamento na área costeira.
+1815720	1817720	Passou alguns quilômetros daqui.
+1817720	1820720	É aqui em casa também, graças a Deus, não teve nenhum dano.
+1820720	1825720	O vizinho perdeu parte da cerca aqui, mas é algo que ele consegue acertar também.
+1825720	1832720	Mas é isso, né, é a Mãe Natureza agindo e a gente está aqui meio que de passagem.
+1832720	1837720	Enfim, é meio que aterrorizante para a gente que não tem essas coisas no Brasil, né.
+1837720	1844720	Eu lembro que a primeira vez que a gente chegou aqui na Flórida e anunciaram um furacão, a gente ficou desesperado.
+1844720	1852720	Então aqui a gente sempre estoca água, sempre tem água estocada aqui em casa, para pelo menos alguns meses, uns dois, três meses.
+1852720	1854720	E muita coisa enlatada.
+1854720	1864720	A gente não tem essas coisas no Brasil, né, mas aqui nos Estados Unidos tem carne enlatada, né, frango, sopa, feijão enlatado, que é questão de você esquentar.
+1864720	1870720	Então o que o pessoal acaba fazendo é sempre ter aqueles fogonzinhos, né, de uma boca de acampamento.
+1870720	1877720	Para casos como esse, as empresas acabam desligando a energia para poder evitar danos na rede.
+1878720	1882720	No IA a gente ficou aqui dois dias, quase três dias sem energia.
+1882720	1885720	Perdemos tudo que a gente tinha na geladeira, infelizmente.
+1885720	1891720	É, e justamente para casos como esse, né, você ter água para você até poder também se limpar.
+1891720	1899720	Na Amazon acaba vendendo aquelas toalhas de acampamento também para caso você não tenha acesso à água, você consegue fazer a sua higiene pessoal.
+1899720	1906720	Mas sempre tem que ter água, sempre tem que ter coisas enlatadas, né, estocadas aí dentro de casa, porque você nunca sabe o que vai acontecer.
+1906720	1912720	E quando tem o anúncio dos furacões, né, o geral corre no supermercado, assim.
+1912720	1916720	Água é uma das coisas que acaba muito, muito rápido.
+1916720	1920720	E nem de ter estoque no supermercado também, né, não dá tempo de restocar.
+1920720	1928720	O pessoal fala aqui que a comida de furacão é chips, né, Doritos, Ruffles, esse tipo de alimento.
+1928720	1935720	Porque é uma coisa fácil que você não precisa esquentar, né, dar aquela enganada no estômago, caso seja necessário.
+1935720	1937720	Você também não vê nada.
+1937720	1940720	E principalmente essas sopas enlatadas também, que acaba muito rápido.
+1940720	1947720	Então, quando fala que vai vir um furacão, todo mundo corre para o supermercado e aí você vê um monte de prateleira vazia também.
+1947720	1949720	É uma experiência única, né.
+1949720	1957720	E, Lohiane, você pode contar um pouquinho da tua rotina de trabalho, como é que é o teu dia a dia, como é que é a tua stack de desenvolvimento?
+1957720	1960720	Bem, eu trabalho com Java.
+1960720	1964720	Eu sempre fui, né, desde o início da minha carreira eu sempre fui uma desenvolvedora Java.
+1964720	1971720	Depois eu comecei a trabalhar com um pouquinho com a parte de front-end, né, com uma parte de JavaScript, HTML, CSS.
+1971720	1978720	Então, a minha stack é basicamente Java com Spring, JPI Hibernate no back-end.
+1978720	1988720	Com a parte de front-end a gente utiliza XJS, que eu trabalho até hoje também, ainda tem projetos com XJS e com Angular agora também.
+1988720	1992720	Então, é um combo aí bem bacana essa parte do Angular com Spring agora.
+1992720	1998720	Tem muita oportunidade de emprego aí, acho que tanto no Brasil quanto fora do Brasil também.
+1998720	2002720	E é isso, né. E aí, claro, tem parte de mensageria, né.
+2002720	2010720	Tem os outros detalhes aí do design da arquitetura em si, mas é basicamente Java com Angular.
+2010720	2013720	E aqui a gente faz o híbrido agora, né.
+2013720	2016720	Durante a pandemia a gente ficou completamente remoto, né.
+2016720	2019720	Mas agora a gente está começando a voltar para o híbrido.
+2019720	2025720	Então, a gente fica 60% do tempo em casa, né. E dois dias a semana aí no escritório.
+2025720	2033720	E, Lohiane, eu vi que o seu marido está aprendendo a programar aí, potencialmente fazendo uma transição diária também, né.
+2033720	2037720	Como é que está indo isso? Como é que está sendo essa evolução para ele?
+2037720	2042720	É, ele decidiu agora, né, estudar também. A gente acabou trocando o nosso tipo de visto.
+2042720	2047720	Com esse visto novo ele perdeu a permissão dele de trabalhar, né.
+2048720	2052720	Para o pessoal que não é familiarizado com a parte de visto de trabalho aqui dos Estados Unidos.
+2052720	2057720	Existem vistos de trabalho em que o parceiro e a parceira podem trabalhar também, né.
+2057720	2060720	Então você pode tirar a permissão de trabalho.
+2060720	2066720	E existem vistos que somente o titular pode trabalhar, que é o visto que a gente está agora, que a gente trocou.
+2066720	2069720	E aí com isso, como ele vai ficar agora meio que em casa, né.
+2069720	2073720	Ele decidiu estudar, fazer alguma coisa aí com o tempo dele.
+2073720	2077720	E decidiu vir para essa área de tecnologia, pelo menos tentar, né.
+2077720	2081720	A gente vai estudar aí um ano e vamos ver como é que vai ficar depois.
+2081720	2083720	E ele começou agora, tem três semanas, né.
+2083720	2089720	Ele não está estudando todos os dias, mas ele começou a fazer aquele 100 dias de código, né.
+2089720	2093720	Que é uma hashtag aí de uma iniciativa bem bacana.
+2093720	2095720	E está documentando aí o passo a passo dele.
+2095720	2098720	Começou a estudar lógica de programação.
+2098720	2101720	E começou agora com uma linguagem mesmo, né.
+2101720	2103720	Fez toda a parte básica.
+2103720	2109720	O que eu demorei para aprender seis meses na faculdade, ele aprendeu com duas semanas, com dez dias estudando, né.
+2109720	2111720	De forma, assim, bem surpresa.
+2111720	2113720	E ele aprendeu muito rápido.
+2113720	2116720	Conseguiu fixar bastante rápido aí os conceitos.
+2116720	2118720	Isso é uma coisa interessante, né.
+2118720	2122720	Para as pessoas, às vezes, que estão estudando, você não se cobrar tanto, né.
+2122720	2126720	Eu demorei seis meses para aprender aquilo que ele aprendeu em dez dias estudando.
+2126720	2129720	Então não dá para você se comparar com outra pessoa, né.
+2129720	2135720	Cada pessoa acaba tendo aí o seu próprio ritmo, a forma com que estuda, né.
+2135720	2140720	A forma que consegue absorver as informações e aplicar e praticar aquelas informações.
+2140720	2144720	Então isso é uma coisa que eu gosto bastante de falar, é de não se comparar.
+2144720	2147720	Porque eu gastei seis meses e ele gastou dez dias, né.
+2147720	2150720	Mas no final, né, o importante é você saber, né.
+2150720	2153720	Conseguir aprender e ir no seu ritmo. Isso que é importante.
+2153720	2155720	Agora ele está aprendendo Python.
+2155720	2160720	Porque a gente fez uma pesquisa aqui com as vagas que tem aqui na nossa região.
+2160720	2164720	Então tem bastante vaga de Python e bastante vaga de Java.
+2164720	2170720	Ele vai estudar as duas linguagens, vai ver o básico de Python, o básico de Java.
+2170720	2175720	Vai ver qual que é a linguagem que ele se adapta melhor, que ele gosta mais.
+2175720	2178720	E aí ele vai focar os estudos naquela linguagem.
+2178720	2181720	Então a gente vai acompanhando aí passo a passo dele até...
+2181720	2183720	Vamos ver o que vai acontecer aí daqui a um ano.
+2184720	2189720	Bacana demais. Que seja um sucesso completo essa evolução para ele aí.
+2189720	2192720	E quem sabe no futuro ele toque uma entrevista comigo também.
+2192720	2194720	Opa! Vamos ver.
+2194720	2196720	Essa é bacana.
+2196720	2200720	E falar em evolução e tudo mais.
+2200720	2206720	Tem alguma área da tecnologia ou programação que seja com a qual você não trabalhe hoje,
+2206720	2210720	mas que você quem sabe gostaria de trabalhar um dia?
+2210720	2216720	Essa parte de Machine Learning, Inteligencia Artificial, Engenharia de Dados,
+2216720	2219720	são áreas que estão muito em alta.
+2219720	2222720	É um dos motivos do meu esposo estar aprendendo Python agora.
+2222720	2224720	Vamos ver se ele vai curtir.
+2224720	2229720	Mas é uma coisa que eu tenho bastante curiosidade de saber.
+2229720	2237720	Não a parte de você treinar os modelos, mas você analisar e conseguir manusear os dados
+2237720	2244720	para que esses dados fiquem de forma que possam ser consumidos por um modelo, por exemplo, de Machine Learning.
+2244720	2248720	Uma coisa que eu acho extremamente interessante é uma área que está muito em alta
+2248720	2250720	e que eu não tenho experiência.
+2250720	2255720	Uma coisa que um dia talvez eu gostaria de trabalhar, de saber como é que é.
+2255720	2260720	E, Luiane, a gente está falando aqui já por um tempinho.
+2260720	2263720	Você passou aqui por várias oportunidades de trabalho.
+2263720	2267720	Você trabalha, você mudou de país, você fez faculdade.
+2267720	2272720	Olhando para o passado, tem alguma coisa que você pensa assim,
+2272720	2274720	porra, eu deveria ter feito isso de forma diferente?
+2274720	2276720	Tem algo que você teria mudado?
+2276720	2281720	Olha, fazer de forma diferente, tem várias coisas que a gente faria de forma diferente.
+2281720	2288720	Depois que você tem a experiência falando, caramba, eu poderia ter feito isso de uma outra forma,
+2288720	2291720	que seria muito mais fácil, teria consumido muito menos tempo.
+2291720	2298720	É sempre bom você fazer essas reflexões, das lições aprendidas para quem sabe no futuro fazer de forma diferente.
+2298720	2304720	Mas uma coisa que eu gosto muito de falar, se eu faria algo diferente,
+2304720	2309720	essa é uma pergunta que é meio que complicada de responder,
+2309720	2316720	porque se você fizesse algo diferente, isso poderia mudar o futuro.
+2316720	2318720	A entrada é igual ao algoritmo.
+2318720	2322720	Dependendo da entrada que você tem, você tem uma saída diferente.
+2322720	2328720	Então, apesar de você ter lições aprendidas e fazer as reflexões,
+2328720	2333720	que poderia ter feito algo diferente, de fato eu realmente não mudaria,
+2333720	2337720	porque os erros que a gente comete, as lições que a gente aprende
+2337720	2345720	e talvez a saída desse algoritmo da vida não teria o resultado que a gente tem hoje.
+2345720	2350720	O tal do efeito borboleta, de você mudar alguma coisa que você fez no passado,
+2350720	2354720	aquilo tem toda uma aplicação na sua vida, de repente é melhor não mudar nada não.
+2354720	2356720	Exatamente.
+2356720	2362720	E você, pensando aqui na nossa audiência, que eu falei para você, o nosso grupo dos programadores,
+2362720	2369720	composto basicamente de pessoas iniciantes, pessoas que estão tentando aprender,
+2369720	2371720	e tentar entender, será que esse negócio de tecnologia é para mim,
+2371720	2374720	será que esse negócio de programação é algo que eu vou gostar,
+2374720	2376720	o que você recomendaria para essas pessoas?
+2376720	2381720	O que você acha que seria interessante que elas fizessem para tentar evoluir na carreira?
+2381720	2388720	Então, esse negócio de talvez não é para mim, acho que se você não tentar, você nunca vai saber.
+2388720	2394720	Acho que o arrependimento de você não fazer algo e ficar sempre se perguntando,
+2394720	2399720	se eu tivesse feito isso, eu acho que esse é um dos piores pensamentos
+2399720	2403720	e uma das piores experiências que você pode ter, porque você sempre vai estar se perguntando.
+2403720	2408720	Nesse caso, acho que principalmente em questão de estudo,
+2408720	2412720	eu tenho para mim uma filosofia de que estudar nunca é demais.
+2412720	2418720	Então, se eu adquirir aquele conhecimento, eu estudar e eu tentar, mesmo que não dê certo,
+2418720	2422720	pelo menos eu sei que não vai dar certo, mas eu tentei.
+2422720	2426720	Então, acho que esse é um dos principais motivos, aquela mesma coisa,
+2426720	2430720	será que eu aplico para essa vaga, será que eu falo com a pessoa tal,
+2430720	2435720	será que eu vou lá para bater um papo com aquela pessoa?
+2435720	2438720	Vai lá, o não você já tem.
+2438720	2444720	Então, você tenta e vê se você consegue mudar essa resposta do não para um talvez
+2444720	2446720	ou até mesmo para um sim.
+2446720	2449720	Então, para mim, acho que essa é uma coisa importante.
+2449720	2454720	A área de tecnologia em si é uma área, principalmente a área de desenvolvimento.
+2454720	2458720	A gente tem diversas áreas dentro da tecnologia, mas aqui eu tenho experiência mesmo,
+2458720	2461720	é com a parte de desenvolvimento de software,
+2461720	2465720	é uma área que está sempre requerendo que a gente estude.
+2465720	2469720	Nós vamos ser eternos estudantes trabalhando com essa área de desenvolvimento
+2469720	2473720	porque sempre tem uma tecnologia nova, uma ferramenta nova,
+2473720	2476720	então tem que gostar de estudar trabalhando nessa área.
+2476720	2480720	Então, é uma coisa que a gente tem que ter em mente, isso sempre.
+2480720	2485720	E, às vezes, como eu falei, não se comparar com outras pessoas.
+2485720	2488720	Eu aprendi a parte básica de algoritmo em seis meses,
+2488720	2493720	meu esposo conseguiu aprender isso em dez dias estudando, em duas semanas.
+2493720	2498720	É não se comparar com outras pessoas porque cada pessoa tem o seu próprio roteiro,
+2498720	2501720	aprende de uma forma, tem pessoas que são mais visuais,
+2501720	2505720	tem pessoas que precisam praticar muito para conseguir aprender alguma coisa,
+2505720	2509720	tem pessoas que gostam mais de material escrito,
+2509720	2512720	tem pessoas que gostam mais de material em vídeo,
+2512720	2517720	nem toda didática que você está vendo, está vendo um vídeo no YouTube
+2517720	2521720	de um determinado assunto, veja de três, quatro pessoas diferentes
+2521720	2525720	porque talvez você se identifique com uma didática de uma outra pessoa.
+2525720	2528720	Então, tem essa questão também de você fazer meio que um match
+2528720	2532720	da informação que você está absorvendo
+2532720	2535720	com a forma com que você gosta de absorver aquela informação
+2535720	2537720	ou que consegue aprender melhor.
+2537720	2540720	E dificuldades também vão aparecer.
+2540720	2543720	Eu acho que todo mundo quando passa, começa a estudar,
+2543720	2546720	em algum momento vai sentir dificuldades,
+2546720	2549720	em algum momento vai começar a se perguntar,
+2549720	2551720	será que isso mesmo é para mim?
+2551720	2553720	E a questão é de você não desistir.
+2553720	2556720	Eu acho que quanto mais você praticar,
+2556720	2560720	praticar é uma coisa extremamente essencial na nossa área,
+2560720	2564720	quanto mais você pratica, mais você vai conseguir absorver melhor as informações
+2564720	2567720	e vai ficando melhor naquilo também.
+2567720	2569720	E não desistir.
+2569720	2571720	Quando eu estive na minha faculdade,
+2571720	2573720	eu tive muita dificuldade com as questões de algoritmo.
+2573720	2575720	Não fazia sentido nenhum para mim.
+2575720	2578720	Comecei a praticar muito até que um dia,
+2578720	2580720	meio que no estalar de dedos,
+2580720	2582720	começou a fazer sentido.
+2582720	2585720	Do nada, tudo aquilo que eu estava estudando durante seis meses
+2585720	2587720	passou a fazer sentido.
+2587720	2589720	Então, talvez isso também aconteça com você.
+2589720	2591720	Em relação à idade também,
+2591720	2594720	não deixe que isso seja um fator também.
+2594720	2598720	Existem várias pessoas que vão pelo um caminho, por exemplo,
+2598720	2601720	tradicional, que começa desde o final da adolescência
+2601720	2607720	e já querendo saber e estudar para a carreira que vai seguir o resto da vida.
+2607720	2610720	E tem pessoas que fazem transições, trocam de carreiras.
+2610720	2612720	Isso é uma coisa completamente normal também.
+2612720	2615720	Então, não deixe que isso seja um fator também
+2615720	2618720	para que você não tente fazer alguma coisa.
+2618720	2620720	Meu esposo está com quase 40 anos agora.
+2620720	2623720	Então, ele vai tentar fazer uma carreira completamente...
+2623720	2625720	começar de novo.
+2625720	2627720	E existe espaço para isso no mercado.
+2627720	2631720	Qualquer que seja o trajeto que você vá fazer,
+2631720	2634720	faça o seu trajeto.
+2634720	2638720	Vai aí no seu passo, no seu espaço de tempo,
+2638720	2641720	que uma hora as coisas vão se encaixar.
+2641720	2644720	Com toda certeza. Excelentes recomendações aqui.
+2644720	2647720	E você teria dicas de...
+2647720	2649720	Obviamente, além dos seus livros,
+2649720	2652720	você tem dica de livro, música, jogos, filmes
+2652720	2656720	ou qualquer outra coisa que você gostaria de compartilhar aqui com o nosso ouvido.
+2656720	2658720	Não necessariamente da área de tecnologia?
+2658720	2660720	Bem, acho que da área de TI...
+2660720	2663720	Vou começar com a parte de livros da área de tecnologia.
+2663720	2667720	Principalmente no começo, a gente vê muita,
+2667720	2669720	mas muita indicação de livros.
+2669720	2673720	Se você faz parte da BoleTech, do Twitter
+2673720	2675720	ou de algum grupo do Facebook,
+2675720	2679720	muitas pessoas vão começar a recomendar livros para você.
+2679720	2683720	Existem alguns livros que são excelentes,
+2683720	2687720	mas tem livros também que são específicos de linguagem.
+2687720	2690720	Essa questão de boas práticas, dessas coisas,
+2690720	2692720	acho que principalmente no início,
+2692720	2695720	não é uma coisa que você precisa focar muito.
+2695720	2698720	Você tem que focar em aprender aquilo,
+2698720	2701720	mesmo que seja o algoritmo mais longo,
+2701720	2704720	um algoritmo que não é otimizado, nem nada.
+2704720	2708720	Mas foca em conseguir ter uma saída, ter um resultado.
+2708720	2712720	Com o tempo, depois você vai aprendendo a otimizar aquilo,
+2712720	2715720	vai escrever o algoritmo de forma mais bonita,
+2715720	2719720	vai aprender as boas práticas, mas isso tudo é contente.
+2719720	2722720	Não se preocupa em ler esses livros
+2722720	2725720	que geralmente são recomendados logo no início.
+2725720	2728720	Tem um livro, por exemplo, de Java,
+2728720	2731720	que eu gosto muito, muito mesmo,
+2731720	2734720	para pessoas que já aprenderam o básico.
+2734720	2736720	Isso não é um livro para quem está começando,
+2736720	2739720	mas é um livro que já aprenderam o básico mesmo,
+2739720	2741720	que é o Java efetivo.
+2741720	2744720	É um livro excelente, excelente mesmo.
+2744720	2747720	Outros livros, como eu falei, vão aparecendo.
+2747720	2751720	Tem uns livros mais queridos das pessoas, por exemplo,
+2751720	2754720	Código Livro, Arquitetura de Microsserviços,
+2754720	2757720	essas coisas, se preocupe bem depois que você já tiver
+2757720	2760720	fera no que você está fazendo,
+2760720	2764720	para depois você começar a focar e ler esses livros.
+2764720	2767720	Tem um outro livro que eu gosto bastante também,
+2767720	2769720	que é o Mindfulness,
+2769720	2772720	principalmente para a gente que trabalha com tecnologia,
+2772720	2774720	a gente está sempre meio que estressado,
+2774720	2777720	e sempre na correria, muitos projetos para entregar.
+2777720	2781720	É um livro que ajuda bastante, às vezes, você focar.
+2781720	2783720	É um livro mais voltado para...
+2783720	2785720	Não vou dizer que a saúde mental,
+2785720	2788720	mas acaba ajudando bastante você na saúde mental,
+2788720	2790720	não se desesperar.
+2790720	2793720	É um livro que vai te ajudar a ter mais foco.
+2793720	2795720	Então, me ajudou muito.
+2795720	2797720	Às vezes não querer fazer as coisas na correria,
+2797720	2799720	só porque tem que fazer uma coisa.
+2799720	2801720	E às vezes você parar, respirar um pouquinho,
+2801720	2804720	e depois voltar com calma, ajuda bastante.
+2804720	2806720	É uma prática muito legal,
+2806720	2809720	acho que independente da área em que você está,
+2809720	2811720	é uma leitura bem interessante.
+2811720	2815720	E sobre séries, músicas, essas coisas,
+2815720	2819720	sobre séries, a gente acabou de assistir aqui de novo,
+2819720	2822720	eu tinha visto bastante quando eu era um pouco mais nova,
+2822720	2825720	a gente decidiu reassistir Friends.
+2825720	2827720	Acho que Friends, para o pessoal,
+2827720	2829720	às vezes o pessoal pergunta o que eu devo aprender
+2829720	2832720	ou alguma coisa para fazer uma carreira internacional.
+2832720	2835720	Gente, inglês é uma coisa fundamental.
+2835720	2839720	E uma das coisas que eu gosto bastante de ajudar
+2839720	2843720	a aprender inglês foi assistir seriados.
+2843720	2846720	Então, pegue seriados do estilo que você goste.
+2846720	2850720	Friends foi um seriado que me ajudou a aprender inglês bastante também.
+2850720	2853720	E esses dias eu passei a reassistir,
+2853720	2855720	para poder lembrar um pouquinho.
+2855720	2858720	Então, sempre tem uma palavra ou uma expressão,
+2858720	2862720	às vezes que você não lembrava ou que você não sabia ainda.
+2862720	2864720	Mesmo reassistindo, você acaba aprendendo de novo.
+2864720	2867720	Isso é uma coisa que eu acho interessante.
+2867720	2872720	E, Loian, a gente está se aproximando aqui de uma hora de bate-papo.
+2872720	2875720	Tem alguma pergunta que eu não fiz
+2875720	2877720	e que você gostaria que eu tivesse feito?
+2877720	2880720	Eu acho que a gente cobriu bastante coisa, viu?
+2881720	2883720	Falamos até de furacão, né?
+2883720	2885720	Bastante chão realmente aqui.
+2885720	2890720	E você quer divulgar alguma informação para contato, rede social,
+2890720	2894720	alguma forma das pessoas entrarem em contato com você?
+2894720	2896720	Opa, agradeço aí o espaço.
+2896720	2899720	Bem, quem quiser manter o contato depois,
+2899720	2901720	eu estou no Twitter, que é o arroba Loiani,
+2901720	2903720	estou também no Instagram, que é o arroba Loiani.
+2903720	2907720	São as redes sociais que eu mais acabo acessando assim no dia a dia mesmo.
+2907720	2911720	E também tem muito material gratuito lá no meu canal do YouTube.
+2911720	2913720	É só pesquisar aí por Loiani Groner.
+2913720	2917720	Acaba baixando aí as playlists de Angular e de Java também.
+2917720	2922720	Então espero que, se é um assunto que alguém esteja aí tentando aprender,
+2922720	2925720	que tenha algum material lá que possa ajudar.
+2925720	2928720	E, Loiani, eu queria tirar aqui um minuto para te agradecer.
+2928720	2931720	Na Flórida já são uma hora da tarde, sábado, né?
+2931720	2936720	E você está aqui papiando comigo e compartilhando aqui a tua história fantástica com todo mundo.
+2936720	2940720	E queria te agradecer não só por isso, mas também por todo esse conteúdo,
+2940720	2942720	todo o ensinamento que você tem aqui,
+2942720	2944720	toda a ajuda que você dá para as pessoas.
+2944720	2947720	Sempre muito bem disposta a ajudar todo mundo.
+2947720	2951720	E conteúdo fantástico aqui com o pessoal que está tentando aprender e evoluir.
+2951720	2953720	Muito obrigado por todo o teu trabalho aí.
+2953720	2955720	Muito obrigada. Eu que agradeço.
+2955720	2958720	E o convite de novo de aqui mais uma vez.
+2958720	2960720	Obrigado. Um abração para você aí.
+2960720	2962720	Igualmente.
+2962720	2964720	Chegamos ao final de mais um episódio.
+2964720	2966720	Agradeço a todos a atenção.
+2966720	2968720	E o nosso site é osprogramadores.com
+2968720	2970720	Participem e até o próximo episódio.
+2970720	2972720	Um bom dia para todos.

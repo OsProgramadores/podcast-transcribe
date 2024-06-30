@@ -1,0 +1,613 @@
+start	end	text
+0	7360	Hi folks, I have the privilege of having Brian Kernigan here with me today.
+7360	8360	How are you doing, Brian?
+8360	9680	Marcelo, I'm doing fine.
+9680	11280	It's a pleasure to talk to you.
+11280	13440	And thank you so much for joining me.
+13440	14960	You work at Princeton today, right?
+14960	18600	So you teach a course named Computers in Our World.
+18600	21920	And I'm just wondering if you could tell us a little bit about the work at Princeton.
+21920	22920	Sure.
+22920	25120	So I've been at Princeton a little over 20 years now.
+25120	30880	And for a lot of that time, I have been teaching every fall a course that, as you say, is called
+30880	32880	Computers in Our World.
+32880	37840	It's basically a course about computing and communications for people who are very, very
+37840	42640	non-technical, a typical person in the class, a history major, maybe an English major, maybe
+42640	45840	a music major, something like that.
+45840	52000	And so what I'm trying to do is to tell them about technology that is already having a
+52000	56480	tremendous effect on their lives and is likely to continue to do so in the future.
+56480	61680	So the hope is that by the end of the course, they will understand a lot more about the
+61680	65680	things that go on in the world around them that are technical, because so much of that is
+65680	67920	based on computing.
+67920	74720	Going back in time, and I know you're going to tell me in a few minutes, but how did programming
+74720	75560	come into your life?
+75560	80600	I realize the programming back then was very different than today, but I was just wondering,
+80600	82920	how did programming come into your life?
+82920	88200	Well, you know, back in those days, there were dinosaurs still walking the earth.
+88200	91560	And so it was a very different kind of computing environment.
+91560	97960	I actually didn't encounter my first computer until I think I was probably at the end of my
+97960	101640	third year in university, somewhere in around that.
+101640	107560	And I saw a bit of computing at the university and I had a summer job that had there was a
+107560	110440	computer nearby, although I didn't actually use it.
+110440	115480	And so I think it wasn't until my last year as an undergraduate at the University of Toronto
+115480	118840	that I actually used a computer for anything.
+118840	120840	And even that was fairly superficial.
+121640	126600	But then I had internships and I did graduate work at Princeton.
+126600	130200	And so I did more computing at that point.
+130200	136040	So it slowly crept into my life, but not very early compared to most people these days.
+136040	141400	Going a little bit back further in time, can you tell us a little bit about your high school
+141400	146840	experience and what led you to your bachelor degree in engineering physics at the University
+146840	147880	of Toronto?
+147880	148520	Sure.
+148520	154680	So I grew up in southern Ontario, basically in Toronto.
+155400	163960	And then we moved when I was about 15 to a very small town outside of Toronto, maybe 50,
+163960	167000	60 kilometres west of Toronto.
+167000	170680	And so it was a very, very small high school, very, very small class.
+170680	176680	And so there wasn't much there that had anything to do with other than just the basics of
+176680	177640	education.
+177640	179720	But my father was a chemical engineer.
+180280	186680	He ran a very small chemical company and he had been a chemical engineering major at the
+186680	188200	University of Toronto.
+188200	193400	And so it seemed like sort of the natural thing for me to do to go to University of Toronto.
+193400	196200	But I didn't have any real interest in chemistry.
+196200	199880	I was probably more interested in electronics.
+200440	203240	And so I wasn't sure what to do.
+203240	207960	And I had a high school math teacher who suggested that I take the course that you
+207960	210120	mentioned called engineering physics.
+210120	215640	And what that was, was basically a lot of engineering, but also a lot of math, physics
+215640	220840	and chemistry for kids who were interested in engineering, or at least thought they were,
+220840	222760	but didn't know what kind.
+222760	225800	And so it was a fairly very challenging course.
+225800	229800	It was the kind of thing that in other schools might have been called a weed out course,
+229800	233880	that is to weed out the people who for whom it wasn't the right choice.
+233880	238840	And it was four years of very hard work, but I did get a pretty solid background in a lot
+238840	243720	of different things, both the call it the more theoretical and lots of math courses
+243720	248200	that were useful in physics and chemistry, but also some practical engineering sorts
+248200	248600	of things.
+249400	252440	Because there was, for example, a component about civil engineering.
+252440	255320	And so we learned about concrete and reinforced beams and so on.
+255320	259720	So it was a very tough course, but it was kind of satisfying in a way.
+259720	263640	I don't think I've ever worked that hard in my life since just to get through that.
+263640	268600	I was hoping you could tell us a little bit about your PhD as well.
+268600	273880	I think you did a PhD in electrical engineering from Princeton in 1969, correct?
+274520	275720	Yes, that's right.
+275720	282040	So after I graduated from Toronto in 1964 in this course called engineering physics,
+282040	283720	which is now called engineering science.
+283720	286440	They changed the name just after I graduated.
+286440	287880	And I went to Princeton.
+287880	292440	I had applied to a number of universities, mostly in the United States.
+292440	297400	It wasn't all that common for Canadians to go to the United States for graduate school.
+297400	301480	It was much more typical for people to simply go straight to work or if they were going to
+301480	303560	go to grad school to stay in Canada.
+303560	308280	But I went to Princeton in part because I had a good friend who had been a year ahead of me
+308280	312040	at Toronto and had then gone to Princeton as well.
+312040	316280	This is Al Ajo who shared that Turing Award last year.
+316280	318840	So very, very distinguished guy.
+318840	323240	But I went to Princeton and there was no computer science department at point.
+323240	329240	It was, there was a small collection of very young faculty in the electrical engineering
+329240	331880	department who were interested in computing.
+331960	334680	Computing at that point was a very, very young field.
+335640	340840	Much too early to have separate departments and not really quite clear what the topics
+340840	343480	of a computer science degree ought to be.
+343480	345560	But it was a good group of people.
+345560	347160	Princeton was a great place to be.
+347800	358280	And so I spent four and a half years at Princeton getting my PhD and graduated very early in 1969.
+358840	361720	How did you get to Bell Labs?
+361720	365320	I think you're an intern at Bell Labs at some point in time, correct?
+366280	367000	Yeah.
+367000	371960	What happened there is at the end, I think of my second full year at Princeton,
+371960	379480	I got an internship at MIT and I was working in the group that had developed CTSS,
+379480	384040	the Compatible Time Sharing System, which is a very, very nice computing environment.
+384040	386600	And one of the probably the first like it.
+386840	392840	That group had just embarked on the Multics project, which was an attempt to do all of
+392840	400280	the things in CTSS, but do them better, bigger, faster, more complicated, more of everything.
+400280	406920	I got that internship at MIT, I think through good luck, but also because a Princeton grad
+406920	410760	student had been there the summer before, had done a good job and they probably thought
+410760	412520	Princeton people would work out okay.
+412520	419000	So I spent a summer there in what was called Project MAC and working on tools for this new
+419000	420920	Multics operating system.
+420920	427960	And as part of that, I sort of knew of work at Bell Labs, which was going on because Multics
+427960	435000	was a joint project between MIT and General Electric, which made hardware computers at
+435000	439480	that time, and Bell Labs, which was a real software operation.
+440040	442360	And I think that gave me some contact.
+442360	450280	And in the following summer, it would be the summer of 1967, I got again through probably
+450280	456520	just good fortune annoying people an internship at Bell Labs in the research department in
+457320	464840	Murray Hill, New Jersey, sort of 40 kilometers west, southwest of New York.
+465640	467800	So I spent that summer there.
+467800	474440	I worked with Doug McElroy and I had such a good time that when they offered me a chance
+474440	479320	to come back the next summer, that is the summer in 1968, I came back again.
+479320	483080	And at that point, I actually had to get serious about a thesis.
+483080	491640	So I worked with Shen Lin on a combinatorial optimization problem that my thesis advisor
+491640	495960	had suggested and Shen and I came up with heuristic techniques for solving.
+496760	499560	The problem was called graph partitioning.
+499560	505160	Take a graph that is kind of graph that has nodes and edges, and you try and divide the
+505160	512520	nodes into two equal sized piles such that the number of edges that goes from one side
+512520	515080	to the other side is as small as possible.
+515080	519320	It's called graph partitioning because you're partitioning the graph into two equal size
+519320	519960	pieces.
+519960	524040	And we never did figure out an efficient way to solve this problem.
+524040	529160	But Shen and I came up with a heuristic that did a decent job on it.
+529160	534200	And I came up with a couple of special cases where you could actually do an efficient
+534200	534920	computation.
+535880	537800	And that turned into a thesis.
+537800	542360	It turned out that, of course, at about the same time, other people were doing theoretical
+542360	546920	work on why is it that some problems seem to be so hard?
+547000	556280	And this was the work of, in particular, Stephen Cook on the idea of NP completeness of problems
+556280	561960	that were easy to prove that you had the right answer but not easy to solve.
+561960	568040	And it turns out the graph partitioning is a fine example of an NP complete problem.
+568040	572520	And so that's the reason that we never came up with a technique that was guaranteed to
+572520	573880	be efficient.
+573880	581080	So long story short, I did actually finish my thesis and went to Bell Labs as a permanent
+581080	584360	employee right at the beginning of 1969.
+584360	591160	Brian, I was hoping you could give a brief overview to our audience of how computers
+591160	593560	and computing in general looked like back then.
+594120	596520	And you also mentioned mucics.
+596520	601240	And I was wondering if you could speak a little bit more about mucics and explain the
+601240	605000	importance of mucics in the evolution of operating systems.
+605960	606280	Yes.
+606920	608680	Again, back to the dinosaur comment.
+609400	616040	When I started computing, there were only a very small number of computers in existence, period.
+616040	618760	They tended to be very large computers physically.
+621720	628760	At the University of Toronto, there was one big computer called an IBM 7094, I guess.
+628840	631400	And it served the entire university community.
+631400	634360	It may have been the only big computer in the whole country.
+634360	641480	And so that meant that you had to use it by writing a program on punch cards, which were
+641880	645480	basically pieces of paper with holes in them representing information.
+645480	650360	And so you would take a few hundred or a few thousand of these cards, which had a program
+650360	656360	and its data, and you would hand it to an operator who would hand it to the computer.
+656760	660760	And sometime later, you might get your results on printed pieces of paper.
+661640	664280	And if you made a mistake, you had to repeat the whole process.
+665160	666200	And so it was very slow.
+666200	670600	You might be lucky to get a run of your program every hour or two.
+670600	672840	It might even take a day before you got results.
+672840	678280	And so that part of the world was very different compared to what we see today, where you
+679240	686280	interactively type a program into a computer and say, compile it, and then you can do the
+686440	688040	and a few seconds later it's done.
+688040	693080	The thing that I mentioned, CTSS, the Compatible Time Sharing System, and what that was, it
+693080	697000	used basically the same computer actually in IBM 7094.
+697560	703800	But what it did was to share the computing resources of that computer with a number of
+704440	706280	users, perhaps 20 or 30.
+707320	712040	And it simply switched its attention very quickly from one user to the next to the next.
+712040	713800	And of course, most users weren't doing anything.
+713800	714920	They were sitting there thinking.
+715560	720280	And so it gave each user the illusion that they had the whole computer to themselves
+720280	722760	by doing this time sharing idea.
+723400	727080	And it was incredibly more productive and incredibly nicer than punch cards.
+728040	735320	Programs were stored on a disk on the computer and results were printed on your own terminal.
+735320	739080	That is a device like an electric typewriter that printed on paper.
+739080	741800	And so in that sense, the world was very different.
+742360	746040	So CTSS was a very productive, very nice environment.
+746040	748760	It's hard to describe just how nice it was for the time.
+749560	758280	And so what Multics was, and that's M-U-L-T-I-C-S, what Multics was, was an attempt to take the good
+758280	760680	ideas in CTSS and scale them up.
+761800	765080	It was meant to be an information utility.
+765080	768840	That is something where people could just use computing from wherever they were.
+768920	771640	There would be a central computer that would provide service.
+772840	776920	Both of these things sound, of course, very much like cloud computing today.
+776920	779480	And I suppose arguably that's what they were.
+779480	786920	So Multics was a joint project between, as I mentioned, MIT, General Electric, and Labs.
+786920	792840	It was physically mostly at MIT because they had done CTSS.
+792840	798520	They had that expertise and that computer system very easily available.
+799160	804840	But other people from Bell Labs could use it remotely, basically by telephone lines,
+805800	809720	very early version of internet-like connections today.
+809720	815080	And so that environment was actually very, very productive and a lot of fun.
+815080	820120	And I think that's actually the place where I first got seriously into computing because
+820120	825240	I discovered it was great fun when you didn't have so many of these obstacles like punch cards
+825240	829960	and having to wait for jobs to go through operators and things like that.
+829960	835400	And some time ago, you mentioned that if you're ever stranded on an island
+836040	840840	with only one programming language, you would have to be C. Can you tell us why?
+842920	845240	I think, well, partly it's familiarity.
+845240	850520	I grew up with C because it was created by Dennis Ritchie, who is a colleague at Bell Labs.
+851400	856360	But I think in some sense, C is a fundamental tool.
+856360	858680	It doesn't rely on very much of anything else.
+858680	862040	It doesn't need a big runtime support from an environment.
+862040	863720	In fact, it doesn't need any at all.
+863720	865800	And it's a very simple, straightforward language.
+865800	871400	You could imagine building a compiler for it fairly easily for almost any target architecture
+872040	873480	that would be good enough.
+873480	878440	And so in a sense, you could build anything else with C.
+879080	883480	In fact, if you look at the implementation of an awful lot of the tools that we use today,
+884040	890120	they're in some sense a shell around a bunch of libraries that are written in C
+890120	894200	because C is both expressive but also very, very efficient.
+894200	896440	And the efficiency mattered a tremendous amount.
+896440	902360	C was developed in roughly 1972, let's say, so about 50 years ago.
+902360	907160	And at that point, computers were very, very much less powerful than they are today.
+907880	910680	They didn't run very fast and they had very little memory.
+911240	915000	And so you had to make really effective use of all of the resources.
+915000	916920	And so C made it possible to do that.
+916920	918760	You could get very close to the computer.
+918760	925320	You could actually control what was going on in a way that is hard today with languages
+925320	929960	which are so much higher level and have so many layers of libraries between
+930760	934760	what you write as a programmer and what actually gets executed by the hardware.
+934840	939800	Yes, if I had only one language on a desert island, I would choose C
+939800	943400	because with that principle, at least I could build anything else.
+943400	948360	You still remember the first time they saw programming C and you tried yourself?
+948360	953480	The evolution is a little different, I think, in the very early days.
+953480	959960	Unless, again, this is the very early days of UNIX, call it 1970, 71, something like that.
+960200	968680	Kent, first, people in the Multex project had been experimenting with writing all of
+968680	971640	the software for the system in a high level language.
+972360	980520	They started out with a version of PL1, which was a very big, terrifyingly complicated language
+980520	981800	that IBM had developed.
+981800	983000	That didn't work very well.
+983000	987560	So they switched to a language called BCPL, which was done by Martin Richards
+987560	989080	at the University of Cambridge.
+989240	990200	That was a lot better.
+990200	992600	It was a much simpler, more straightforward language.
+995800	1002280	Ken Thompson, who had been involved in all of this, at some point created an even simpler
+1002280	1005160	version of BCPL, which he called B.
+1007080	1012600	That language was superficially, it sort of looks like what C does today.
+1013080	1019720	I programmed a bit in B, not a lot, but enough that I knew what was going on.
+1020520	1026920	I wrote a tutorial document for B, sort of how to get started for the benefit of other
+1026920	1029720	people who hadn't yet learned it.
+1031480	1041320	Then Dennis Ritchie took B and basically added type information so that instead of the single
+1041400	1049960	data type that B provided, which is basically 16 bit integers, he converted it to a language
+1049960	1055960	which had data types like integers, perhaps of a couple of sizes, characters or one byte
+1057160	1061480	quantities, and eventually even floating point numbers.
+1062680	1065560	And he called that language C as a follow on to B.
+1066200	1072280	The difference between B and C was basically that idea now there were data types in the
+1072280	1072760	language.
+1072760	1077640	The language supported different kinds of data and did what was necessary to manipulate them
+1077640	1078840	as their own type.
+1080440	1085880	I took the B tutorial, which I had written, and upgraded it to a C tutorial.
+1086600	1091640	Again, so that partly to help myself learn the language, but also to help other people
+1091640	1094920	who hadn't encountered it yet and to get them off the ground.
+1096120	1101480	That transition is probably when I first started writing C, but I obviously don't remember at
+1101480	1105480	this point what my first C programs were or anything like that.
+1105480	1106520	I just have no memory of it.
+1109320	1110520	You mentioned Dennis Ritchie.
+1110520	1114840	Can you tell us a little bit about your work with Dennis Ritchie and what led you guys
+1114840	1117720	writing the C language book together?
+1117720	1121640	Yeah, so Dennis was a colleague in the same group as I was.
+1121640	1123720	He and I were about the same age.
+1124360	1132840	He had arrived at Bell Labs probably, roughly, while I was an intern there, he might have
+1132840	1138760	started his permanent job there, roughly that period of 1968 or 1969.
+1138760	1142520	We were in the same group, and so I knew him through that.
+1144200	1149320	I had, as I say, been writing these tutorials first for B and then the one for C.
+1150280	1153320	And C was becoming somewhat more popular.
+1153320	1157960	Certainly people who used it on Unix, which was at that time really the only place where
+1157960	1159240	you could use it, liked it.
+1159240	1165400	And so at some point I suggested to Dennis that we should write a book about C.
+1166280	1172120	I don't think he was originally very interested in it, but I twisted his arm and he said,
+1172120	1173240	okay, we'll do it.
+1173240	1176600	The reason I twisted his arm, well, a couple of reasons, I guess.
+1176600	1180600	But one is that he had written a reference manual for C.
+1180600	1184680	That is a very careful, precise description of the C programming language.
+1185480	1190920	And I wanted that reference manual as a part of a book.
+1190920	1193240	And the other thing is that he was just a great writer.
+1193240	1199080	And he really had the ability to write clearly and concisely and accurately and with a certain
+1199080	1201720	amount of flair and even dry humor.
+1202680	1207400	So he was absolutely a wonderful person to co-write a book with.
+1207400	1212200	So he eventually agreed and we wrote a C book.
+1212200	1216920	I wrote most of the first draft of most of the chapters.
+1217640	1222280	And the reference manual, I think we basically didn't change anything because it was so good.
+1222280	1228600	And then we made multiple passes over it to smooth out the, so it was a kind of a merger
+1228600	1230360	of our styles.
+1230360	1231800	And that was the C book.
+1231800	1237240	And of course, as a life-changing thing, that is by far the most important one that I ever
+1237240	1238040	did technically.
+1238760	1244760	The reason you and I are talking together is precisely because I worked with Dennis
+1244760	1245560	on that C book.
+1245560	1249720	You're also the one who came up with the Unix term, right?
+1249720	1254840	So, and I was wondering if you could tell us a little bit about how did you come up
+1254840	1260200	with that term and how was your work with Ken Thompson and others at that time?
+1260600	1265400	Yeah, so the name Unix, my memory of this, and this is one of these things that is sort
+1265400	1267240	of lost in the midst of time.
+1268760	1277000	My memory is that the new system, this system, which today we know as Unix, had been written
+1277000	1280360	primarily by Ken Thompson at that point with some help from Dennis.
+1280360	1282440	I'm not sure exact timing.
+1282440	1287000	And people were standing around basically outside the offices.
+1287000	1292280	We were all on a long corridor and wondering about a name for this system.
+1292920	1298920	And I suggested that since they had all been working on this thing called Multics, which
+1298920	1305000	was many of everything, back to the Latin roots of multi, many of everything.
+1305000	1310200	And this new system that Ken had created was at most one of anything.
+1310200	1313240	And so again, if you think of the Latin roots, no.
+1313400	1319320	And so I suggested we call Unix as in U-N-I-C-S.
+1319320	1327320	And somebody, and I have no idea who, made the great improvement of changing it to U-N-I-X,
+1327320	1329240	and that name stuck.
+1329240	1330360	Is that the right story?
+1330360	1335400	That's what I remember, but I've told this enough times now that it should be treated
+1335400	1336360	with suspicion.
+1336360	1340120	There are certainly other people there who might also have contributed, in particular
+1341080	1346600	Peter Neumann, who was part of the original Unix group and was well known as a guy who
+1346600	1348200	just loved to create puns.
+1348200	1351080	And so Peter might well have done something like that as well.
+1351080	1353320	And I simply don't know at this point.
+1353320	1354600	I worked with Ken.
+1354600	1361480	I had nothing to do with the Unix operating system or the C programming language itself.
+1361480	1367160	I contributed documentation, obviously, like the book with Dennis and a fair number of
+1367160	1369720	useful tools that go with Unix.
+1369720	1371960	But I had nothing to do with the system themselves.
+1371960	1377080	I think the only time that ever really worked with Ken himself is that at some point,
+1377080	1383720	probably in the late 70s, I was very interested in document preparation systems.
+1383720	1391640	We had gotten a typesetter that is a device for printing high quality stuff on paper.
+1391640	1395000	Think of it as a early precursor of laser printers today.
+1396440	1398840	And it came with terrible software.
+1398840	1401640	And so Ken created useful software for that.
+1401640	1407400	And I built on top of the software to make it a useful device for our basically internal
+1407400	1407880	printing.
+1407880	1409960	And so I worked with Ken on that.
+1409960	1416520	But that's other than that as a friend, but no actual technical work with him beyond that.
+1416520	1420280	It must have been an incredible, absolutely incredible time.
+1420280	1426200	Brian, I was hoping you could tell us a little bit about the development of Auck and also
+1426200	1426840	Ample.
+1426840	1427640	Sure.
+1427640	1434600	So Auck was, still is, a language that was meant to make it really easy to do simple
+1434600	1440920	text and merit processing, the kind of thing where you want to stream a bunch of data past
+1440920	1447080	a process that does something to it, like identify interesting things or accumulate
+1447080	1449480	data or transform it along the way.
+1449480	1453400	Sort of a stream processing kind of programming language.
+1453960	1460520	It was created in 1977 by Al Ajo and Peter Weinberger and I.
+1460520	1463880	And that explains the rather odd name.
+1465000	1469640	And we created it fairly quickly because we had really, really good tools available to
+1469640	1469960	us.
+1469960	1471640	It was written in C, of course.
+1472520	1478280	The grammar was specified in the Ack, which is the compiler-compiler parser generator
+1478280	1479960	that Steve Johnson had created.
+1480520	1487320	The lexical analysis was done by Lex, which was an analogous program that Mike Lesk had
+1487320	1491400	created for basically tokenizing inputs very efficiently.
+1491400	1493080	And so we put all that stuff together.
+1493080	1496600	Peter did the first implementation, I think, literally over a weekend.
+1496600	1498360	And it's been used ever since.
+1498360	1502760	I mean, right now, if I were not talking to you, I would be working on the second edition
+1502760	1507240	of the Auck book, which we wrote a long time ago, and trying to improve the code.
+1507240	1512280	So it's still very, very widely used, kind of a core Unix tool at this point.
+1513160	1521320	It's the precursor in a way of languages like Perl and then less so, but in that same spirit,
+1521320	1526040	scripting languages like Python and JavaScript and so on.
+1526040	1531480	The idea that instead of compiling the language, you would interpret it.
+1531480	1536200	Therefore, you could get off the ground more quickly and also they were much more portable
+1536200	1542360	because you didn't have to generate code for each individual computer architecture.
+1542920	1543720	So that's Auck.
+1544760	1546200	Still very much alive and well.
+1547160	1548840	The other one you mentioned is Ample.
+1548840	1554680	And Ample is a language for specifying mathematical optimization problems.
+1554680	1558360	Things like linear programming is the most obvious example where you have a system
+1559000	1566680	of equations that represent constraints on how much of things you need or have to have
+1566680	1570760	or something like that, and an objective function that you want to optimize.
+1570760	1576280	So you use it for things like scheduling crews on airlines or figuring out how to feed
+1576280	1581160	large numbers of people, give them enough calories, all kinds of things like that.
+1581160	1586280	Scheduling classrooms, packing things into boxes, all sorts of things are basically
+1586280	1587480	optimization problems.
+1588040	1593640	All of them can be specified in a language that sort of looks like mathematics,
+1593640	1599240	as you might write it on the board, but is more precise and processable by a computer.
+1599240	1600840	Ample is that language.
+1600840	1607480	And an Ample specification of a problem is converted into instructions for a solver,
+1607480	1611480	which knows how to solve things like, let's say, linear programming problems.
+1611480	1616120	The solver does its thing, finds a solution, sends that back to Ample,
+1616120	1621000	and Ample displays the results in the terms of the person who had the original problem.
+1621000	1626840	And so Ample was not the first such language, but I think has proven over the years to be by far the
+1626840	1632840	most successful of these, but it's a much more narrow area, more specialized than something like
+1632840	1635480	AUC, but it's still very much around.
+1635480	1641800	There is a small company that I created with the two people who actually did more of the work on
+1642520	1648520	Ample at the time, Bob Forer, who was a professor at Northwestern University, and Dave Gay,
+1648520	1651240	who was one of my colleagues at Bell Labs.
+1651240	1659000	So we created this in the mid 1980s, and I wrote the original version, and Dave Gay took it over
+1659000	1661960	somewhat after that and has maintained it since.
+1661960	1669960	And we created a small company in about 2000 to keep Ample going, and that company is still alive
+1670360	1676200	and well, thriving at this point, although I don't have very much direct contact, or I'm not
+1676200	1679640	doing anything directly with the company per se at this point.
+1679640	1685400	But again, a specialized language is both AUC and Ample are, I guess, examples of what I might call
+1685400	1689960	little languages, languages that focus on a particular domain.
+1689960	1695800	Because of that, they get smaller and simpler than general purpose languages like C or C++,
+1695800	1696520	things like that.
+1696520	1701800	They're also called domain specific languages, I guess, if you're looking for more familiar terminology.
+1701800	1707560	And talking about other languages, you wrote a book about the goal programming language,
+1707560	1709240	I think, with Alan Donovan.
+1709240	1713000	And do you think that you could take a go to an island as well?
+1715000	1717880	I probably wouldn't for a couple of reasons.
+1717880	1723640	One, the book that I wrote with Alan Donovan mostly is his work.
+1723640	1725000	He's just an amazing programmer.
+1725960	1729400	And he knows Go inside out like very few other people.
+1730280	1734600	And so, 90% of the work on the book was really Alan's.
+1735480	1740040	And I was not nearly as involved in that sense.
+1741080	1744840	Go is a nice language, and it does some things very nicely indeed.
+1744840	1749960	It's very good for network servers, crawlers, things like that where you want to synchronize
+1749960	1756280	multiple processes very efficiently, very, very large numbers of things going on simultaneously.
+1756280	1762200	And it looks very much like C as well, sometimes been described as C for the 21st century.
+1762200	1767000	I think the reason you might not want to start with it on a desert island is that it actually
+1767000	1773960	needs some kind of runtime to manage the concurrency and garbage collection and other things like that
+1773960	1778520	that go into running Go efficiently.
+1778520	1784760	So, I would say it's perhaps not the right choice for the core stuff, but it would be
+1784760	1790280	perfectly fine as the next thing to try and do because it's very good at those kinds of
+1790280	1793160	concurrent operations that you might want.
+1793160	1796680	It's also very much more a type safe language.
+1796680	1799080	C gives you lots of ways to make mistakes.
+1800280	1806760	I think it's much harder to make mistakes in many of the newer languages which are more strongly typed.
+1806760	1811240	You mentioned a few times during the interview, you have been around for a little while,
+1811880	1818520	and you have seen a lot in computer science and evolution computer science, and since the PDP
+1818520	1819480	seven times.
+1819480	1825080	I'm just wondering, what do you think would be the next computer science related impact
+1825080	1830120	on people's lives, something that you foresee happening in the near future?
+1830840	1834920	Well, I hate to say it, but my ability to predict the future is pretty awful,
+1835560	1836360	roughly speaking.
+1836360	1842520	I mean, if I had been able to predict the future, and for example, use that to invest wisely,
+1842520	1844840	I would be able to buy a small country.
+1844840	1847480	And unfortunately, it hasn't worked out that way at all.
+1848040	1853320	So, you should take anything I say about the future with a real grain of salt.
+1854760	1862600	I think that what we're going to see is that computing will continue to be just an absolutely
+1862600	1864760	central part of everything that we do.
+1864760	1869160	We've seen that in the last, call it 10 or 20 years, where more and more things are
+1869160	1874440	fundamentally devices that interact with the outside world, but are based on a computer
+1875000	1881400	inside, something that's running an operating system like Linux and communicates with other
+1881400	1882680	computers by the internet.
+1882680	1886600	So, the whole internet of things idea, and I think that's going to continue.
+1886600	1888040	That's one area.
+1888040	1893800	Another area that is clearly evolving very, very rapidly is all the things related to
+1894280	1896520	artificial intelligence and machine learning.
+1897160	1905720	I mean, the story of the week at this point is chat GPT, which is something that carries on
+1905720	1913800	pretty sensible conversations or expansions of text, and absolutely pretty much flawless text,
+1913800	1921240	flawless English versions I've seen, that sound pretty sensible on an enormous variety of topics.
+1921240	1926760	And it will give you an essay for application to college or write a letter to a friend or
+1926760	1932120	generate a small program that is syntactically correct and stylistically good, all kinds of
+1932120	1933080	things like that.
+1933080	1935240	And that's very, very early days.
+1935240	1937320	I don't know how that will evolve.
+1938040	1944360	One thing that you see with that specific program is that it generates utterly nonsensical
+1944360	1947160	material that looks superficially perfect.
+1948120	1952920	And so, you have to be very careful that what you get from one of these things is actually
+1952920	1953480	correct.
+1955080	1959640	So, I don't know where, but I'm going to guess that in the next, call it five or 10 years,
+1959640	1964920	we're going to see a great deal more activity and probably progress in that ability of computers
+1964920	1972440	to do things like generate text, generate pictures, simulating the kinds of things that people do
+1973400	1975720	so that their behavior is more natural.
+1975720	1979400	And there will be good parts of that and bad parts of it.
+1979400	1983960	And the bad parts are going to be fundamentally, how do you detect things that are actually
+1983960	1990760	not right or are actively harmful in some way or another, kind of deep fakes extended
+1991640	1994600	in many directions and very effectively.
+1994600	2001000	And looking back through your incredible career, is there anything special that you think
+2001960	2007960	you have done in a different way besides perhaps forecasting the financial investments?
+2008840	2009560	Yes, right.
+2010680	2012760	Yes, that's definitely one of the regrets of my life.
+2012760	2020040	Oh, well, no, I've been astonishingly lucky in a lot of ways because as you go through
+2020040	2025240	life, you come to random events that send you in one direction or another, and there's
+2025400	2031720	no way to predict which direction, even if you realize it's a choice, there's perhaps
+2031720	2035080	no way to predict what the right direction will be.
+2035080	2037000	And so you just kind of do it.
+2037000	2041160	It's like rolling downhill and you run into a boulder and you go to the left of the boulder,
+2041160	2043400	the right of the boulder, and you just keep doing that.
+2043400	2049800	And so things that I have been very lucky on, for example, going to that particular program,
+2049800	2053800	engineering physics program at the University of Toronto, where I was forced to actually
+2053800	2054920	learn a bunch of things.
+2056040	2060760	Going to Princeton for graduate school instead of staying in Canada, that might have changed
+2060760	2061240	my life.
+2062520	2066040	In hindsight, it's worked out extremely well, but I don't know what would have happened
+2066040	2070280	if I'd stayed there or gone to a different school in the United States, which results
+2070280	2071000	in an option.
+2072040	2077640	And certainly that summer at MIT changed my life in a lot of ways and then the subsequent
+2077720	2085640	time at Bell Labs, but very hard to see how any of those would have been different, very
+2085640	2089400	hard to predict what the difference would be if I hadn't done that.
+2089400	2094680	So for example, if I had had different internship instead of the one at MIT, I suspect life
+2094680	2095800	would be very different.
+2095800	2096760	Would it have been worse?
+2097320	2097640	Maybe.
+2097640	2098520	Would have been better.
+2098520	2098920	Maybe.
+2098920	2099560	Who could tell?
+2100840	2106680	I've tended not to second guess any of the decisions that I have made along the way.
+2108520	2111560	One hopes to continue to be lucky in some way or another.
+2111560	2115800	When you need to do some programming, do you still do C programming when you need to do
+2115800	2120520	something or do you choose another language or what do you do these days when you need
+2120520	2122360	to do a little bit of programming?
+2122360	2125800	Most of the programming that I do is quite small at this point.
+2125800	2131320	It's sometimes writing code that will illustrate something for a class or in this case, a book.
+2132440	2137560	And so it tends for things where I just want to get something done and it usually is very
+2137560	2137960	small.
+2138840	2144920	I tend to write a lot of awk, which is self-serving in a way, but at least it's the language
+2144920	2146760	that at this point I know the best.
+2146760	2151240	I don't have to think about it in the slightest, but it doesn't scale to bigger programs.
+2151240	2155640	So if I write a 10 line awk program, that's probably getting too big.
+2156200	2160360	So after that, I would probably write Python and I certainly use that for teaching.
+2160360	2166520	And I think that's in many cases for me and certainly I think for a lot of people, the
+2166520	2170920	best choice, you get a lot of bang for the buck and Python has an enormous collection
+2170920	2171880	of useful libraries.
+2171880	2174840	So there's a lot of code you don't have to write, you just use it.
+2174840	2178120	But for certain other kinds of things, I do write C.
+2178840	2185240	As I mentioned, I have been working on the version of awk that Peter and Al and I wrote
+2185240	2191160	so long ago, upgrading it, for example, to a letter process Unicode, which it didn't
+2191160	2196200	really do until I started working on that six months or so.
+2197000	2200840	So that it can handle languages of the world better than it did originally.
+2201640	2202840	And that's all C code.
+2203560	2205880	I hate to say it, it's not very clean C code.
+2205880	2212120	I wish I had understood good programming and abstraction and so on much better at the time
+2212120	2215640	when we were writing it, but that it's actually kind of fun to do that.
+2215640	2219000	So those are the kind of languages that I mostly use these days.
+2219000	2224680	If I were marooned on a desert island with something else, I would print it fairly quickly
+2224680	2226520	and that would be perfectly fine too.
+2226520	2232120	Brian, like I mentioned to our programming group, the Os Programadores, we have over
+2232120	2237480	4,000 people who are trying to learn programming, trying to get into technology.
+2238040	2240680	And they come up with lots of questions, right?
+2240680	2245080	So there's when you're young in your full life, there's always a question if that's
+2245080	2247320	the right choice or the right decision.
+2247320	2252840	I'm just wondering what kind of recommendations would you have for those that just start in
+2253240	2254040	the learning path?
+2254600	2261880	I think probably the recommendation is to try as many things as you reasonably can.
+2263800	2264600	See what happens.
+2265240	2270840	For example, if you want a career in technology, see how far you can get with resources that
+2270840	2271720	are available.
+2271720	2278040	There's an awful lot of the web that you can use to teach yourself things and groups that
+2278040	2281880	will help you along your podcasts are obviously an example of that.
+2281880	2287640	And so try things and see what kind of feels like you want to go further and what feels
+2287640	2289480	like that's not for me.
+2289480	2293240	And that gives you a better idea of what directions you might go.
+2293240	2297560	But it's a fine example of one of these random things where you don't actually know which
+2297560	2301400	is the right alternative and the best you can do is try some of it and see what happens.
+2302760	2309720	Just wondering, do you have any books, music, movies or any recommendations, no matter what
+2309720	2312200	topic you'd like to share with the audience?
+2312200	2316280	I know you have a long list of books that I'm going to include in the podcast notes,
+2316280	2320680	but I'm just wondering if you have any specific recommendations, again, books, music, movies,
+2320680	2322680	or anything that you'd like to share?
+2322680	2329080	There's a collection of things that I think people might find interesting.
+2330520	2335560	You may have noticed that Fred Brooks died within the last couple of weeks.
+2335560	2341800	Fred Brooks was the architect of the IBM 360, which is a computer system that set IBM on
+2341800	2343480	a path for many, many years.
+2344600	2348280	He was a very distinguished professor at the University of North Carolina.
+2349160	2356040	And he wrote a great book about his experience as the chief architect at IBM.
+2356760	2358760	It's called The Mythical Man Month.
+2358760	2363800	And it was originally written, I guess, probably in the, I'll make up a number, the 80s.
+2363800	2364840	I used to have to look it up.
+2365320	2372200	And then I, a new edition some years later, and it's a really, really good discussion of
+2372840	2377800	some of the things involved in doing software from the perspective of somebody who is managing
+2377800	2379320	a big software project.
+2379320	2381800	And it's really gracefully written in a lot of ways.
+2381800	2388680	And so that's one of a fairly small number of computer books that I go back and reread
+2388680	2392840	from time to time for whatever insights it might have.
+2393080	2398280	The world is different now than it was when Fred was working at IBM and then writing the book.
+2398280	2400440	But there's certainly good things in it.
+2402200	2408200	Another one that I, because it's sitting right close to me, I can see it, is a wonderful book
+2408200	2410120	called How to Lie with Statistics.
+2410680	2413720	And again, it's a book, it was written, I think, in 1953.
+2413720	2414920	So it's quite an old book.
+2415960	2422760	But it's basically about how to detect places where somebody is giving you the wrong impression.
+2423320	2425400	With the numbers that they're presenting to you.
+2425400	2427960	It shows some examples of graphical trickery.
+2427960	2431240	It shows you examples of bad computation.
+2431240	2436440	And all of the text, in some sense, the numbers are a little dated because they're from the 1950s.
+2436440	2438600	But the ideas in it are timeless.
+2439160	2445560	And with computers, we can do a much more effective job of lying today than we used to be able to,
+2445560	2447880	because we can draw even fancier graphics.
+2447880	2453000	And so I think it's a very useful small book that's kind of fun to read.
+2453000	2459960	There is for people who are in English speaking countries, a wonderful collection material on how
+2459960	2465160	to write English well, called The Elements of Style, which is written by Strunk and White.
+2465160	2469800	Again, it's a book that at this point was close to 100 years old, but updated somewhat.
+2471160	2476120	And so I found that a book that is useful for helping me to write better English.
+2476120	2481080	And so for your friends and colleagues who are writing Portuguese, I'm sure there are similar
+2481080	2487960	books, books that tell you how to make effective use of your language to better communicate with
+2487960	2489320	the people who are going to read.
+2489320	2495480	And so I think it's one of those things where knowing how to write well is very effective.
+2495480	2503640	And knowing how to write well for people who are not as technically capable as you and I might be,
+2503640	2508200	right for audiences who are, their expertise is somewhere different.
+2508200	2512840	So how do you write a book for somebody who's, for example, a history major as opposed to a
+2514040	2515720	programmer, that kind of thing?
+2516920	2517960	And I think that's useful.
+2518520	2522440	I'm sure that you could definitely find examples of that sort of thing.
+2522440	2525240	Think about what makes good writing what doesn't.
+2525240	2529320	And of course, along with that, a useful personal skill is how to speak well.
+2529880	2535480	Can you talk about what you do to an audience of people who are not in that field and make
+2535480	2537480	them think that's interesting?
+2537480	2538520	I learned something.
+2538520	2544040	And so being able to speak well about what you do is also a very useful kind of thing to do.
+2544840	2551000	And I don't have books on how to do that, but that's a useful way to think about what to do,
+2551000	2553160	how to make effective use of what you've got.
+2553560	2555400	Those are fantastic recommendations.
+2555400	2556280	So thank you.
+2556280	2557000	Thank you for that.
+2557880	2568360	And Brian, I realize I could spend 10 years with you and we still have lots of topics to discuss,
+2569000	2573480	but I know you have limited time and you so graciously volunteer that time here.
+2573480	2579720	I'm wondering if there are any questions that you believe I should have asked today and I
+2579720	2580760	have not asked it yet.
+2580760	2589320	No, I think you've covered pretty much everything in a very orderly, organized kind of way,
+2589320	2593080	which is very nice and helpful from my perspective.
+2593080	2596040	So I really appreciate the chance to talk with you.
+2596680	2600920	Hope that some of this will be interesting for the folks who listen to the podcast eventually.
+2600920	2604440	Oh, it's I can guarantee it's incredibly interesting.
+2605480	2607240	It's absolutely fantastic.
+2607880	2612360	Is there anything else in particular that you'd like to mention and share with the
+2612360	2613800	audience before we close?
+2615000	2617080	No, I think that's probably the whole story.
+2617960	2622840	Again, Brian, I just want to take a moment again to thank you for so graciously donating
+2622840	2628200	your time and I should let people know that we had we attempted this recording a couple
+2628200	2633320	weeks ago and we had a problem with the tool that we're using and you agreed to record again.
+2633320	2635080	So thank you so much for your time.
+2635160	2637640	It's been an incredible privilege speaking with you today.
+2637640	2638600	No, my pleasure.
+2638600	2640040	Thank you very much, myself.
+2640040	2640540	Cheers.

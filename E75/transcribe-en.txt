@@ -1,0 +1,612 @@
+Hi folks, I have the privilege of having Brian Kernigan here with me today.
+How are you doing, Brian?
+Marcelo, I'm doing fine.
+It's a pleasure to talk to you.
+And thank you so much for joining me.
+You work at Princeton today, right?
+So you teach a course named Computers in Our World.
+And I'm just wondering if you could tell us a little bit about the work at Princeton.
+Sure.
+So I've been at Princeton a little over 20 years now.
+And for a lot of that time, I have been teaching every fall a course that, as you say, is called
+Computers in Our World.
+It's basically a course about computing and communications for people who are very, very
+non-technical, a typical person in the class, a history major, maybe an English major, maybe
+a music major, something like that.
+And so what I'm trying to do is to tell them about technology that is already having a
+tremendous effect on their lives and is likely to continue to do so in the future.
+So the hope is that by the end of the course, they will understand a lot more about the
+things that go on in the world around them that are technical, because so much of that is
+based on computing.
+Going back in time, and I know you're going to tell me in a few minutes, but how did programming
+come into your life?
+I realize the programming back then was very different than today, but I was just wondering,
+how did programming come into your life?
+Well, you know, back in those days, there were dinosaurs still walking the earth.
+And so it was a very different kind of computing environment.
+I actually didn't encounter my first computer until I think I was probably at the end of my
+third year in university, somewhere in around that.
+And I saw a bit of computing at the university and I had a summer job that had there was a
+computer nearby, although I didn't actually use it.
+And so I think it wasn't until my last year as an undergraduate at the University of Toronto
+that I actually used a computer for anything.
+And even that was fairly superficial.
+But then I had internships and I did graduate work at Princeton.
+And so I did more computing at that point.
+So it slowly crept into my life, but not very early compared to most people these days.
+Going a little bit back further in time, can you tell us a little bit about your high school
+experience and what led you to your bachelor degree in engineering physics at the University
+of Toronto?
+Sure.
+So I grew up in southern Ontario, basically in Toronto.
+And then we moved when I was about 15 to a very small town outside of Toronto, maybe 50,
+60 kilometres west of Toronto.
+And so it was a very, very small high school, very, very small class.
+And so there wasn't much there that had anything to do with other than just the basics of
+education.
+But my father was a chemical engineer.
+He ran a very small chemical company and he had been a chemical engineering major at the
+University of Toronto.
+And so it seemed like sort of the natural thing for me to do to go to University of Toronto.
+But I didn't have any real interest in chemistry.
+I was probably more interested in electronics.
+And so I wasn't sure what to do.
+And I had a high school math teacher who suggested that I take the course that you
+mentioned called engineering physics.
+And what that was, was basically a lot of engineering, but also a lot of math, physics
+and chemistry for kids who were interested in engineering, or at least thought they were,
+but didn't know what kind.
+And so it was a fairly very challenging course.
+It was the kind of thing that in other schools might have been called a weed out course,
+that is to weed out the people who for whom it wasn't the right choice.
+And it was four years of very hard work, but I did get a pretty solid background in a lot
+of different things, both the call it the more theoretical and lots of math courses
+that were useful in physics and chemistry, but also some practical engineering sorts
+of things.
+Because there was, for example, a component about civil engineering.
+And so we learned about concrete and reinforced beams and so on.
+So it was a very tough course, but it was kind of satisfying in a way.
+I don't think I've ever worked that hard in my life since just to get through that.
+I was hoping you could tell us a little bit about your PhD as well.
+I think you did a PhD in electrical engineering from Princeton in 1969, correct?
+Yes, that's right.
+So after I graduated from Toronto in 1964 in this course called engineering physics,
+which is now called engineering science.
+They changed the name just after I graduated.
+And I went to Princeton.
+I had applied to a number of universities, mostly in the United States.
+It wasn't all that common for Canadians to go to the United States for graduate school.
+It was much more typical for people to simply go straight to work or if they were going to
+go to grad school to stay in Canada.
+But I went to Princeton in part because I had a good friend who had been a year ahead of me
+at Toronto and had then gone to Princeton as well.
+This is Al Ajo who shared that Turing Award last year.
+So very, very distinguished guy.
+But I went to Princeton and there was no computer science department at point.
+It was, there was a small collection of very young faculty in the electrical engineering
+department who were interested in computing.
+Computing at that point was a very, very young field.
+Much too early to have separate departments and not really quite clear what the topics
+of a computer science degree ought to be.
+But it was a good group of people.
+Princeton was a great place to be.
+And so I spent four and a half years at Princeton getting my PhD and graduated very early in 1969.
+How did you get to Bell Labs?
+I think you're an intern at Bell Labs at some point in time, correct?
+Yeah.
+What happened there is at the end, I think of my second full year at Princeton,
+I got an internship at MIT and I was working in the group that had developed CTSS,
+the Compatible Time Sharing System, which is a very, very nice computing environment.
+And one of the probably the first like it.
+That group had just embarked on the Multics project, which was an attempt to do all of
+the things in CTSS, but do them better, bigger, faster, more complicated, more of everything.
+I got that internship at MIT, I think through good luck, but also because a Princeton grad
+student had been there the summer before, had done a good job and they probably thought
+Princeton people would work out okay.
+So I spent a summer there in what was called Project MAC and working on tools for this new
+Multics operating system.
+And as part of that, I sort of knew of work at Bell Labs, which was going on because Multics
+was a joint project between MIT and General Electric, which made hardware computers at
+that time, and Bell Labs, which was a real software operation.
+And I think that gave me some contact.
+And in the following summer, it would be the summer of 1967, I got again through probably
+just good fortune annoying people an internship at Bell Labs in the research department in
+Murray Hill, New Jersey, sort of 40 kilometers west, southwest of New York.
+So I spent that summer there.
+I worked with Doug McElroy and I had such a good time that when they offered me a chance
+to come back the next summer, that is the summer in 1968, I came back again.
+And at that point, I actually had to get serious about a thesis.
+So I worked with Shen Lin on a combinatorial optimization problem that my thesis advisor
+had suggested and Shen and I came up with heuristic techniques for solving.
+The problem was called graph partitioning.
+Take a graph that is kind of graph that has nodes and edges, and you try and divide the
+nodes into two equal sized piles such that the number of edges that goes from one side
+to the other side is as small as possible.
+It's called graph partitioning because you're partitioning the graph into two equal size
+pieces.
+And we never did figure out an efficient way to solve this problem.
+But Shen and I came up with a heuristic that did a decent job on it.
+And I came up with a couple of special cases where you could actually do an efficient
+computation.
+And that turned into a thesis.
+It turned out that, of course, at about the same time, other people were doing theoretical
+work on why is it that some problems seem to be so hard?
+And this was the work of, in particular, Stephen Cook on the idea of NP completeness of problems
+that were easy to prove that you had the right answer but not easy to solve.
+And it turns out the graph partitioning is a fine example of an NP complete problem.
+And so that's the reason that we never came up with a technique that was guaranteed to
+be efficient.
+So long story short, I did actually finish my thesis and went to Bell Labs as a permanent
+employee right at the beginning of 1969.
+Brian, I was hoping you could give a brief overview to our audience of how computers
+and computing in general looked like back then.
+And you also mentioned mucics.
+And I was wondering if you could speak a little bit more about mucics and explain the
+importance of mucics in the evolution of operating systems.
+Yes.
+Again, back to the dinosaur comment.
+When I started computing, there were only a very small number of computers in existence, period.
+They tended to be very large computers physically.
+At the University of Toronto, there was one big computer called an IBM 7094, I guess.
+And it served the entire university community.
+It may have been the only big computer in the whole country.
+And so that meant that you had to use it by writing a program on punch cards, which were
+basically pieces of paper with holes in them representing information.
+And so you would take a few hundred or a few thousand of these cards, which had a program
+and its data, and you would hand it to an operator who would hand it to the computer.
+And sometime later, you might get your results on printed pieces of paper.
+And if you made a mistake, you had to repeat the whole process.
+And so it was very slow.
+You might be lucky to get a run of your program every hour or two.
+It might even take a day before you got results.
+And so that part of the world was very different compared to what we see today, where you
+interactively type a program into a computer and say, compile it, and then you can do the
+and a few seconds later it's done.
+The thing that I mentioned, CTSS, the Compatible Time Sharing System, and what that was, it
+used basically the same computer actually in IBM 7094.
+But what it did was to share the computing resources of that computer with a number of
+users, perhaps 20 or 30.
+And it simply switched its attention very quickly from one user to the next to the next.
+And of course, most users weren't doing anything.
+They were sitting there thinking.
+And so it gave each user the illusion that they had the whole computer to themselves
+by doing this time sharing idea.
+And it was incredibly more productive and incredibly nicer than punch cards.
+Programs were stored on a disk on the computer and results were printed on your own terminal.
+That is a device like an electric typewriter that printed on paper.
+And so in that sense, the world was very different.
+So CTSS was a very productive, very nice environment.
+It's hard to describe just how nice it was for the time.
+And so what Multics was, and that's M-U-L-T-I-C-S, what Multics was, was an attempt to take the good
+ideas in CTSS and scale them up.
+It was meant to be an information utility.
+That is something where people could just use computing from wherever they were.
+There would be a central computer that would provide service.
+Both of these things sound, of course, very much like cloud computing today.
+And I suppose arguably that's what they were.
+So Multics was a joint project between, as I mentioned, MIT, General Electric, and Labs.
+It was physically mostly at MIT because they had done CTSS.
+They had that expertise and that computer system very easily available.
+But other people from Bell Labs could use it remotely, basically by telephone lines,
+very early version of internet-like connections today.
+And so that environment was actually very, very productive and a lot of fun.
+And I think that's actually the place where I first got seriously into computing because
+I discovered it was great fun when you didn't have so many of these obstacles like punch cards
+and having to wait for jobs to go through operators and things like that.
+And some time ago, you mentioned that if you're ever stranded on an island
+with only one programming language, you would have to be C. Can you tell us why?
+I think, well, partly it's familiarity.
+I grew up with C because it was created by Dennis Ritchie, who is a colleague at Bell Labs.
+But I think in some sense, C is a fundamental tool.
+It doesn't rely on very much of anything else.
+It doesn't need a big runtime support from an environment.
+In fact, it doesn't need any at all.
+And it's a very simple, straightforward language.
+You could imagine building a compiler for it fairly easily for almost any target architecture
+that would be good enough.
+And so in a sense, you could build anything else with C.
+In fact, if you look at the implementation of an awful lot of the tools that we use today,
+they're in some sense a shell around a bunch of libraries that are written in C
+because C is both expressive but also very, very efficient.
+And the efficiency mattered a tremendous amount.
+C was developed in roughly 1972, let's say, so about 50 years ago.
+And at that point, computers were very, very much less powerful than they are today.
+They didn't run very fast and they had very little memory.
+And so you had to make really effective use of all of the resources.
+And so C made it possible to do that.
+You could get very close to the computer.
+You could actually control what was going on in a way that is hard today with languages
+which are so much higher level and have so many layers of libraries between
+what you write as a programmer and what actually gets executed by the hardware.
+Yes, if I had only one language on a desert island, I would choose C
+because with that principle, at least I could build anything else.
+You still remember the first time they saw programming C and you tried yourself?
+The evolution is a little different, I think, in the very early days.
+Unless, again, this is the very early days of UNIX, call it 1970, 71, something like that.
+Kent, first, people in the Multex project had been experimenting with writing all of
+the software for the system in a high level language.
+They started out with a version of PL1, which was a very big, terrifyingly complicated language
+that IBM had developed.
+That didn't work very well.
+So they switched to a language called BCPL, which was done by Martin Richards
+at the University of Cambridge.
+That was a lot better.
+It was a much simpler, more straightforward language.
+Ken Thompson, who had been involved in all of this, at some point created an even simpler
+version of BCPL, which he called B.
+That language was superficially, it sort of looks like what C does today.
+I programmed a bit in B, not a lot, but enough that I knew what was going on.
+I wrote a tutorial document for B, sort of how to get started for the benefit of other
+people who hadn't yet learned it.
+Then Dennis Ritchie took B and basically added type information so that instead of the single
+data type that B provided, which is basically 16 bit integers, he converted it to a language
+which had data types like integers, perhaps of a couple of sizes, characters or one byte
+quantities, and eventually even floating point numbers.
+And he called that language C as a follow on to B.
+The difference between B and C was basically that idea now there were data types in the
+language.
+The language supported different kinds of data and did what was necessary to manipulate them
+as their own type.
+I took the B tutorial, which I had written, and upgraded it to a C tutorial.
+Again, so that partly to help myself learn the language, but also to help other people
+who hadn't encountered it yet and to get them off the ground.
+That transition is probably when I first started writing C, but I obviously don't remember at
+this point what my first C programs were or anything like that.
+I just have no memory of it.
+You mentioned Dennis Ritchie.
+Can you tell us a little bit about your work with Dennis Ritchie and what led you guys
+writing the C language book together?
+Yeah, so Dennis was a colleague in the same group as I was.
+He and I were about the same age.
+He had arrived at Bell Labs probably, roughly, while I was an intern there, he might have
+started his permanent job there, roughly that period of 1968 or 1969.
+We were in the same group, and so I knew him through that.
+I had, as I say, been writing these tutorials first for B and then the one for C.
+And C was becoming somewhat more popular.
+Certainly people who used it on Unix, which was at that time really the only place where
+you could use it, liked it.
+And so at some point I suggested to Dennis that we should write a book about C.
+I don't think he was originally very interested in it, but I twisted his arm and he said,
+okay, we'll do it.
+The reason I twisted his arm, well, a couple of reasons, I guess.
+But one is that he had written a reference manual for C.
+That is a very careful, precise description of the C programming language.
+And I wanted that reference manual as a part of a book.
+And the other thing is that he was just a great writer.
+And he really had the ability to write clearly and concisely and accurately and with a certain
+amount of flair and even dry humor.
+So he was absolutely a wonderful person to co-write a book with.
+So he eventually agreed and we wrote a C book.
+I wrote most of the first draft of most of the chapters.
+And the reference manual, I think we basically didn't change anything because it was so good.
+And then we made multiple passes over it to smooth out the, so it was a kind of a merger
+of our styles.
+And that was the C book.
+And of course, as a life-changing thing, that is by far the most important one that I ever
+did technically.
+The reason you and I are talking together is precisely because I worked with Dennis
+on that C book.
+You're also the one who came up with the Unix term, right?
+So, and I was wondering if you could tell us a little bit about how did you come up
+with that term and how was your work with Ken Thompson and others at that time?
+Yeah, so the name Unix, my memory of this, and this is one of these things that is sort
+of lost in the midst of time.
+My memory is that the new system, this system, which today we know as Unix, had been written
+primarily by Ken Thompson at that point with some help from Dennis.
+I'm not sure exact timing.
+And people were standing around basically outside the offices.
+We were all on a long corridor and wondering about a name for this system.
+And I suggested that since they had all been working on this thing called Multics, which
+was many of everything, back to the Latin roots of multi, many of everything.
+And this new system that Ken had created was at most one of anything.
+And so again, if you think of the Latin roots, no.
+And so I suggested we call Unix as in U-N-I-C-S.
+And somebody, and I have no idea who, made the great improvement of changing it to U-N-I-X,
+and that name stuck.
+Is that the right story?
+That's what I remember, but I've told this enough times now that it should be treated
+with suspicion.
+There are certainly other people there who might also have contributed, in particular
+Peter Neumann, who was part of the original Unix group and was well known as a guy who
+just loved to create puns.
+And so Peter might well have done something like that as well.
+And I simply don't know at this point.
+I worked with Ken.
+I had nothing to do with the Unix operating system or the C programming language itself.
+I contributed documentation, obviously, like the book with Dennis and a fair number of
+useful tools that go with Unix.
+But I had nothing to do with the system themselves.
+I think the only time that ever really worked with Ken himself is that at some point,
+probably in the late 70s, I was very interested in document preparation systems.
+We had gotten a typesetter that is a device for printing high quality stuff on paper.
+Think of it as a early precursor of laser printers today.
+And it came with terrible software.
+And so Ken created useful software for that.
+And I built on top of the software to make it a useful device for our basically internal
+printing.
+And so I worked with Ken on that.
+But that's other than that as a friend, but no actual technical work with him beyond that.
+It must have been an incredible, absolutely incredible time.
+Brian, I was hoping you could tell us a little bit about the development of Auck and also
+Ample.
+Sure.
+So Auck was, still is, a language that was meant to make it really easy to do simple
+text and merit processing, the kind of thing where you want to stream a bunch of data past
+a process that does something to it, like identify interesting things or accumulate
+data or transform it along the way.
+Sort of a stream processing kind of programming language.
+It was created in 1977 by Al Ajo and Peter Weinberger and I.
+And that explains the rather odd name.
+And we created it fairly quickly because we had really, really good tools available to
+us.
+It was written in C, of course.
+The grammar was specified in the Ack, which is the compiler-compiler parser generator
+that Steve Johnson had created.
+The lexical analysis was done by Lex, which was an analogous program that Mike Lesk had
+created for basically tokenizing inputs very efficiently.
+And so we put all that stuff together.
+Peter did the first implementation, I think, literally over a weekend.
+And it's been used ever since.
+I mean, right now, if I were not talking to you, I would be working on the second edition
+of the Auck book, which we wrote a long time ago, and trying to improve the code.
+So it's still very, very widely used, kind of a core Unix tool at this point.
+It's the precursor in a way of languages like Perl and then less so, but in that same spirit,
+scripting languages like Python and JavaScript and so on.
+The idea that instead of compiling the language, you would interpret it.
+Therefore, you could get off the ground more quickly and also they were much more portable
+because you didn't have to generate code for each individual computer architecture.
+So that's Auck.
+Still very much alive and well.
+The other one you mentioned is Ample.
+And Ample is a language for specifying mathematical optimization problems.
+Things like linear programming is the most obvious example where you have a system
+of equations that represent constraints on how much of things you need or have to have
+or something like that, and an objective function that you want to optimize.
+So you use it for things like scheduling crews on airlines or figuring out how to feed
+large numbers of people, give them enough calories, all kinds of things like that.
+Scheduling classrooms, packing things into boxes, all sorts of things are basically
+optimization problems.
+All of them can be specified in a language that sort of looks like mathematics,
+as you might write it on the board, but is more precise and processable by a computer.
+Ample is that language.
+And an Ample specification of a problem is converted into instructions for a solver,
+which knows how to solve things like, let's say, linear programming problems.
+The solver does its thing, finds a solution, sends that back to Ample,
+and Ample displays the results in the terms of the person who had the original problem.
+And so Ample was not the first such language, but I think has proven over the years to be by far the
+most successful of these, but it's a much more narrow area, more specialized than something like
+AUC, but it's still very much around.
+There is a small company that I created with the two people who actually did more of the work on
+Ample at the time, Bob Forer, who was a professor at Northwestern University, and Dave Gay,
+who was one of my colleagues at Bell Labs.
+So we created this in the mid 1980s, and I wrote the original version, and Dave Gay took it over
+somewhat after that and has maintained it since.
+And we created a small company in about 2000 to keep Ample going, and that company is still alive
+and well, thriving at this point, although I don't have very much direct contact, or I'm not
+doing anything directly with the company per se at this point.
+But again, a specialized language is both AUC and Ample are, I guess, examples of what I might call
+little languages, languages that focus on a particular domain.
+Because of that, they get smaller and simpler than general purpose languages like C or C++,
+things like that.
+They're also called domain specific languages, I guess, if you're looking for more familiar terminology.
+And talking about other languages, you wrote a book about the goal programming language,
+I think, with Alan Donovan.
+And do you think that you could take a go to an island as well?
+I probably wouldn't for a couple of reasons.
+One, the book that I wrote with Alan Donovan mostly is his work.
+He's just an amazing programmer.
+And he knows Go inside out like very few other people.
+And so, 90% of the work on the book was really Alan's.
+And I was not nearly as involved in that sense.
+Go is a nice language, and it does some things very nicely indeed.
+It's very good for network servers, crawlers, things like that where you want to synchronize
+multiple processes very efficiently, very, very large numbers of things going on simultaneously.
+And it looks very much like C as well, sometimes been described as C for the 21st century.
+I think the reason you might not want to start with it on a desert island is that it actually
+needs some kind of runtime to manage the concurrency and garbage collection and other things like that
+that go into running Go efficiently.
+So, I would say it's perhaps not the right choice for the core stuff, but it would be
+perfectly fine as the next thing to try and do because it's very good at those kinds of
+concurrent operations that you might want.
+It's also very much more a type safe language.
+C gives you lots of ways to make mistakes.
+I think it's much harder to make mistakes in many of the newer languages which are more strongly typed.
+You mentioned a few times during the interview, you have been around for a little while,
+and you have seen a lot in computer science and evolution computer science, and since the PDP
+seven times.
+I'm just wondering, what do you think would be the next computer science related impact
+on people's lives, something that you foresee happening in the near future?
+Well, I hate to say it, but my ability to predict the future is pretty awful,
+roughly speaking.
+I mean, if I had been able to predict the future, and for example, use that to invest wisely,
+I would be able to buy a small country.
+And unfortunately, it hasn't worked out that way at all.
+So, you should take anything I say about the future with a real grain of salt.
+I think that what we're going to see is that computing will continue to be just an absolutely
+central part of everything that we do.
+We've seen that in the last, call it 10 or 20 years, where more and more things are
+fundamentally devices that interact with the outside world, but are based on a computer
+inside, something that's running an operating system like Linux and communicates with other
+computers by the internet.
+So, the whole internet of things idea, and I think that's going to continue.
+That's one area.
+Another area that is clearly evolving very, very rapidly is all the things related to
+artificial intelligence and machine learning.
+I mean, the story of the week at this point is chat GPT, which is something that carries on
+pretty sensible conversations or expansions of text, and absolutely pretty much flawless text,
+flawless English versions I've seen, that sound pretty sensible on an enormous variety of topics.
+And it will give you an essay for application to college or write a letter to a friend or
+generate a small program that is syntactically correct and stylistically good, all kinds of
+things like that.
+And that's very, very early days.
+I don't know how that will evolve.
+One thing that you see with that specific program is that it generates utterly nonsensical
+material that looks superficially perfect.
+And so, you have to be very careful that what you get from one of these things is actually
+correct.
+So, I don't know where, but I'm going to guess that in the next, call it five or 10 years,
+we're going to see a great deal more activity and probably progress in that ability of computers
+to do things like generate text, generate pictures, simulating the kinds of things that people do
+so that their behavior is more natural.
+And there will be good parts of that and bad parts of it.
+And the bad parts are going to be fundamentally, how do you detect things that are actually
+not right or are actively harmful in some way or another, kind of deep fakes extended
+in many directions and very effectively.
+And looking back through your incredible career, is there anything special that you think
+you have done in a different way besides perhaps forecasting the financial investments?
+Yes, right.
+Yes, that's definitely one of the regrets of my life.
+Oh, well, no, I've been astonishingly lucky in a lot of ways because as you go through
+life, you come to random events that send you in one direction or another, and there's
+no way to predict which direction, even if you realize it's a choice, there's perhaps
+no way to predict what the right direction will be.
+And so you just kind of do it.
+It's like rolling downhill and you run into a boulder and you go to the left of the boulder,
+the right of the boulder, and you just keep doing that.
+And so things that I have been very lucky on, for example, going to that particular program,
+engineering physics program at the University of Toronto, where I was forced to actually
+learn a bunch of things.
+Going to Princeton for graduate school instead of staying in Canada, that might have changed
+my life.
+In hindsight, it's worked out extremely well, but I don't know what would have happened
+if I'd stayed there or gone to a different school in the United States, which results
+in an option.
+And certainly that summer at MIT changed my life in a lot of ways and then the subsequent
+time at Bell Labs, but very hard to see how any of those would have been different, very
+hard to predict what the difference would be if I hadn't done that.
+So for example, if I had had different internship instead of the one at MIT, I suspect life
+would be very different.
+Would it have been worse?
+Maybe.
+Would have been better.
+Maybe.
+Who could tell?
+I've tended not to second guess any of the decisions that I have made along the way.
+One hopes to continue to be lucky in some way or another.
+When you need to do some programming, do you still do C programming when you need to do
+something or do you choose another language or what do you do these days when you need
+to do a little bit of programming?
+Most of the programming that I do is quite small at this point.
+It's sometimes writing code that will illustrate something for a class or in this case, a book.
+And so it tends for things where I just want to get something done and it usually is very
+small.
+I tend to write a lot of awk, which is self-serving in a way, but at least it's the language
+that at this point I know the best.
+I don't have to think about it in the slightest, but it doesn't scale to bigger programs.
+So if I write a 10 line awk program, that's probably getting too big.
+So after that, I would probably write Python and I certainly use that for teaching.
+And I think that's in many cases for me and certainly I think for a lot of people, the
+best choice, you get a lot of bang for the buck and Python has an enormous collection
+of useful libraries.
+So there's a lot of code you don't have to write, you just use it.
+But for certain other kinds of things, I do write C.
+As I mentioned, I have been working on the version of awk that Peter and Al and I wrote
+so long ago, upgrading it, for example, to a letter process Unicode, which it didn't
+really do until I started working on that six months or so.
+So that it can handle languages of the world better than it did originally.
+And that's all C code.
+I hate to say it, it's not very clean C code.
+I wish I had understood good programming and abstraction and so on much better at the time
+when we were writing it, but that it's actually kind of fun to do that.
+So those are the kind of languages that I mostly use these days.
+If I were marooned on a desert island with something else, I would print it fairly quickly
+and that would be perfectly fine too.
+Brian, like I mentioned to our programming group, the Os Programadores, we have over
+4,000 people who are trying to learn programming, trying to get into technology.
+And they come up with lots of questions, right?
+So there's when you're young in your full life, there's always a question if that's
+the right choice or the right decision.
+I'm just wondering what kind of recommendations would you have for those that just start in
+the learning path?
+I think probably the recommendation is to try as many things as you reasonably can.
+See what happens.
+For example, if you want a career in technology, see how far you can get with resources that
+are available.
+There's an awful lot of the web that you can use to teach yourself things and groups that
+will help you along your podcasts are obviously an example of that.
+And so try things and see what kind of feels like you want to go further and what feels
+like that's not for me.
+And that gives you a better idea of what directions you might go.
+But it's a fine example of one of these random things where you don't actually know which
+is the right alternative and the best you can do is try some of it and see what happens.
+Just wondering, do you have any books, music, movies or any recommendations, no matter what
+topic you'd like to share with the audience?
+I know you have a long list of books that I'm going to include in the podcast notes,
+but I'm just wondering if you have any specific recommendations, again, books, music, movies,
+or anything that you'd like to share?
+There's a collection of things that I think people might find interesting.
+You may have noticed that Fred Brooks died within the last couple of weeks.
+Fred Brooks was the architect of the IBM 360, which is a computer system that set IBM on
+a path for many, many years.
+He was a very distinguished professor at the University of North Carolina.
+And he wrote a great book about his experience as the chief architect at IBM.
+It's called The Mythical Man Month.
+And it was originally written, I guess, probably in the, I'll make up a number, the 80s.
+I used to have to look it up.
+And then I, a new edition some years later, and it's a really, really good discussion of
+some of the things involved in doing software from the perspective of somebody who is managing
+a big software project.
+And it's really gracefully written in a lot of ways.
+And so that's one of a fairly small number of computer books that I go back and reread
+from time to time for whatever insights it might have.
+The world is different now than it was when Fred was working at IBM and then writing the book.
+But there's certainly good things in it.
+Another one that I, because it's sitting right close to me, I can see it, is a wonderful book
+called How to Lie with Statistics.
+And again, it's a book, it was written, I think, in 1953.
+So it's quite an old book.
+But it's basically about how to detect places where somebody is giving you the wrong impression.
+With the numbers that they're presenting to you.
+It shows some examples of graphical trickery.
+It shows you examples of bad computation.
+And all of the text, in some sense, the numbers are a little dated because they're from the 1950s.
+But the ideas in it are timeless.
+And with computers, we can do a much more effective job of lying today than we used to be able to,
+because we can draw even fancier graphics.
+And so I think it's a very useful small book that's kind of fun to read.
+There is for people who are in English speaking countries, a wonderful collection material on how
+to write English well, called The Elements of Style, which is written by Strunk and White.
+Again, it's a book that at this point was close to 100 years old, but updated somewhat.
+And so I found that a book that is useful for helping me to write better English.
+And so for your friends and colleagues who are writing Portuguese, I'm sure there are similar
+books, books that tell you how to make effective use of your language to better communicate with
+the people who are going to read.
+And so I think it's one of those things where knowing how to write well is very effective.
+And knowing how to write well for people who are not as technically capable as you and I might be,
+right for audiences who are, their expertise is somewhere different.
+So how do you write a book for somebody who's, for example, a history major as opposed to a
+programmer, that kind of thing?
+And I think that's useful.
+I'm sure that you could definitely find examples of that sort of thing.
+Think about what makes good writing what doesn't.
+And of course, along with that, a useful personal skill is how to speak well.
+Can you talk about what you do to an audience of people who are not in that field and make
+them think that's interesting?
+I learned something.
+And so being able to speak well about what you do is also a very useful kind of thing to do.
+And I don't have books on how to do that, but that's a useful way to think about what to do,
+how to make effective use of what you've got.
+Those are fantastic recommendations.
+So thank you.
+Thank you for that.
+And Brian, I realize I could spend 10 years with you and we still have lots of topics to discuss,
+but I know you have limited time and you so graciously volunteer that time here.
+I'm wondering if there are any questions that you believe I should have asked today and I
+have not asked it yet.
+No, I think you've covered pretty much everything in a very orderly, organized kind of way,
+which is very nice and helpful from my perspective.
+So I really appreciate the chance to talk with you.
+Hope that some of this will be interesting for the folks who listen to the podcast eventually.
+Oh, it's I can guarantee it's incredibly interesting.
+It's absolutely fantastic.
+Is there anything else in particular that you'd like to mention and share with the
+audience before we close?
+No, I think that's probably the whole story.
+Again, Brian, I just want to take a moment again to thank you for so graciously donating
+your time and I should let people know that we had we attempted this recording a couple
+weeks ago and we had a problem with the tool that we're using and you agreed to record again.
+So thank you so much for your time.
+It's been an incredible privilege speaking with you today.
+No, my pleasure.
+Thank you very much, myself.
+Cheers.

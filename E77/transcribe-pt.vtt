@@ -1,0 +1,1778 @@
+WEBVTT
+
+00:00.000 --> 00:04.320
+Olá, gente!
+
+00:04.320 --> 00:06.760
+Eu hoje estou aqui com a Loian Groner.
+
+00:06.760 --> 00:09.600
+Loian, prazer enorme ter você aqui comigo.
+
+00:09.600 --> 00:13.760
+Olá, pessoal. Eu agradeço o convite. O prazer é todo meu.
+
+00:13.760 --> 00:19.160
+Loian, eu sempre pergunto para os meus convidados aqui como foi o comecinho da coisa para eles.
+
+00:19.160 --> 00:24.040
+Como você se interessou por computação e tecnologia? Como isso apareceu na sua vida?
+
+00:24.040 --> 00:28.520
+Foi durante a faculdade ou um pouquinho antes da faculdade.
+
+00:28.520 --> 00:32.920
+Durante o ensino médio eu queria fazer direito. Então, nada a ver com tecnologia, né?
+
+00:32.920 --> 00:38.760
+Só que vestibular, né? Você tem muitas coisas que você tem que decorar, principalmente para o vestibular.
+
+00:38.760 --> 00:42.720
+Na área de humanas tem muita coisa que você precisa memorizar.
+
+00:42.720 --> 00:48.000
+E eu não era muito fã de decorar várias datas com muitos detalhes.
+
+00:48.000 --> 00:53.240
+Eu gosto bastante de história e da parte de geografia, pela história em si.
+
+00:53.280 --> 00:58.120
+Mas não necessariamente saber, por exemplo, que Pedro Álvares Cabral chegou no Brasil na data tal,
+
+00:58.120 --> 01:03.760
+vestindo tal, era casado com fulana, tinha tantos filhos, os filhos estavam vestindo tal roupa, sabe?
+
+01:03.760 --> 01:06.720
+Esse nível de detalhe eu não era muito fã.
+
+01:06.720 --> 01:11.640
+E eu sempre gostei muito também da área de matemática e física também.
+
+01:11.640 --> 01:17.640
+E faltando seis meses para o vestibular eu decidi trocar por algum curso de exatas.
+
+01:17.640 --> 01:22.600
+E a questão foi qual curso escolher. Porque eu já estava bem em cima da hora.
+
+01:22.640 --> 01:26.040
+E naquela época a gente não tinha acesso a informação como a gente tem hoje, né?
+
+01:26.040 --> 01:32.960
+A gente não tinha YouTube, né? A informação que a gente tinha era você pegar as faculdades,
+
+01:32.960 --> 01:37.840
+ver a lista de cursos que você podia prestar para vestibular e escolher, né?
+
+01:37.840 --> 01:43.000
+Você sabia o que era de exatas, se era da área de biomédicas, se era da área de humanas.
+
+01:43.000 --> 01:49.880
+E a gente só tinha informação sobre as carreiras que na época eram as mais tradicionais, digamos assim, né?
+
+01:49.880 --> 01:58.040
+A parte de medicina, farmácia, direito, história e da parte de exatas eram mais as engenharias,
+
+01:58.040 --> 02:03.240
+engenharia mecânica, engenharia civil, que se falava mais na escola.
+
+02:03.240 --> 02:09.080
+E não tinha muita informação sobre engenharia da computação ou ciência da computação.
+
+02:09.080 --> 02:14.840
+E eu vi essas duas faculdades de computação e falei eu vou escolher uma dessas aí.
+
+02:14.840 --> 02:18.880
+A escolha foi justamente por gostar de ficar no computador.
+
+02:18.880 --> 02:22.720
+Eu vou fazer uma faculdade de ciência da computação porque eu gosto de ficar no computador,
+
+02:22.720 --> 02:24.960
+então eu vou estudar o computador.
+
+02:24.960 --> 02:29.600
+E o engraçado é que eu pensei na época que eu ia aprender a consertar computador.
+
+02:29.600 --> 02:35.520
+Não aprendi até hoje, mas passei aí pela faculdade de ciência da computação.
+
+02:35.520 --> 02:38.920
+E foi assim que eu consegui aí meu primeiro contato com a área.
+
+02:38.920 --> 02:44.840
+Completamente inesperado, não sabia o que esperar da faculdade, o que que eu ia aprender na faculdade.
+
+02:44.840 --> 02:48.800
+Não sabia o que que era algoritmos, nunca tinha ouvido falar.
+
+02:48.800 --> 02:53.880
+Então assim, eu nunca tinha parado para pensar como é que de fato um computador funciona
+
+02:53.880 --> 02:55.920
+e como que aqueles programas eram feitos.
+
+02:55.920 --> 02:59.360
+Na minha cabeça era uma coisa meio que mágica, né?
+
+02:59.360 --> 03:03.160
+Que alguém faz e do nada aparece esses programas assim.
+
+03:03.160 --> 03:05.640
+Ou que já existia assim de alguma forma.
+
+03:05.640 --> 03:10.280
+Mas enfim, foi assim que foi o meu primeiro contato aí com a parte de computação,
+
+03:10.280 --> 03:13.360
+desse mundo aí de algoritmos e desenvolvimento.
+
+03:13.360 --> 03:18.480
+Qual foi a faculdade e como é que foi a experiência da faculdade para você?
+
+03:18.520 --> 03:23.240
+Olha, eu gostei muito, muito mesmo dos meus anos de faculdade.
+
+03:23.240 --> 03:27.960
+Eu acho que eu tive muita sorte de ter professores excelentes
+
+03:27.960 --> 03:31.320
+que realmente estavam preocupados com o ensino da matéria.
+
+03:31.320 --> 03:36.720
+São professores que têm experiência de mercado realmente, tinham trabalhado na área,
+
+03:36.720 --> 03:39.400
+sabiam o que o mercado esperava.
+
+03:39.400 --> 03:45.640
+Muitos deles tinham empresas também que alunos acabavam trabalhando nessas empresas.
+
+03:45.680 --> 03:50.080
+E foi assim, para mim, pessoalmente foi uma experiência excelente.
+
+03:50.080 --> 03:53.760
+Só que como todo mundo eu tive algumas dificuldades,
+
+03:53.760 --> 03:56.720
+principalmente no início, como eu falei, eu não sabia o que esperar,
+
+03:56.720 --> 03:59.760
+não sabia o que era desenvolvimento, o que era programação.
+
+03:59.760 --> 04:04.480
+Então quando chegou a primeira aula sobre algoritmos, para mim aquilo foi um choque.
+
+04:04.480 --> 04:09.720
+E já tinham pessoas na minha sala que tinham vindo de um segundo grau mais técnico
+
+04:09.720 --> 04:13.360
+e já sabiam o que era programação, já sabiam declarar variáveis,
+
+04:13.400 --> 04:15.720
+fazer um I, Fiel, C, um loop.
+
+04:15.720 --> 04:18.080
+E para mim aquilo tudo foi muito novo.
+
+04:18.080 --> 04:23.160
+Então eu tive bastante dificuldade no início, mas aí decidi estudar bastante,
+
+04:23.160 --> 04:26.160
+passava depois da faculdade, ia para casa.
+
+04:26.160 --> 04:29.200
+Nos primeiros semestres eu ainda não trabalhava,
+
+04:29.200 --> 04:33.480
+então eu tinha tempo ainda de estudar nos dois primeiros semestres
+
+04:33.480 --> 04:38.480
+e eu decidi entrar de cabeça mesmo e estudar bastante algoritmos,
+
+04:38.480 --> 04:42.000
+fazer muitos exercícios, praticar, mas praticar bastante mesmo
+
+04:42.000 --> 04:45.200
+até que aqueles conceitos entrassem na minha cabeça.
+
+04:45.200 --> 04:50.400
+E no final do primeiro semestre foi quando as coisas começaram a fazer mais sentido para mim
+
+04:50.400 --> 04:54.000
+e aí eu comecei a aprender de forma mais naturalmente,
+
+04:54.000 --> 04:57.400
+incrementar o conhecimento de forma mais naturalmente,
+
+04:57.400 --> 05:01.120
+porque eu tinha feito muitos exercícios, praticado bastante,
+
+05:01.120 --> 05:02.600
+e aí começou a fazer sentido.
+
+05:02.600 --> 05:05.840
+E como é que foi a chegada assim às primeiras linguagens de programação,
+
+05:05.840 --> 05:07.520
+entendo que você aprendeu algoritmo e tal,
+
+05:07.720 --> 05:11.720
+Como foi a primeira linguagem de programação que você teve de posição?
+
+05:11.720 --> 05:15.720
+Foi, não é bem uma linguagem, mas eu aprendi com Portugal.
+
+05:15.720 --> 05:19.120
+Na época era tudo no caderno mesmo, na folha de papel,
+
+05:19.120 --> 05:22.520
+a gente não tinha acesso ao computador ainda no primeiro semestre.
+
+05:22.520 --> 05:28.120
+Então era tudo no caderno, tudo escrito, todos os algoritmos escritos com Portugal.
+
+05:28.120 --> 05:30.920
+Então a gente aprendeu a parte de declarar variáveis,
+
+05:30.920 --> 05:36.520
+a parte de IF, ELSE, as condicionais, LOOPS, WHILE e POUR,
+
+05:36.520 --> 05:40.720
+depois veio a parte de vetores e depois matrizes,
+
+05:40.720 --> 05:43.520
+foi esse o escopo dos primeiros seis meses.
+
+05:43.520 --> 05:46.120
+Depois que a gente aprendeu essa primeira parte,
+
+05:46.120 --> 05:47.920
+a partir do segundo semestre,
+
+05:47.920 --> 05:51.120
+é que a gente teve uma primeira linguagem de programação mesmo,
+
+05:51.120 --> 05:55.920
+que aí foi com o Pascal, e aí o meu primeiro contato foi com o Pascal.
+
+05:55.920 --> 06:00.320
+Você ainda se lembra dos primeiros programinhas que você escreveu usando o Pascal?
+
+06:00.320 --> 06:02.920
+Eu acho que eu tenho até hoje uns arquivos salvo,
+
+06:02.920 --> 06:05.120
+eu salava em disquete na época,
+
+06:05.120 --> 06:07.920
+eu estava começando aí a era do DVD,
+
+06:07.920 --> 06:10.320
+pendrive era uma coisa extremamente cara ainda,
+
+06:10.320 --> 06:12.120
+eu lembro que eu comprei um pendrive,
+
+06:12.120 --> 06:15.320
+porque depois a escola acabou trocando os computadores,
+
+06:15.320 --> 06:19.520
+e aí para poder levar os exercícios, eu levava pelo pendrive.
+
+06:19.520 --> 06:24.920
+E-mail ainda, a parte de armazenamento de e-mail era extremamente limitado na época,
+
+06:24.920 --> 06:29.320
+era que você tinha o bol aí, dois megas de armazenamento,
+
+06:29.320 --> 06:32.520
+que hoje é um e meio com uma foto, se você já tem aí dois megas,
+
+06:32.520 --> 06:34.320
+mas era extremamente limitado,
+
+06:34.320 --> 06:37.920
+por isso a gente usava mais a parte de disquete e pendrive.
+
+06:37.920 --> 06:42.520
+Mas era um programa assim, bem simples, né, de você fazer leitura de teclado,
+
+06:42.520 --> 06:44.520
+fazer algum tipo de cálculo, né,
+
+06:44.520 --> 06:47.920
+que calculasse um triângulo, exósceles,
+
+06:47.920 --> 06:50.720
+esses conceitos matemáticos, né?
+
+06:50.720 --> 06:53.320
+E tinha os conceitos também de vetores, né,
+
+06:53.320 --> 06:55.920
+dado tanto os alunos, calcular a média,
+
+06:55.920 --> 07:01.320
+das notas dos alunos, enfim, esses exercícios mais clássicos mesmo com Pascal,
+
+07:01.320 --> 07:03.520
+tanto em Portugal quanto com Pascal.
+
+07:03.920 --> 07:05.320
+Bacana demais.
+
+07:05.320 --> 07:10.520
+E como é que foi, assim, você disse que não trabalhava ainda nos primeiros períodos da faculdade,
+
+07:10.520 --> 07:15.720
+mas como é que foi a evolução até você chegar ao teu primeiro emprego como programador?
+
+07:15.720 --> 07:20.720
+Acho que foi no segundo, no terceiro semestre da faculdade,
+
+07:20.720 --> 07:26.920
+a faculdade ela tem um programa de monitoria após as aulas, né?
+
+07:26.920 --> 07:31.120
+Esse foi o meu primeiro emprego assim informal aí na área de TI,
+
+07:31.120 --> 07:33.720
+porque a gente ganhava bolsa da faculdade, né,
+
+07:33.720 --> 07:39.320
+então com isso eu conseguia 50% de bolsa de estudos sendo monitora, né?
+
+07:39.320 --> 07:43.920
+Então eu fui monitora da parte de algoritmos, né, algoritmos 1 e 2 também,
+
+07:43.920 --> 07:47.320
+estrutura de dados que acabou sendo aí no terceiro semestre.
+
+07:47.320 --> 07:49.720
+Eu fiquei monitora por alguns anos,
+
+07:49.720 --> 07:51.720
+porém a faculdade que eu estudei,
+
+07:51.720 --> 07:54.120
+e isso é uma das coisas que eu acho legal, né,
+
+07:54.120 --> 07:59.320
+acho que é uma oportunidade muito legal para quem tem a oportunidade de fazer faculdade,
+
+07:59.320 --> 08:02.520
+que é a questão aí com o primeiro emprego, com o primeiro estágio,
+
+08:02.520 --> 08:05.520
+que eu consegui graças à faculdade que eu estudava.
+
+08:05.520 --> 08:10.720
+A faculdade ela até hoje, eles fazem parcerias com as empresas da cidade, da região,
+
+08:10.720 --> 08:13.720
+para poder dar oportunidade aí para os alunos.
+
+08:13.720 --> 08:17.920
+Então foi o meu primeiro estágio, que foi como desenvolvedora Java,
+
+08:17.920 --> 08:23.720
+e eu estava no quarto semestre aí, já indo aí para o final do segundo ano da faculdade,
+
+08:23.720 --> 08:26.920
+que foi que eu consegui o estágio pela coordenação.
+
+08:26.920 --> 08:33.120
+Eu e um amigo meu que estudava comigo, nós dois fomos selecionados para trabalhar nessa empresa.
+
+08:33.120 --> 08:36.720
+Só que na época a faculdade ainda não ensinava Java,
+
+08:36.720 --> 08:41.520
+a gente só ia aprender Java a partir do quarto, quinto semestre, se não me engano,
+
+08:41.520 --> 08:45.720
+não, do quinto semestre, para aprender os conceitos de orientação objetos.
+
+08:45.720 --> 08:48.920
+Só que eu só tinha aprendido a parte de Pascal,
+
+08:48.920 --> 08:53.320
+tinha alguns eventos, eu sou do Espírito Santo, né, eu fiz a faculdade lá em Vitória,
+
+08:53.320 --> 08:56.520
+e estavam começando a ir eventos lá para o estado, né,
+
+08:56.520 --> 09:02.720
+tinha a Escola Regional da SBC, que acontece em alguns estados, né, com algumas faculdades,
+
+09:02.720 --> 09:07.120
+que são eventos um pouco mais acadêmicos, mas sempre tinham convidados, né,
+
+09:07.120 --> 09:11.720
+pessoas que davam workshop de linguagens, coisas mais práticas assim também, né,
+
+09:11.720 --> 09:13.920
+não tanta parte conceitual acadêmica.
+
+09:13.920 --> 09:17.120
+Java na época, indo para a versão 5 do Java,
+
+09:17.120 --> 09:21.320
+era uma linguagem que estava crescendo muito, né, estava ganhando bastante destaque,
+
+09:21.720 --> 09:27.520
+e muitas empresas lá de Vitória e Vila Velha usavam essa linguagem,
+
+09:27.520 --> 09:32.320
+então a faculdade ia começar a trocar toda a parte de Pascal para Java,
+
+09:32.320 --> 09:35.320
+os professores estavam aprendendo Java também,
+
+09:35.320 --> 09:39.720
+e com essa oportunidade de empregos, esses eventos acontecendo,
+
+09:39.720 --> 09:44.720
+uma professora minha, professora Cintia, a gente formou um grupo de estudos, né,
+
+09:44.720 --> 09:48.520
+tendo aí a professora aí, menturando a gente,
+
+09:48.520 --> 09:51.520
+e a gente começou a estudar a parte de Java.
+
+09:51.520 --> 09:54.720
+Pegamos também, isso foi durante as férias da metade do ano,
+
+09:54.720 --> 09:58.120
+que ela passou tipo um projeto para a gente conseguir tentar fazer,
+
+09:58.120 --> 10:00.920
+que foi um jogo da Forca, eu tenho esse jogo na Forca,
+
+10:00.920 --> 10:05.920
+inclusive lá no meu GitHub, que foi o meu primeiro projeto assim mais complexo,
+
+10:05.920 --> 10:09.120
+que eu fiz com Java, com isso a gente aprendeu os conceitos, né,
+
+10:09.120 --> 10:13.120
+orientação objetos, a parte da sintaxe da linguagem, o que que era herança,
+
+10:13.120 --> 10:17.720
+o que que era uma interface, e foi aprendendo aí dessa forma aí,
+
+10:17.720 --> 10:22.720
+meio que ficando após a escola, né, na época eu estudava de manhã ainda,
+
+10:22.720 --> 10:26.720
+então ficava umas duas, três horas após o término da escola,
+
+10:26.720 --> 10:31.720
+para poder ficar estudando e nos finais de semana praticando esses projetos.
+
+10:31.720 --> 10:36.720
+Eu basicamente sabia assim, bem o básico, básico mesmo de Java para começar o estágio, né,
+
+10:36.720 --> 10:40.720
+e eu tive sorte também, porque foi realmente um estágio, né,
+
+10:40.720 --> 10:44.720
+hoje quando você vê vagas de estágio, são vagas que pedem muitas coisas, né,
+
+10:44.720 --> 10:51.720
+basicamente profissionais juniors, mas eu tive muita sorte mesmo de ter sido um estágio
+
+10:51.720 --> 10:55.720
+e ter tido a oportunidade de estudar mesmo, né, de aprender as coisas,
+
+10:55.720 --> 11:00.720
+eu não sabia o que que era controle de versão, eu não sabia o que que era banco de dados,
+
+11:00.720 --> 11:03.720
+sabia que existia, né, mas eu não sabia fazer um select na base, por exemplo,
+
+11:03.720 --> 11:08.720
+não sabia como conectar isso, mostrar, obter dados através do Java, por exemplo,
+
+11:08.720 --> 11:13.720
+não sabia ir na base, pegar informações de uma tabela, não sabia nada disso, né,
+
+11:13.720 --> 11:17.720
+então tudo isso eu tive oportunidade de aprender durante estágio.
+
+11:17.720 --> 11:21.720
+E é bacana que você teve essa oportunidade de estágio como,
+
+11:21.720 --> 11:23.720
+ou seja, esse aqui é um estágio, propriamente dito,
+
+11:23.720 --> 11:28.720
+algo que você está aprendendo ao mesmo tempo que você está começando a dar os seus primeiros passos
+
+11:28.720 --> 11:32.720
+na atividade de programação, e diferente, como a gente anda vendo hoje,
+
+11:32.720 --> 11:38.720
+em uma forma tanto quanto abusiva, né, as pessoas pedindo até saber inglês
+
+11:38.720 --> 11:42.720
+e programar 50 anos de experiência em alguma linguagem de programação
+
+11:42.720 --> 11:46.720
+para pegar um estágio, né, que nada mais é do que uma forma de pagar poucas pessoas.
+
+11:46.720 --> 11:50.720
+Mas enfim, voltando aqui para o nosso trilho, com relação ao estágio,
+
+11:50.720 --> 11:56.720
+como é que evoluiu até você ter efetivamente o seu primeiro emprego que não era um estágio?
+
+11:56.720 --> 12:02.720
+No estágio, como eu falei, né, eu não sabia nada, então eu acabei aprendendo muitas coisas.
+
+12:02.720 --> 12:10.720
+Meu primeiro projeto no estágio foi fazer um programa Java que ia em um diretório FTP, né,
+
+12:10.720 --> 12:16.720
+e obtinha arquivos XML. Eu não sabia o que era XML na época também,
+
+12:16.720 --> 12:20.720
+então acabei aprendendo também sobre esses diferentes formatos de arquivos.
+
+12:20.720 --> 12:26.720
+E pegar esse XML, parciar o XML, né, ler o XML e gravar os dados na base,
+
+12:26.720 --> 12:30.720
+e depois que essas informações eram processadas pela base,
+
+12:30.720 --> 12:36.720
+tinham procederes, né, para poder fazer o processamento e fazer as atualizações necessárias.
+
+12:36.720 --> 12:43.720
+Era ler de novo do banco de dados, gerar um outro arquivo XML e colocar em outro diretório também ali via FTP.
+
+12:43.720 --> 12:49.720
+Era um projeto bem simples, né, mas para mim foi uma tarefa que tinha muita complexidade, né,
+
+12:49.720 --> 12:51.720
+já que eu não sabia nenhum desses conceitos.
+
+12:51.720 --> 12:56.720
+Eu fiquei dois anos trabalhando nessa empresa que eu fiz o meu primeiro estágio,
+
+12:56.720 --> 13:03.720
+e depois eu tive minha segunda oportunidade de emprego, que foi também como desenvolvedora Java.
+
+13:03.720 --> 13:08.720
+Nessa época eu já tinha um pouco mais de conhecimento em desenvolvimento web, né.
+
+13:08.720 --> 13:11.720
+A gente não tinha essa questão de front-end e back-end, era desenvolvimento web.
+
+13:11.720 --> 13:19.720
+Você usava, por exemplo, Java com servlets, JSP, né, você tinha um pacote completo ali com os frameworks da época,
+
+13:19.720 --> 13:24.720
+que era o Struts e também tinha o JSF aí que estava bastante em alta.
+
+13:24.720 --> 13:27.720
+E foi essa a segunda oportunidade.
+
+13:27.720 --> 13:34.720
+E uma coisa legal, né, que é uma coisa importante também que a gente sempre fala para as pessoas que estão começando com essa parte de tecnologia,
+
+13:34.720 --> 13:42.720
+que é investir na parte de networking, né, de você conhecer pessoas, de criar relacionamentos, manter esses relacionamentos.
+
+13:42.720 --> 13:46.720
+E tem a oportunidade também de você fazer aí novas amizades e tal,
+
+13:46.720 --> 13:53.720
+que essa segunda oportunidade de emprego que eu consegui foi através da monitoria que eu dava na faculdade.
+
+13:53.720 --> 13:59.720
+Mesmo com o meu estágio, eu continuava dando monitoria aos sábados.
+
+13:59.720 --> 14:06.720
+E tinha uma outra pessoa também que era monitora e essa pessoa trabalhava nessa outra empresa e falou,
+
+14:06.720 --> 14:13.720
+a gente está com vaga aberta lá, você não quer aplicar e lá fazer uma entrevista, bater um papo, isso dá tudo certo, né, você é contratada.
+
+14:13.720 --> 14:21.720
+Eu topei, né, fui lá, bati o papo com as pessoas da empresa e acabei sendo contratada aí por essa segunda oportunidade, né.
+
+14:21.720 --> 14:32.720
+Então, o que a gente fala, né, o que indica é uma coisa aí bem importante, por isso essa importância do networking também aí na nossa área.
+
+14:32.720 --> 14:39.720
+Esse networking é fundamental, né, é interessante também como é que o universo conspira, né, de forma bem interessante, né.
+
+14:39.720 --> 14:49.720
+Você na monitoria, você conhece uma outra pessoa que acaba de uma certa forma abrindo uma porta que te gera uma outra oportunidade, é bacana demais de ver isso.
+
+14:49.720 --> 14:55.720
+E como é que foi essa outra oportunidade, como é que a tua carreira profissional evoluiu no Brasil?
+
+14:55.720 --> 15:03.720
+Essa segunda oportunidade também foi vitória e durante o estágio eu já tinha começado a trabalhar um pouco com essa parte de web, né,
+
+15:03.720 --> 15:07.720
+que a gente chama de web 2.0, estava começando, né, estava engatinhando.
+
+15:07.720 --> 15:16.720
+Então, a parte de comunicação do HTML, né, do JavaScript com um API era através de JSON,
+
+15:16.720 --> 15:23.720
+então isso era uma coisa nova também que estava sendo introduzida, o Gmail estava sendo lançado, né, com aquela questão do AJAX,
+
+15:23.720 --> 15:33.720
+que você pode passar para uma outra página, é clicar em um link e abrir uma outra página sem dar o refresh na página completamente, né, você manter ali no browser.
+
+15:33.720 --> 15:37.720
+Então isso era uma coisa bem moderna, muito hype para época, né.
+
+15:37.720 --> 15:46.720
+Então eu tive essa oportunidade de começar a aprender e na segunda oportunidade foi com a parte mesmo de desenvolvimento web
+
+15:46.720 --> 15:58.720
+e lá eu usava Struts e JSP, o Spring, que é um framework do Java, também já existia na época, mas era uma coisa que poucas pessoas ainda utilizavam,
+
+15:58.720 --> 16:09.720
+existiam muitas palestras na época sobre o assunto, mas o Struts era um dos frameworks que eram aí os líderes de mercado, né, juntamente com o JSF,
+
+16:09.720 --> 16:15.720
+que era da própria especificação do Java, mas foi basicamente com isso, eu trabalhava para um banco local,
+
+16:15.720 --> 16:25.720
+era uma empresa que dava consultoria para um banco local, então foi meu primeiro contato aí com o ramo financeiro de desenvolver sistemas para banco.
+
+16:25.720 --> 16:33.720
+E, Lohiane, como é que surgiu o teu interesse por escrever livros e como é que foi escrever o primeiro livro para você?
+
+16:33.720 --> 16:44.720
+Depois que eu estava nessa segunda oportunidade surgiu a oportunidade de se mudar para Campinas, em São Paulo, né, e essa oportunidade era para trabalhar na IBM.
+
+16:44.720 --> 17:00.720
+Até então eu tinha trabalhado em empresas locais, né, com clientes brasileiros mesmo, e essa oportunidade na IBM, em Campinas, era para trabalhar para uma conta, né, para um cliente daqui dos Estados Unidos.
+
+17:00.720 --> 17:07.720
+Então o ambiente todo, né, as reuniões, os e-mails, ia ser tudo em inglês.
+
+17:07.720 --> 17:21.720
+E quando eu fiz essa mudança do Espírito Santo para Campinas, essa parte do inglês foi introduzida, eu senti muita necessidade de começar a praticar um pouco mais, praticar tanta a leitura, né, a parte de escrita,
+
+17:21.720 --> 17:30.720
+porque tinha que escrever muitos e-mails, né, a gente não fazia tanta reunião, né, não era como as coisas são hoje, né, toda parte por Zoom ou por Teams,
+
+17:30.720 --> 17:41.720
+e na época era muita coisa por telefone mesmo e muita coisa por IM mesmo, né, pelo MSN que a gente utilizava.
+
+17:41.720 --> 17:47.720
+Então eu tinha essa necessidade de praticar mais o inglês, com isso eu acabei criando o blog na época.
+
+17:47.720 --> 18:00.720
+Eu já tinha um blog em português, que eu comecei quando eu ainda morava lá no Espírito Santo, e com essa mudança para São Paulo, eu comecei a escrever no blog em inglês mesmo para poder treinar.
+
+18:00.720 --> 18:08.720
+Naquela época eu comecei a trabalhar com o XJS, não era Sencha ainda, né, ainda era apenas XJS.
+
+18:08.720 --> 18:14.720
+Com isso eu comecei a documentar as coisas que eu estava trabalhando e comecei a estudar mais o framework mesmo.
+
+18:14.720 --> 18:25.720
+E publicando, né, material em inglês sobre XJS, a editora entrou em contato comigo, eles tinham gostado dos artigos que eu tinha publicado no meu blog,
+
+18:25.720 --> 18:33.720
+e eles ofereceram aí a oportunidade de escrever o primeiro livro. Então foi assim que surgiu essa história do livro.
+
+18:33.720 --> 18:44.720
+Eu fui aceitando, né, porque é um sonho de escrever, a gente não tinha outras pessoas brasileiras escrevendo o livro para fora também, era uma coisa meio que estava no início ainda.
+
+18:44.720 --> 18:55.720
+Então para mim foi uma super oportunidade assim, então a gente não nega quando aparecem essas coisas assim uma vez na vida, então vamos ver o que dá.
+
+18:55.720 --> 19:03.720
+E foi, né, acabei publicando aí o primeiro livro e depois disso vieram outros convites para poder participar.
+
+19:03.720 --> 19:10.720
+Teve um convite que veio pelo LinkedIn, então é uma coisa bacana de você manter um perfil no LinkedIn.
+
+19:10.720 --> 19:20.720
+O LinkedIn era um pouco diferente do que é hoje, né, na época era muito mais voltada para o mercado profissional mesmo, não somente assim como rede social,
+
+19:20.720 --> 19:32.720
+mas era bem só um local que você ia lá e colocava o seu currículo e um outro contato surgiu através do GitHub, porque eu comecei a colocar também exemplos dos posts que eu estava fazendo para o blog.
+
+19:32.720 --> 19:43.720
+No GitHub teve uma pessoa da editora que viu o repositório, gostou dos exemplos, não tinham exemplos iguais na época, né, que outras pessoas estavam fazendo também,
+
+19:43.720 --> 19:50.720
+foram exemplos meio que inéditos e aí também surgiu a oportunidade para escrever o livro através do GitHub também.
+
+19:50.720 --> 20:00.720
+E você já está com quantos livros publicados até hoje? Eu vi recentemente você escreveu no Twitter lá que acho que já está com o título seu publicado até em chinês, correto?
+
+20:00.720 --> 20:07.720
+Isso, são total de cinco livros, mas são oito títulos, né, porque tiveram segunda e terceira edições.
+
+20:07.720 --> 20:20.720
+Algumas edições são completamente diferentes, né, mas o, por exemplo, de estrutura de dados que está na terceira edição agora foi meio que forma incremental, né, a cada edição a gente vai fazendo a revisão e também colocando mais coisas.
+
+20:20.720 --> 20:33.720
+E, Lohiane, como é que surgiu a ideia do canal no YouTube, onde você ajuda tanta gente a aprender Java, Angular e um monte de outra coisa, como é que pintou essa ideia para você fazer isso?
+
+20:33.720 --> 20:50.720
+Então, na época, como eu escrevi o livro em inglês e o livro foi lançado em inglês, as pessoas começaram a cobrar, né, poxa, Lohiane, você é brasileira, está escrevendo livro em inglês, né, e não tinha muitas informações em português.
+
+20:50.720 --> 21:06.720
+Eu tinha o meu blog em português também, na época eu escrevia os artigos em inglês e acabava fazendo assim uma ou duas semanas depois, publicava a tradução em português, mas a parte do livro mesmo, assim, o conteúdo mais completo não tinha.
+
+21:06.720 --> 21:12.720
+E com esse puxão de orelha que o pessoal me deu, eu falei, tá bom, então vou começar a criar vídeos.
+
+21:12.720 --> 21:41.720
+A pessoa estava começando a investir um pouquinho mais no YouTube, né, a gente já tinha, acho que tinham dois canais do YouTube que publicavam material, era um tal de Ricardo, ele tinha um curso de Java publicado no YouTube e o canal da EXScript, que também tinha no YouTube, então falei, bem legal esse formato, curti esse formato, né, e comecei a fazer aí os screencasts, como a gente chamava na época, né, lá para o YouTube,
+
+21:41.720 --> 21:50.720
+que foi começando com o XJS, e aí depois esse formato de vídeo, né, começou a tomar mais popularidade e eu comecei a focar mais nessa parte de vídeo.
+
+21:50.720 --> 22:02.720
+E, Lohiane, como é que surgiu a oportunidade de mudança para os Estados Unidos? Você mencionou que você estava na IBM e, eventualmente, você vai para os Estados Unidos, como é que apareceu essa oportunidade na tua vida?
+
+22:02.720 --> 22:20.720
+Eu fiquei dois anos na IBM e aí o projeto que a gente trabalhava acabou. Tinha a oportunidade de você ser realocado dentro da IBM mesmo, porém eu comecei a ver outras oportunidades fora da IBM também e Campinas e São Paulo, né, são, são
+
+22:20.720 --> 22:33.720
+são, são cidades bem próximas aí, questão de uma hora, uma hora e meia aí, dependendo do, do trânsito. Só que tem uma diferença salarial bem grande, né, até por conta mesmo também do, do custo de vida entre as cidades.
+
+22:33.720 --> 22:59.720
+E eu comecei a ver coisas em São Paulo, na capital, que foi onde eu apliquei para uma vaga no Citibank e essa vaga deu certo e trabalhei bastante tempo lá em São Paulo, né, eu fiquei 7 anos no Citibank em São Paulo, estou lá até hoje, né, fiz aí 11 anos de empresa e a empresa mesmo ela tem um programa de
+
+22:59.720 --> 23:17.720
+transferência, né, então você pode fazer a mobilidade interna dentro da empresa, seja para outros times, outras áreas, né, e também a mobilidade internacional. E aí como tinha essa oportunidade, isso foi uma coisa que eu tentei explorar.
+
+23:17.720 --> 23:36.720
+Eu e meu esposo, a gente tinha vontade sempre de morar fora do país e a gente fez assim muita pesquisa mesmo, a gente passou mais de um ano pesquisando o local que a gente queria morar, um local que faria sentido para a gente, né, culturamente, né, e também o futuro que a gente queria ter.
+
+23:36.720 --> 24:04.720
+Então a gente pesquisou sobre Austrália, Nova Zelândia, alguns países da Europa, Canadá também, Estados Unidos e como eu já estava na empresa e o meu time era todo aqui dos Estados Unidos, era um time que fica, né, em New Jersey, que é do lado de Nova York, eu queria explorar essa opção e foi um dia durante essas revisões aí de performance também, né, e durante os 101 que eu tinha com meu gerente, falei, olha, eu tenho muita vontade de morar fora.
+
+24:05.720 --> 24:26.720
+Se um dia surgir oportunidade, por favor, lembra de mim que eu tenho esse interesse. Eu já tinha ido para Nova York, que é trabalho, né, fazer treinamento, dar workshop para o time também de XGES, HTML5, esses tópicos e eu tinha gostado bastante, falei, poxa, isso é uma coisa que eu gostaria, né, de fazer, de ter essa nova vida nos Estados Unidos.
+
+24:26.720 --> 24:46.720
+E quando surgiu a oportunidade de transferência, foi para a Flórida, em Tampa. Nunca tinha pisado na Flórida, primeira vez que eu pisei na Flórida foi o primeiro dia que a gente passou a vir para cá, né, morar aqui, saiu do aeroporto, eu não sabia para onde ir nem nada e a gente está aqui até hoje, né, vai fazer cinco anos agora.
+
+24:47.720 --> 24:53.720
+E como é que foi a adaptação, a chegada aos Estados Unidos e conhecer um lugar totalmente novo, como você falou?
+
+24:53.720 --> 25:06.720
+O legal aqui da Flórida é que é o clima, é muito parecido com o Brasil, né, esse clima tropical, só que é muito mais úmido, é muito úmido e muito, muito mais quente que no Brasil.
+
+25:06.720 --> 25:29.720
+Então, esse meio que acabou ajudando também na adaptação. E aqui, por ser um estado que tem muitos imigrantes, né, tanto imigrantes latinos, quanto também tem uma comunidade brasileira muito grande aqui, a gente tem um acesso, né, a produtos internacionais também que acaba ajudando na adaptação, né, principalmente aí no início.
+
+25:29.720 --> 25:43.720
+Só que é um aprendizado completamente novo, né, tem a parte cultural não é muito diferente do Brasil, né, a gente está no mesmo continente, né, então isso não é um choque muito grande.
+
+25:44.720 --> 25:55.720
+Até no Brasil mesmo a gente consumia muito conteúdo também aqui dos Estados Unidos, né, consumia música, consumia filmes, seriados, né, então você acaba já meio sabendo o que esperar.
+
+25:55.720 --> 26:14.720
+Só que como você está mudando para um outro país, você acaba aprendendo tudo do zero. Como é que funciona um médico aqui, como é que você marca o médico, como é que você compra um carro, como é que funciona o seguro do carro se você precisar, como é que funciona a questão do plano de saúde aqui nos Estados Unidos, né, que é uma coisa diferente.
+
+26:14.720 --> 26:36.720
+A parte de direção é meio que igual em qualquer lugar do mundo, né, as regras, as leis básicas, mas tem as diferenças também que você precisa aprender, você tem que tirar a carteira de motorista, né, tem que fazer todas essas pequenas coisas, né, supermercado, então você acaba aprendendo várias coisas do zero.
+
+26:36.720 --> 26:54.720
+E até hoje tem coisas que a gente não sabe, que a gente ainda está aprendendo como lidar com isso, que são aprendizados novos aí todo mês, todo ano, enfim, é uma experiência diferente, né, e depois você acaba acostumando com as coisas também, né, então isso é uma coisa interessante e engraçada ao mesmo tempo.
+
+26:54.720 --> 27:23.720
+A gente acabou de fazer uma viagem para o Brasil, né, três anos aí, sem ver a família por conta da pandemia, e aí você, sem querer, você acaba comparando umas coisas e fica vendo coisas que você fazia no Brasil, fazia um parte do seu cotidiano antes, mas agora, como você está muito tempo sem fazer aquilo, você fala, é familiar, mas é estranho ao mesmo tempo, né, então tem essa questão aí do novo, do ser estranho e das coisas que você ainda estava acostumado.
+
+27:23.720 --> 27:26.720
+Então é uma experiência bem interessante.
+
+27:26.720 --> 27:34.720
+Com toda certeza. Você passou por dois furacões recentemente, pode compartilhar um pouquinho como foi essa experiência para você, hein?
+
+27:34.720 --> 27:52.720
+Isso, o furacão teve o Ian, o Ian infelizmente foi um furacão que chegou com quase categoria 5, categoria 5 para quem não sabe é a máxima, então é basicamente destruição total, faltou acho que apenas 10 milhas por hora na direção do Ian, né,
+
+27:52.720 --> 28:12.720
+por hora na direção do vento, é um furacão de chega aí para quase 200 km por hora de vento, né, infelizmente bateu na Flórida e as cidades costeiras onde foi que a gente fala que é o landfall, né, que é quando o furacão toca na terra e quando está no oceano consegue ganhar muita velocidade,
+
+28:12.720 --> 28:14.720
+foi de destruição total.
+
+28:14.720 --> 28:37.720
+Onde a gente mora agora? A gente está mais ou menos no meio do estado, né, e a Flórida para quem não conhece é um estado bem pequenininho, né, tipo um Espírito Santo ou um Rio de Janeiro da vida, né, são estados compridos, né, mas de leste a oeste, assim, a largura é bem curta, né, então você consegue aí com algumas horas de carro você consegue passar por tudo.
+
+28:37.720 --> 28:47.720
+Como a gente está no meio, a gente está mais ou menos a uma hora, uma hora e meia de distância dos dois lados do oceano, né, tanto do oceano Atlântico quanto do Golfo do México.
+
+28:47.720 --> 28:59.720
+O Ian passou bem perto daqui, né, não foi no cone em si, quando o furacão ele chega na parte da terra ele perde um pouco de força, né, ainda bem, e passou aqui perto.
+
+28:59.720 --> 29:17.720
+A gente estava no Brasil quando passou o Ian, né, mas tem a preocupação porque se vê as notícias é a cidade aqui onde a gente mora aqui do lado ficou completamente debaixo d'água, né, porque veio muita chuva e não tem como escorrer água assim em um curto período de tempo.
+
+29:17.720 --> 29:25.720
+Teve alguns danos aqui no nosso bairro, né, telhado que acaba tendo dano, né, as cercas também.
+
+29:25.720 --> 29:36.720
+Aqui em casa a gente teve uns danos na cerca, mas nada muito drástico assim, né, que você consegue, né, consertar isso e graças a Deus aí tudo certo.
+
+29:36.720 --> 29:44.720
+E essa semana agora, né, que passou a Necole também, esse foi um furacão que veio pelo lado do oceano Atlântico.
+
+29:44.720 --> 30:01.720
+Ninguém estava esperando mais um furacão porque já é novembro, né, geralmente a temporada de furacões ela acontece de julho a novembro, mas geralmente lá para setembro, outubro que a gente fica mais alerta, né, que é por questões das mudanças que vão acontecendo no clima, né, da troca da estação.
+
+30:01.720 --> 30:06.720
+É que fica um ambiente mais propício aí para o início, né, para a origem dos furacões.
+
+30:06.720 --> 30:15.720
+E a Necole meio que veio aí de surpresa para todo mundo e apesar de ter vindo com categoria 1, teve também muito alagamento na área costeira.
+
+30:15.720 --> 30:17.720
+Passou alguns quilômetros daqui.
+
+30:17.720 --> 30:20.720
+É aqui em casa também, graças a Deus, não teve nenhum dano.
+
+30:20.720 --> 30:25.720
+O vizinho perdeu parte da cerca aqui, mas é algo que ele consegue acertar também.
+
+30:25.720 --> 30:32.720
+Mas é isso, né, é a Mãe Natureza agindo e a gente está aqui meio que de passagem.
+
+30:32.720 --> 30:37.720
+Enfim, é meio que aterrorizante para a gente que não tem essas coisas no Brasil, né.
+
+30:37.720 --> 30:44.720
+Eu lembro que a primeira vez que a gente chegou aqui na Flórida e anunciaram um furacão, a gente ficou desesperado.
+
+30:44.720 --> 30:52.720
+Então aqui a gente sempre estoca água, sempre tem água estocada aqui em casa, para pelo menos alguns meses, uns dois, três meses.
+
+30:52.720 --> 30:54.720
+E muita coisa enlatada.
+
+30:54.720 --> 31:04.720
+A gente não tem essas coisas no Brasil, né, mas aqui nos Estados Unidos tem carne enlatada, né, frango, sopa, feijão enlatado, que é questão de você esquentar.
+
+31:04.720 --> 31:10.720
+Então o que o pessoal acaba fazendo é sempre ter aqueles fogonzinhos, né, de uma boca de acampamento.
+
+31:10.720 --> 31:17.720
+Para casos como esse, as empresas acabam desligando a energia para poder evitar danos na rede.
+
+31:18.720 --> 31:22.720
+No IA a gente ficou aqui dois dias, quase três dias sem energia.
+
+31:22.720 --> 31:25.720
+Perdemos tudo que a gente tinha na geladeira, infelizmente.
+
+31:25.720 --> 31:31.720
+É, e justamente para casos como esse, né, você ter água para você até poder também se limpar.
+
+31:31.720 --> 31:39.720
+Na Amazon acaba vendendo aquelas toalhas de acampamento também para caso você não tenha acesso à água, você consegue fazer a sua higiene pessoal.
+
+31:39.720 --> 31:46.720
+Mas sempre tem que ter água, sempre tem que ter coisas enlatadas, né, estocadas aí dentro de casa, porque você nunca sabe o que vai acontecer.
+
+31:46.720 --> 31:52.720
+E quando tem o anúncio dos furacões, né, o geral corre no supermercado, assim.
+
+31:52.720 --> 31:56.720
+Água é uma das coisas que acaba muito, muito rápido.
+
+31:56.720 --> 32:00.720
+E nem de ter estoque no supermercado também, né, não dá tempo de restocar.
+
+32:00.720 --> 32:08.720
+O pessoal fala aqui que a comida de furacão é chips, né, Doritos, Ruffles, esse tipo de alimento.
+
+32:08.720 --> 32:15.720
+Porque é uma coisa fácil que você não precisa esquentar, né, dar aquela enganada no estômago, caso seja necessário.
+
+32:15.720 --> 32:17.720
+Você também não vê nada.
+
+32:17.720 --> 32:20.720
+E principalmente essas sopas enlatadas também, que acaba muito rápido.
+
+32:20.720 --> 32:27.720
+Então, quando fala que vai vir um furacão, todo mundo corre para o supermercado e aí você vê um monte de prateleira vazia também.
+
+32:27.720 --> 32:29.720
+É uma experiência única, né.
+
+32:29.720 --> 32:37.720
+E, Lohiane, você pode contar um pouquinho da tua rotina de trabalho, como é que é o teu dia a dia, como é que é a tua stack de desenvolvimento?
+
+32:37.720 --> 32:40.720
+Bem, eu trabalho com Java.
+
+32:40.720 --> 32:44.720
+Eu sempre fui, né, desde o início da minha carreira eu sempre fui uma desenvolvedora Java.
+
+32:44.720 --> 32:51.720
+Depois eu comecei a trabalhar com um pouquinho com a parte de front-end, né, com uma parte de JavaScript, HTML, CSS.
+
+32:51.720 --> 32:58.720
+Então, a minha stack é basicamente Java com Spring, JPI Hibernate no back-end.
+
+32:58.720 --> 33:08.720
+Com a parte de front-end a gente utiliza XJS, que eu trabalho até hoje também, ainda tem projetos com XJS e com Angular agora também.
+
+33:08.720 --> 33:12.720
+Então, é um combo aí bem bacana essa parte do Angular com Spring agora.
+
+33:12.720 --> 33:18.720
+Tem muita oportunidade de emprego aí, acho que tanto no Brasil quanto fora do Brasil também.
+
+33:18.720 --> 33:22.720
+E é isso, né. E aí, claro, tem parte de mensageria, né.
+
+33:22.720 --> 33:30.720
+Tem os outros detalhes aí do design da arquitetura em si, mas é basicamente Java com Angular.
+
+33:30.720 --> 33:33.720
+E aqui a gente faz o híbrido agora, né.
+
+33:33.720 --> 33:36.720
+Durante a pandemia a gente ficou completamente remoto, né.
+
+33:36.720 --> 33:39.720
+Mas agora a gente está começando a voltar para o híbrido.
+
+33:39.720 --> 33:45.720
+Então, a gente fica 60% do tempo em casa, né. E dois dias a semana aí no escritório.
+
+33:45.720 --> 33:53.720
+E, Lohiane, eu vi que o seu marido está aprendendo a programar aí, potencialmente fazendo uma transição diária também, né.
+
+33:53.720 --> 33:57.720
+Como é que está indo isso? Como é que está sendo essa evolução para ele?
+
+33:57.720 --> 34:02.720
+É, ele decidiu agora, né, estudar também. A gente acabou trocando o nosso tipo de visto.
+
+34:02.720 --> 34:07.720
+Com esse visto novo ele perdeu a permissão dele de trabalhar, né.
+
+34:08.720 --> 34:12.720
+Para o pessoal que não é familiarizado com a parte de visto de trabalho aqui dos Estados Unidos.
+
+34:12.720 --> 34:17.720
+Existem vistos de trabalho em que o parceiro e a parceira podem trabalhar também, né.
+
+34:17.720 --> 34:20.720
+Então você pode tirar a permissão de trabalho.
+
+34:20.720 --> 34:26.720
+E existem vistos que somente o titular pode trabalhar, que é o visto que a gente está agora, que a gente trocou.
+
+34:26.720 --> 34:29.720
+E aí com isso, como ele vai ficar agora meio que em casa, né.
+
+34:29.720 --> 34:33.720
+Ele decidiu estudar, fazer alguma coisa aí com o tempo dele.
+
+34:33.720 --> 34:37.720
+E decidiu vir para essa área de tecnologia, pelo menos tentar, né.
+
+34:37.720 --> 34:41.720
+A gente vai estudar aí um ano e vamos ver como é que vai ficar depois.
+
+34:41.720 --> 34:43.720
+E ele começou agora, tem três semanas, né.
+
+34:43.720 --> 34:49.720
+Ele não está estudando todos os dias, mas ele começou a fazer aquele 100 dias de código, né.
+
+34:49.720 --> 34:53.720
+Que é uma hashtag aí de uma iniciativa bem bacana.
+
+34:53.720 --> 34:55.720
+E está documentando aí o passo a passo dele.
+
+34:55.720 --> 34:58.720
+Começou a estudar lógica de programação.
+
+34:58.720 --> 35:01.720
+E começou agora com uma linguagem mesmo, né.
+
+35:01.720 --> 35:03.720
+Fez toda a parte básica.
+
+35:03.720 --> 35:09.720
+O que eu demorei para aprender seis meses na faculdade, ele aprendeu com duas semanas, com dez dias estudando, né.
+
+35:09.720 --> 35:11.720
+De forma, assim, bem surpresa.
+
+35:11.720 --> 35:13.720
+E ele aprendeu muito rápido.
+
+35:13.720 --> 35:16.720
+Conseguiu fixar bastante rápido aí os conceitos.
+
+35:16.720 --> 35:18.720
+Isso é uma coisa interessante, né.
+
+35:18.720 --> 35:22.720
+Para as pessoas, às vezes, que estão estudando, você não se cobrar tanto, né.
+
+35:22.720 --> 35:26.720
+Eu demorei seis meses para aprender aquilo que ele aprendeu em dez dias estudando.
+
+35:26.720 --> 35:29.720
+Então não dá para você se comparar com outra pessoa, né.
+
+35:29.720 --> 35:35.720
+Cada pessoa acaba tendo aí o seu próprio ritmo, a forma com que estuda, né.
+
+35:35.720 --> 35:40.720
+A forma que consegue absorver as informações e aplicar e praticar aquelas informações.
+
+35:40.720 --> 35:44.720
+Então isso é uma coisa que eu gosto bastante de falar, é de não se comparar.
+
+35:44.720 --> 35:47.720
+Porque eu gastei seis meses e ele gastou dez dias, né.
+
+35:47.720 --> 35:50.720
+Mas no final, né, o importante é você saber, né.
+
+35:50.720 --> 35:53.720
+Conseguir aprender e ir no seu ritmo. Isso que é importante.
+
+35:53.720 --> 35:55.720
+Agora ele está aprendendo Python.
+
+35:55.720 --> 36:00.720
+Porque a gente fez uma pesquisa aqui com as vagas que tem aqui na nossa região.
+
+36:00.720 --> 36:04.720
+Então tem bastante vaga de Python e bastante vaga de Java.
+
+36:04.720 --> 36:10.720
+Ele vai estudar as duas linguagens, vai ver o básico de Python, o básico de Java.
+
+36:10.720 --> 36:15.720
+Vai ver qual que é a linguagem que ele se adapta melhor, que ele gosta mais.
+
+36:15.720 --> 36:18.720
+E aí ele vai focar os estudos naquela linguagem.
+
+36:18.720 --> 36:21.720
+Então a gente vai acompanhando aí passo a passo dele até...
+
+36:21.720 --> 36:23.720
+Vamos ver o que vai acontecer aí daqui a um ano.
+
+36:24.720 --> 36:29.720
+Bacana demais. Que seja um sucesso completo essa evolução para ele aí.
+
+36:29.720 --> 36:32.720
+E quem sabe no futuro ele toque uma entrevista comigo também.
+
+36:32.720 --> 36:34.720
+Opa! Vamos ver.
+
+36:34.720 --> 36:36.720
+Essa é bacana.
+
+36:36.720 --> 36:40.720
+E falar em evolução e tudo mais.
+
+36:40.720 --> 36:46.720
+Tem alguma área da tecnologia ou programação que seja com a qual você não trabalhe hoje,
+
+36:46.720 --> 36:50.720
+mas que você quem sabe gostaria de trabalhar um dia?
+
+36:50.720 --> 36:56.720
+Essa parte de Machine Learning, Inteligencia Artificial, Engenharia de Dados,
+
+36:56.720 --> 36:59.720
+são áreas que estão muito em alta.
+
+36:59.720 --> 37:02.720
+É um dos motivos do meu esposo estar aprendendo Python agora.
+
+37:02.720 --> 37:04.720
+Vamos ver se ele vai curtir.
+
+37:04.720 --> 37:09.720
+Mas é uma coisa que eu tenho bastante curiosidade de saber.
+
+37:09.720 --> 37:17.720
+Não a parte de você treinar os modelos, mas você analisar e conseguir manusear os dados
+
+37:17.720 --> 37:24.720
+para que esses dados fiquem de forma que possam ser consumidos por um modelo, por exemplo, de Machine Learning.
+
+37:24.720 --> 37:28.720
+Uma coisa que eu acho extremamente interessante é uma área que está muito em alta
+
+37:28.720 --> 37:30.720
+e que eu não tenho experiência.
+
+37:30.720 --> 37:35.720
+Uma coisa que um dia talvez eu gostaria de trabalhar, de saber como é que é.
+
+37:35.720 --> 37:40.720
+E, Luiane, a gente está falando aqui já por um tempinho.
+
+37:40.720 --> 37:43.720
+Você passou aqui por várias oportunidades de trabalho.
+
+37:43.720 --> 37:47.720
+Você trabalha, você mudou de país, você fez faculdade.
+
+37:47.720 --> 37:52.720
+Olhando para o passado, tem alguma coisa que você pensa assim,
+
+37:52.720 --> 37:54.720
+porra, eu deveria ter feito isso de forma diferente?
+
+37:54.720 --> 37:56.720
+Tem algo que você teria mudado?
+
+37:56.720 --> 38:01.720
+Olha, fazer de forma diferente, tem várias coisas que a gente faria de forma diferente.
+
+38:01.720 --> 38:08.720
+Depois que você tem a experiência falando, caramba, eu poderia ter feito isso de uma outra forma,
+
+38:08.720 --> 38:11.720
+que seria muito mais fácil, teria consumido muito menos tempo.
+
+38:11.720 --> 38:18.720
+É sempre bom você fazer essas reflexões, das lições aprendidas para quem sabe no futuro fazer de forma diferente.
+
+38:18.720 --> 38:24.720
+Mas uma coisa que eu gosto muito de falar, se eu faria algo diferente,
+
+38:24.720 --> 38:29.720
+essa é uma pergunta que é meio que complicada de responder,
+
+38:29.720 --> 38:36.720
+porque se você fizesse algo diferente, isso poderia mudar o futuro.
+
+38:36.720 --> 38:38.720
+A entrada é igual ao algoritmo.
+
+38:38.720 --> 38:42.720
+Dependendo da entrada que você tem, você tem uma saída diferente.
+
+38:42.720 --> 38:48.720
+Então, apesar de você ter lições aprendidas e fazer as reflexões,
+
+38:48.720 --> 38:53.720
+que poderia ter feito algo diferente, de fato eu realmente não mudaria,
+
+38:53.720 --> 38:57.720
+porque os erros que a gente comete, as lições que a gente aprende
+
+38:57.720 --> 39:05.720
+e talvez a saída desse algoritmo da vida não teria o resultado que a gente tem hoje.
+
+39:05.720 --> 39:10.720
+O tal do efeito borboleta, de você mudar alguma coisa que você fez no passado,
+
+39:10.720 --> 39:14.720
+aquilo tem toda uma aplicação na sua vida, de repente é melhor não mudar nada não.
+
+39:14.720 --> 39:16.720
+Exatamente.
+
+39:16.720 --> 39:22.720
+E você, pensando aqui na nossa audiência, que eu falei para você, o nosso grupo dos programadores,
+
+39:22.720 --> 39:29.720
+composto basicamente de pessoas iniciantes, pessoas que estão tentando aprender,
+
+39:29.720 --> 39:31.720
+e tentar entender, será que esse negócio de tecnologia é para mim,
+
+39:31.720 --> 39:34.720
+será que esse negócio de programação é algo que eu vou gostar,
+
+39:34.720 --> 39:36.720
+o que você recomendaria para essas pessoas?
+
+39:36.720 --> 39:41.720
+O que você acha que seria interessante que elas fizessem para tentar evoluir na carreira?
+
+39:41.720 --> 39:48.720
+Então, esse negócio de talvez não é para mim, acho que se você não tentar, você nunca vai saber.
+
+39:48.720 --> 39:54.720
+Acho que o arrependimento de você não fazer algo e ficar sempre se perguntando,
+
+39:54.720 --> 39:59.720
+se eu tivesse feito isso, eu acho que esse é um dos piores pensamentos
+
+39:59.720 --> 40:03.720
+e uma das piores experiências que você pode ter, porque você sempre vai estar se perguntando.
+
+40:03.720 --> 40:08.720
+Nesse caso, acho que principalmente em questão de estudo,
+
+40:08.720 --> 40:12.720
+eu tenho para mim uma filosofia de que estudar nunca é demais.
+
+40:12.720 --> 40:18.720
+Então, se eu adquirir aquele conhecimento, eu estudar e eu tentar, mesmo que não dê certo,
+
+40:18.720 --> 40:22.720
+pelo menos eu sei que não vai dar certo, mas eu tentei.
+
+40:22.720 --> 40:26.720
+Então, acho que esse é um dos principais motivos, aquela mesma coisa,
+
+40:26.720 --> 40:30.720
+será que eu aplico para essa vaga, será que eu falo com a pessoa tal,
+
+40:30.720 --> 40:35.720
+será que eu vou lá para bater um papo com aquela pessoa?
+
+40:35.720 --> 40:38.720
+Vai lá, o não você já tem.
+
+40:38.720 --> 40:44.720
+Então, você tenta e vê se você consegue mudar essa resposta do não para um talvez
+
+40:44.720 --> 40:46.720
+ou até mesmo para um sim.
+
+40:46.720 --> 40:49.720
+Então, para mim, acho que essa é uma coisa importante.
+
+40:49.720 --> 40:54.720
+A área de tecnologia em si é uma área, principalmente a área de desenvolvimento.
+
+40:54.720 --> 40:58.720
+A gente tem diversas áreas dentro da tecnologia, mas aqui eu tenho experiência mesmo,
+
+40:58.720 --> 41:01.720
+é com a parte de desenvolvimento de software,
+
+41:01.720 --> 41:05.720
+é uma área que está sempre requerendo que a gente estude.
+
+41:05.720 --> 41:09.720
+Nós vamos ser eternos estudantes trabalhando com essa área de desenvolvimento
+
+41:09.720 --> 41:13.720
+porque sempre tem uma tecnologia nova, uma ferramenta nova,
+
+41:13.720 --> 41:16.720
+então tem que gostar de estudar trabalhando nessa área.
+
+41:16.720 --> 41:20.720
+Então, é uma coisa que a gente tem que ter em mente, isso sempre.
+
+41:20.720 --> 41:25.720
+E, às vezes, como eu falei, não se comparar com outras pessoas.
+
+41:25.720 --> 41:28.720
+Eu aprendi a parte básica de algoritmo em seis meses,
+
+41:28.720 --> 41:33.720
+meu esposo conseguiu aprender isso em dez dias estudando, em duas semanas.
+
+41:33.720 --> 41:38.720
+É não se comparar com outras pessoas porque cada pessoa tem o seu próprio roteiro,
+
+41:38.720 --> 41:41.720
+aprende de uma forma, tem pessoas que são mais visuais,
+
+41:41.720 --> 41:45.720
+tem pessoas que precisam praticar muito para conseguir aprender alguma coisa,
+
+41:45.720 --> 41:49.720
+tem pessoas que gostam mais de material escrito,
+
+41:49.720 --> 41:52.720
+tem pessoas que gostam mais de material em vídeo,
+
+41:52.720 --> 41:57.720
+nem toda didática que você está vendo, está vendo um vídeo no YouTube
+
+41:57.720 --> 42:01.720
+de um determinado assunto, veja de três, quatro pessoas diferentes
+
+42:01.720 --> 42:05.720
+porque talvez você se identifique com uma didática de uma outra pessoa.
+
+42:05.720 --> 42:08.720
+Então, tem essa questão também de você fazer meio que um match
+
+42:08.720 --> 42:12.720
+da informação que você está absorvendo
+
+42:12.720 --> 42:15.720
+com a forma com que você gosta de absorver aquela informação
+
+42:15.720 --> 42:17.720
+ou que consegue aprender melhor.
+
+42:17.720 --> 42:20.720
+E dificuldades também vão aparecer.
+
+42:20.720 --> 42:23.720
+Eu acho que todo mundo quando passa, começa a estudar,
+
+42:23.720 --> 42:26.720
+em algum momento vai sentir dificuldades,
+
+42:26.720 --> 42:29.720
+em algum momento vai começar a se perguntar,
+
+42:29.720 --> 42:31.720
+será que isso mesmo é para mim?
+
+42:31.720 --> 42:33.720
+E a questão é de você não desistir.
+
+42:33.720 --> 42:36.720
+Eu acho que quanto mais você praticar,
+
+42:36.720 --> 42:40.720
+praticar é uma coisa extremamente essencial na nossa área,
+
+42:40.720 --> 42:44.720
+quanto mais você pratica, mais você vai conseguir absorver melhor as informações
+
+42:44.720 --> 42:47.720
+e vai ficando melhor naquilo também.
+
+42:47.720 --> 42:49.720
+E não desistir.
+
+42:49.720 --> 42:51.720
+Quando eu estive na minha faculdade,
+
+42:51.720 --> 42:53.720
+eu tive muita dificuldade com as questões de algoritmo.
+
+42:53.720 --> 42:55.720
+Não fazia sentido nenhum para mim.
+
+42:55.720 --> 42:58.720
+Comecei a praticar muito até que um dia,
+
+42:58.720 --> 43:00.720
+meio que no estalar de dedos,
+
+43:00.720 --> 43:02.720
+começou a fazer sentido.
+
+43:02.720 --> 43:05.720
+Do nada, tudo aquilo que eu estava estudando durante seis meses
+
+43:05.720 --> 43:07.720
+passou a fazer sentido.
+
+43:07.720 --> 43:09.720
+Então, talvez isso também aconteça com você.
+
+43:09.720 --> 43:11.720
+Em relação à idade também,
+
+43:11.720 --> 43:14.720
+não deixe que isso seja um fator também.
+
+43:14.720 --> 43:18.720
+Existem várias pessoas que vão pelo um caminho, por exemplo,
+
+43:18.720 --> 43:21.720
+tradicional, que começa desde o final da adolescência
+
+43:21.720 --> 43:27.720
+e já querendo saber e estudar para a carreira que vai seguir o resto da vida.
+
+43:27.720 --> 43:30.720
+E tem pessoas que fazem transições, trocam de carreiras.
+
+43:30.720 --> 43:32.720
+Isso é uma coisa completamente normal também.
+
+43:32.720 --> 43:35.720
+Então, não deixe que isso seja um fator também
+
+43:35.720 --> 43:38.720
+para que você não tente fazer alguma coisa.
+
+43:38.720 --> 43:40.720
+Meu esposo está com quase 40 anos agora.
+
+43:40.720 --> 43:43.720
+Então, ele vai tentar fazer uma carreira completamente...
+
+43:43.720 --> 43:45.720
+começar de novo.
+
+43:45.720 --> 43:47.720
+E existe espaço para isso no mercado.
+
+43:47.720 --> 43:51.720
+Qualquer que seja o trajeto que você vá fazer,
+
+43:51.720 --> 43:54.720
+faça o seu trajeto.
+
+43:54.720 --> 43:58.720
+Vai aí no seu passo, no seu espaço de tempo,
+
+43:58.720 --> 44:01.720
+que uma hora as coisas vão se encaixar.
+
+44:01.720 --> 44:04.720
+Com toda certeza. Excelentes recomendações aqui.
+
+44:04.720 --> 44:07.720
+E você teria dicas de...
+
+44:07.720 --> 44:09.720
+Obviamente, além dos seus livros,
+
+44:09.720 --> 44:12.720
+você tem dica de livro, música, jogos, filmes
+
+44:12.720 --> 44:16.720
+ou qualquer outra coisa que você gostaria de compartilhar aqui com o nosso ouvido.
+
+44:16.720 --> 44:18.720
+Não necessariamente da área de tecnologia?
+
+44:18.720 --> 44:20.720
+Bem, acho que da área de TI...
+
+44:20.720 --> 44:23.720
+Vou começar com a parte de livros da área de tecnologia.
+
+44:23.720 --> 44:27.720
+Principalmente no começo, a gente vê muita,
+
+44:27.720 --> 44:29.720
+mas muita indicação de livros.
+
+44:29.720 --> 44:33.720
+Se você faz parte da BoleTech, do Twitter
+
+44:33.720 --> 44:35.720
+ou de algum grupo do Facebook,
+
+44:35.720 --> 44:39.720
+muitas pessoas vão começar a recomendar livros para você.
+
+44:39.720 --> 44:43.720
+Existem alguns livros que são excelentes,
+
+44:43.720 --> 44:47.720
+mas tem livros também que são específicos de linguagem.
+
+44:47.720 --> 44:50.720
+Essa questão de boas práticas, dessas coisas,
+
+44:50.720 --> 44:52.720
+acho que principalmente no início,
+
+44:52.720 --> 44:55.720
+não é uma coisa que você precisa focar muito.
+
+44:55.720 --> 44:58.720
+Você tem que focar em aprender aquilo,
+
+44:58.720 --> 45:01.720
+mesmo que seja o algoritmo mais longo,
+
+45:01.720 --> 45:04.720
+um algoritmo que não é otimizado, nem nada.
+
+45:04.720 --> 45:08.720
+Mas foca em conseguir ter uma saída, ter um resultado.
+
+45:08.720 --> 45:12.720
+Com o tempo, depois você vai aprendendo a otimizar aquilo,
+
+45:12.720 --> 45:15.720
+vai escrever o algoritmo de forma mais bonita,
+
+45:15.720 --> 45:19.720
+vai aprender as boas práticas, mas isso tudo é contente.
+
+45:19.720 --> 45:22.720
+Não se preocupa em ler esses livros
+
+45:22.720 --> 45:25.720
+que geralmente são recomendados logo no início.
+
+45:25.720 --> 45:28.720
+Tem um livro, por exemplo, de Java,
+
+45:28.720 --> 45:31.720
+que eu gosto muito, muito mesmo,
+
+45:31.720 --> 45:34.720
+para pessoas que já aprenderam o básico.
+
+45:34.720 --> 45:36.720
+Isso não é um livro para quem está começando,
+
+45:36.720 --> 45:39.720
+mas é um livro que já aprenderam o básico mesmo,
+
+45:39.720 --> 45:41.720
+que é o Java efetivo.
+
+45:41.720 --> 45:44.720
+É um livro excelente, excelente mesmo.
+
+45:44.720 --> 45:47.720
+Outros livros, como eu falei, vão aparecendo.
+
+45:47.720 --> 45:51.720
+Tem uns livros mais queridos das pessoas, por exemplo,
+
+45:51.720 --> 45:54.720
+Código Livro, Arquitetura de Microsserviços,
+
+45:54.720 --> 45:57.720
+essas coisas, se preocupe bem depois que você já tiver
+
+45:57.720 --> 46:00.720
+fera no que você está fazendo,
+
+46:00.720 --> 46:04.720
+para depois você começar a focar e ler esses livros.
+
+46:04.720 --> 46:07.720
+Tem um outro livro que eu gosto bastante também,
+
+46:07.720 --> 46:09.720
+que é o Mindfulness,
+
+46:09.720 --> 46:12.720
+principalmente para a gente que trabalha com tecnologia,
+
+46:12.720 --> 46:14.720
+a gente está sempre meio que estressado,
+
+46:14.720 --> 46:17.720
+e sempre na correria, muitos projetos para entregar.
+
+46:17.720 --> 46:21.720
+É um livro que ajuda bastante, às vezes, você focar.
+
+46:21.720 --> 46:23.720
+É um livro mais voltado para...
+
+46:23.720 --> 46:25.720
+Não vou dizer que a saúde mental,
+
+46:25.720 --> 46:28.720
+mas acaba ajudando bastante você na saúde mental,
+
+46:28.720 --> 46:30.720
+não se desesperar.
+
+46:30.720 --> 46:33.720
+É um livro que vai te ajudar a ter mais foco.
+
+46:33.720 --> 46:35.720
+Então, me ajudou muito.
+
+46:35.720 --> 46:37.720
+Às vezes não querer fazer as coisas na correria,
+
+46:37.720 --> 46:39.720
+só porque tem que fazer uma coisa.
+
+46:39.720 --> 46:41.720
+E às vezes você parar, respirar um pouquinho,
+
+46:41.720 --> 46:44.720
+e depois voltar com calma, ajuda bastante.
+
+46:44.720 --> 46:46.720
+É uma prática muito legal,
+
+46:46.720 --> 46:49.720
+acho que independente da área em que você está,
+
+46:49.720 --> 46:51.720
+é uma leitura bem interessante.
+
+46:51.720 --> 46:55.720
+E sobre séries, músicas, essas coisas,
+
+46:55.720 --> 46:59.720
+sobre séries, a gente acabou de assistir aqui de novo,
+
+46:59.720 --> 47:02.720
+eu tinha visto bastante quando eu era um pouco mais nova,
+
+47:02.720 --> 47:05.720
+a gente decidiu reassistir Friends.
+
+47:05.720 --> 47:07.720
+Acho que Friends, para o pessoal,
+
+47:07.720 --> 47:09.720
+às vezes o pessoal pergunta o que eu devo aprender
+
+47:09.720 --> 47:12.720
+ou alguma coisa para fazer uma carreira internacional.
+
+47:12.720 --> 47:15.720
+Gente, inglês é uma coisa fundamental.
+
+47:15.720 --> 47:19.720
+E uma das coisas que eu gosto bastante de ajudar
+
+47:19.720 --> 47:23.720
+a aprender inglês foi assistir seriados.
+
+47:23.720 --> 47:26.720
+Então, pegue seriados do estilo que você goste.
+
+47:26.720 --> 47:30.720
+Friends foi um seriado que me ajudou a aprender inglês bastante também.
+
+47:30.720 --> 47:33.720
+E esses dias eu passei a reassistir,
+
+47:33.720 --> 47:35.720
+para poder lembrar um pouquinho.
+
+47:35.720 --> 47:38.720
+Então, sempre tem uma palavra ou uma expressão,
+
+47:38.720 --> 47:42.720
+às vezes que você não lembrava ou que você não sabia ainda.
+
+47:42.720 --> 47:44.720
+Mesmo reassistindo, você acaba aprendendo de novo.
+
+47:44.720 --> 47:47.720
+Isso é uma coisa que eu acho interessante.
+
+47:47.720 --> 47:52.720
+E, Loian, a gente está se aproximando aqui de uma hora de bate-papo.
+
+47:52.720 --> 47:55.720
+Tem alguma pergunta que eu não fiz
+
+47:55.720 --> 47:57.720
+e que você gostaria que eu tivesse feito?
+
+47:57.720 --> 48:00.720
+Eu acho que a gente cobriu bastante coisa, viu?
+
+48:01.720 --> 48:03.720
+Falamos até de furacão, né?
+
+48:03.720 --> 48:05.720
+Bastante chão realmente aqui.
+
+48:05.720 --> 48:10.720
+E você quer divulgar alguma informação para contato, rede social,
+
+48:10.720 --> 48:14.720
+alguma forma das pessoas entrarem em contato com você?
+
+48:14.720 --> 48:16.720
+Opa, agradeço aí o espaço.
+
+48:16.720 --> 48:19.720
+Bem, quem quiser manter o contato depois,
+
+48:19.720 --> 48:21.720
+eu estou no Twitter, que é o arroba Loiani,
+
+48:21.720 --> 48:23.720
+estou também no Instagram, que é o arroba Loiani.
+
+48:23.720 --> 48:27.720
+São as redes sociais que eu mais acabo acessando assim no dia a dia mesmo.
+
+48:27.720 --> 48:31.720
+E também tem muito material gratuito lá no meu canal do YouTube.
+
+48:31.720 --> 48:33.720
+É só pesquisar aí por Loiani Groner.
+
+48:33.720 --> 48:37.720
+Acaba baixando aí as playlists de Angular e de Java também.
+
+48:37.720 --> 48:42.720
+Então espero que, se é um assunto que alguém esteja aí tentando aprender,
+
+48:42.720 --> 48:45.720
+que tenha algum material lá que possa ajudar.
+
+48:45.720 --> 48:48.720
+E, Loiani, eu queria tirar aqui um minuto para te agradecer.
+
+48:48.720 --> 48:51.720
+Na Flórida já são uma hora da tarde, sábado, né?
+
+48:51.720 --> 48:56.720
+E você está aqui papiando comigo e compartilhando aqui a tua história fantástica com todo mundo.
+
+48:56.720 --> 49:00.720
+E queria te agradecer não só por isso, mas também por todo esse conteúdo,
+
+49:00.720 --> 49:02.720
+todo o ensinamento que você tem aqui,
+
+49:02.720 --> 49:04.720
+toda a ajuda que você dá para as pessoas.
+
+49:04.720 --> 49:07.720
+Sempre muito bem disposta a ajudar todo mundo.
+
+49:07.720 --> 49:11.720
+E conteúdo fantástico aqui com o pessoal que está tentando aprender e evoluir.
+
+49:11.720 --> 49:13.720
+Muito obrigado por todo o teu trabalho aí.
+
+49:13.720 --> 49:15.720
+Muito obrigada. Eu que agradeço.
+
+49:15.720 --> 49:18.720
+E o convite de novo de aqui mais uma vez.
+
+49:18.720 --> 49:20.720
+Obrigado. Um abração para você aí.
+
+49:20.720 --> 49:22.720
+Igualmente.
+
+49:22.720 --> 49:24.720
+Chegamos ao final de mais um episódio.
+
+49:24.720 --> 49:26.720
+Agradeço a todos a atenção.
+
+49:26.720 --> 49:28.720
+E o nosso site é osprogramadores.com
+
+49:28.720 --> 49:30.720
+Participem e até o próximo episódio.
+
+49:30.720 --> 49:32.720
+Um bom dia para todos.
+
