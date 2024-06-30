@@ -1,0 +1,6 @@
+nltk==3.8.1
+openai_whisper==20231117
+python-dotenv==1.0.1
+Requests==2.32.3
+torch==2.3.0
+transformers==4.41.2
