@@ -4,7 +4,7 @@
 
 Install dependencies.
 
-```
+```sh
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -13,12 +13,12 @@ pip install -r requirements.txt
 Configure the environment.
 
 Get Taddy API key here (free): https://taddy.org/dashboard/my-apps
-```
+```sh
 cp .env.example .env
 ```
 
 Transcribe a podcast.
-```
+```sh
 python transcribe.py E78
 
 Searching for E78
@@ -36,7 +36,7 @@ Detected language: Portuguese
 Outputting transcription for lang pt
 ```
 
-```
+```sh
 tree E78
 E78
 ├── episode_meta.json
